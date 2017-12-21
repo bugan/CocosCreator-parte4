@@ -31,27 +31,12 @@ cc.Class({
         let posicao = this.node.position.add(alcance);
         return posicao;
     },
+    
     possoGerar : function(){
         let distanciaAtual = this.node.position.sub(cc.Camera.main.node.position);
         distanciaAtual = distanciaAtual.mag();
         let longeOSuficiente = distanciaAtual > this._distanciaMinima;
         return longeOSuficiente;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 });
