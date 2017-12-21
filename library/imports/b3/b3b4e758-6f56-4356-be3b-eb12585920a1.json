@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Zumbi",
+    "texture": "afa68cbe-7999-45f5-b059-ed728f90e2e8",
+    "atlas": "",
+    "rect": [
+      48,
+      78,
+      59,
+      62
+    ],
+    "offset": [
+      2.5,
+      -4.5
+    ],
+    "originalSize": [
+      150,
+      209
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Personagem",
+    "texture": "6e6159c5-4bf4-445d-b994-3aa4a806b094",
+    "atlas": "",
+    "rect": [
+      46,
+      73,
+      54,
+      83
+    ],
+    "offset": [
+      -2,
+      -10
+    ],
+    "originalSize": [
+      150,
+      209
+    ]
+  }
+}

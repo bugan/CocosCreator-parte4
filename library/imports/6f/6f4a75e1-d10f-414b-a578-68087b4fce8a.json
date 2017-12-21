@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "walk_left01158",
+    "texture": "70ebecd9-ebd3-4b61-ab81-78bb8c9ed55d",
+    "atlas": "",
+    "rect": [
+      35,
+      62,
+      55,
+      82
+    ],
+    "offset": [
+      -12.5,
+      1.5
+    ],
+    "originalSize": [
+      150,
+      209
+    ]
+  }
+}

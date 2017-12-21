@@ -1,0 +1,4962 @@
+{
+  "f8e6b000-5643-4b86-9080-aa680ce1f599": {
+    "asset": 1512390964962,
+    "meta": 1511295900000,
+    "relativePath": "image"
+  },
+  "71561142-4c83-4933-afca-cb7a17f67053": {
+    "asset": 1511295900000,
+    "meta": 1513693302812,
+    "relativePath": "image\\default_btn_disabled.png"
+  },
+  "e851e89b-faa2-4484-bea6-5c01dd9f06e2": {
+    "asset": 1511295900000,
+    "meta": 1513693302825,
+    "relativePath": "image\\default_btn_normal.png"
+  },
+  "b43ff3c2-02bb-4874-81f7-f2dea6970f18": {
+    "asset": 1511295900000,
+    "meta": 1513693302841,
+    "relativePath": "image\\default_btn_pressed.png"
+  },
+  "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": {
+    "asset": 1511295900000,
+    "meta": 1513693302853,
+    "relativePath": "image\\default_panel.png"
+  },
+  "99170b0b-d210-46f1-b213-7d9e3f23098a": {
+    "asset": 1511295900000,
+    "meta": 1513693302867,
+    "relativePath": "image\\default_progressbar_bg.png"
+  },
+  "cfef78f1-c8df-49b7-8ed0-4c953ace2621": {
+    "asset": 1511295900000,
+    "meta": 1513693302878,
+    "relativePath": "image\\default_progressbar.png"
+  },
+  "567dcd80-8bf4-4535-8a5a-313f1caf078a": {
+    "asset": 1511295900000,
+    "meta": 1513693302894,
+    "relativePath": "image\\default_radio_button_off.png"
+  },
+  "9d60001f-b5f4-4726-a629-2659e3ded0b8": {
+    "asset": 1511295900000,
+    "meta": 1513693302905,
+    "relativePath": "image\\default_radio_button_on.png"
+  },
+  "4bab67cb-18e6-4099-b840-355f0473f890": {
+    "asset": 1511295900000,
+    "meta": 1513693302917,
+    "relativePath": "image\\default_scrollbar_bg.png"
+  },
+  "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": {
+    "asset": 1511295900000,
+    "meta": 1513693302925,
+    "relativePath": "image\\default_scrollbar_vertical_bg.png"
+  },
+  "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": {
+    "asset": 1511295900000,
+    "meta": 1513693302944,
+    "relativePath": "image\\default_scrollbar_vertical.png"
+  },
+  "0291c134-b3da-4098-b7b5-e397edbe947f": {
+    "asset": 1511295900000,
+    "meta": 1513693302950,
+    "relativePath": "image\\default_scrollbar.png"
+  },
+  "0275e94c-56a7-410f-bd1a-fc7483f7d14a": {
+    "asset": 1511295900000,
+    "meta": 1513693302966,
+    "relativePath": "image\\default_sprite_splash.png"
+  },
+  "6e056173-d285-473c-b206-40a7fff5386e": {
+    "asset": 1511295900000,
+    "meta": 1513693302977,
+    "relativePath": "image\\default_sprite.png"
+  },
+  "c25b9d50-c8fc-4d27-beeb-6e7c1f2e5c0f": {
+    "asset": 1511295900000,
+    "meta": 1513693303002,
+    "relativePath": "image\\default_toggle_disabled.png"
+  },
+  "73a0903d-d80e-4e3c-aa67-f999543c08f5": {
+    "asset": 1511295900000,
+    "meta": 1513693302993,
+    "relativePath": "image\\default_toggle_checkmark.png"
+  },
+  "b181c1e4-0a72-4a91-bfb0-ae6f36ca60bd": {
+    "asset": 1511295900000,
+    "meta": 1513693303024,
+    "relativePath": "image\\default_toggle_pressed.png"
+  },
+  "d29077ba-1627-4a72-9579-7b56a235340c": {
+    "asset": 1511295900000,
+    "meta": 1513693303016,
+    "relativePath": "image\\default_toggle_normal.png"
+  },
+  "fc09f9bd-2cce-4605-b630-8145ef809ed6": {
+    "asset": 1512390939806,
+    "meta": 1511295900000,
+    "relativePath": "misc"
+  },
+  "2be36297-9abb-4fee-8049-9ed5e271da8a": {
+    "asset": 1511295900000,
+    "meta": 1511295900000,
+    "relativePath": "misc\\default_video.mp4"
+  },
+  "f6e6dd15-71d1-4ffe-ace7-24fd39942c05": {
+    "asset": 1512390945403,
+    "meta": 1511295900000,
+    "relativePath": "obsolete"
+  },
+  "b8223619-7e38-47c4-841f-9160c232495a": {
+    "asset": 1511295900000,
+    "meta": 1511295900000,
+    "relativePath": "obsolete\\atom.plist"
+  },
+  "f743d2b6-b7ea-4c14-a55b-547ed4d0a045": {
+    "asset": 1512390939821,
+    "meta": 1511295900000,
+    "relativePath": "particle"
+  },
+  "b2687ac4-099e-403c-a192-ff477686f4f5": {
+    "asset": 1511295900000,
+    "meta": 1511295900000,
+    "relativePath": "particle\\atom.plist"
+  },
+  "ae6c6c98-11e4-452f-8758-75f5c6a56e83": {
+    "asset": 1512390968857,
+    "meta": 1511295900000,
+    "relativePath": "prefab"
+  },
+  "972b9a4d-47ee-4c74-b5c3-61d8a69bc29f": {
+    "asset": 1511295900000,
+    "meta": 1513693303036,
+    "relativePath": "prefab\\button.prefab"
+  },
+  "2c937608-2562-40ea-b264-7395df6f0cea": {
+    "asset": 1511295900000,
+    "meta": 1513693303046,
+    "relativePath": "prefab\\canvas.prefab"
+  },
+  "27756ebb-3d33-44b0-9b96-e858fadd4dd4": {
+    "asset": 1511295900000,
+    "meta": 1513693303066,
+    "relativePath": "prefab\\label.prefab"
+  },
+  "61aeb05b-3b32-452b-8eed-2b76deeed554": {
+    "asset": 1511295900000,
+    "meta": 1513693303055,
+    "relativePath": "prefab\\editbox.prefab"
+  },
+  "785a442c-3ceb-45be-a46e-7317f625f3b9": {
+    "asset": 1511295900000,
+    "meta": 1513693303078,
+    "relativePath": "prefab\\layout.prefab"
+  },
+  "ca8401fe-ad6e-41a8-bd46-8e3e4e9945be": {
+    "asset": 1511295900000,
+    "meta": 1513693303090,
+    "relativePath": "prefab\\pageview.prefab"
+  },
+  "cd33edea-55f5-46c2-958d-357a01384a36": {
+    "asset": 1511295900000,
+    "meta": 1513693303103,
+    "relativePath": "prefab\\particlesystem.prefab"
+  },
+  "5965ffac-69da-4b55-bcde-9225d0613c28": {
+    "asset": 1511295900000,
+    "meta": 1513693303111,
+    "relativePath": "prefab\\progressBar.prefab"
+  },
+  "4a37dd57-78cd-4cec-aad4-f11a73d12b63": {
+    "asset": 1511295900000,
+    "meta": 1513693303124,
+    "relativePath": "prefab\\richtext.prefab"
+  },
+  "32044bd2-481f-4cf1-a656-e2b2fb1594eb": {
+    "asset": 1511295900000,
+    "meta": 1513693303135,
+    "relativePath": "prefab\\scrollview.prefab"
+  },
+  "1f55e3be-b89b-4b79-88de-47fd31018044": {
+    "asset": 1511295900000,
+    "meta": 1513693303157,
+    "relativePath": "prefab\\sprite_splash.prefab"
+  },
+  "0004d1cf-a0ad-47d8-ab17-34d3db9d35a3": {
+    "asset": 1511295900000,
+    "meta": 1513693303148,
+    "relativePath": "prefab\\slider.prefab"
+  },
+  "96083d03-c332-4a3f-9386-d03e2d19e8ee": {
+    "asset": 1511295900000,
+    "meta": 1513693303168,
+    "relativePath": "prefab\\sprite.prefab"
+  },
+  "7de03a80-4457-438d-95a7-3e7cdffd6086": {
+    "asset": 1511295900000,
+    "meta": 1513693303184,
+    "relativePath": "prefab\\tiledmap.prefab"
+  },
+  "0d784963-d024-4ea6-a7db-03be0ad63010": {
+    "asset": 1511295900000,
+    "meta": 1513693303195,
+    "relativePath": "prefab\\toggle.prefab"
+  },
+  "bf0a434c-84dd-4a8e-a08a-7a36f180cc75": {
+    "asset": 1511295900000,
+    "meta": 1513693303209,
+    "relativePath": "prefab\\toggleGroup.prefab"
+  },
+  "232d2782-c4bd-4bb4-9e01-909f03d6d3b9": {
+    "asset": 1511295900000,
+    "meta": 1513693303217,
+    "relativePath": "prefab\\videoplayer.prefab"
+  },
+  "8c5001fd-07ee-4a4b-a8a0-63e15195e94d": {
+    "asset": 1511295900000,
+    "meta": 1513693303230,
+    "relativePath": "prefab\\webview.prefab"
+  },
+  "60b72238-1630-4381-9d85-ea738e1881f8": {
+    "asset": 1513267596570,
+    "meta": 1512991334000,
+    "relativePath": "Animacoes"
+  },
+  "3264c940-0da5-4fee-befe-188a8170db54": {
+    "asset": 1513267596562,
+    "meta": 1512991334000,
+    "relativePath": "Animacoes\\Inimigo"
+  },
+  "7c2ba684-1422-4349-8946-c6c28e4186a8": {
+    "asset": 1512991334000,
+    "meta": 1513693310182,
+    "relativePath": "Animacoes\\Inimigo\\AndarBaixo.anim"
+  },
+  "3f3cc8bf-12fe-45e7-8b90-80894b00474c": {
+    "asset": 1512991334000,
+    "meta": 1513693310173,
+    "relativePath": "Animacoes\\Inimigo\\AndarCima.anim"
+  },
+  "5adb0d6c-567d-4e4f-91b7-6dd98c5086b0": {
+    "asset": 1512991336000,
+    "meta": 1513693310190,
+    "relativePath": "Animacoes\\Inimigo\\AndarDireita.anim"
+  },
+  "e040fa14-377d-4f9b-8dee-6845273e349b": {
+    "asset": 1512991336000,
+    "meta": 1513693310208,
+    "relativePath": "Animacoes\\Inimigo\\AndarDireitaBaixo.anim"
+  },
+  "3b11b63a-c79a-466a-93e9-2f5f4b96ce8a": {
+    "asset": 1512991336000,
+    "meta": 1513693310216,
+    "relativePath": "Animacoes\\Inimigo\\AndarDireitaCima.anim"
+  },
+  "c7bbb310-96c2-4718-a82b-a0d2de06f01e": {
+    "asset": 1512991336000,
+    "meta": 1513693310219,
+    "relativePath": "Animacoes\\Inimigo\\AndarEsquerda.anim"
+  },
+  "3ecad944-f223-434f-a968-fdea8ab97902": {
+    "asset": 1512991336000,
+    "meta": 1513693310258,
+    "relativePath": "Animacoes\\Inimigo\\AndarEsquerdaBaixo.anim"
+  },
+  "f20cc5f4-b0ae-4678-aede-8f96490de922": {
+    "asset": 1512991336000,
+    "meta": 1513693310238,
+    "relativePath": "Animacoes\\Inimigo\\AndarEsquerdaCima.anim"
+  },
+  "1d52503c-ec71-46db-a6b8-1769c14c6bd2": {
+    "asset": 1513267596931,
+    "meta": 1512991334000,
+    "relativePath": "Animacoes\\Perosnagem"
+  },
+  "519487fb-fd21-48c0-ad6a-c4af8a96ed8d": {
+    "asset": 1512991336000,
+    "meta": 1513693310269,
+    "relativePath": "Animacoes\\Inimigo\\Parado.anim"
+  },
+  "efda277c-4151-4dcb-9d06-283bae295e71": {
+    "asset": 1512991336000,
+    "meta": 1513693310282,
+    "relativePath": "Animacoes\\Perosnagem\\AndarBaixo.anim"
+  },
+  "ada6e8a6-797d-4e89-a4d8-b9a3e83bf0c1": {
+    "asset": 1512991336000,
+    "meta": 1513693310292,
+    "relativePath": "Animacoes\\Perosnagem\\AndarCima.anim"
+  },
+  "f1dce304-c852-40a5-9548-9648572f11f9": {
+    "asset": 1512991336000,
+    "meta": 1513693310306,
+    "relativePath": "Animacoes\\Perosnagem\\AndarDireita.anim"
+  },
+  "360eb438-7a5a-4212-a4ec-f9a29b2e895f": {
+    "asset": 1512991336000,
+    "meta": 1513693310298,
+    "relativePath": "Animacoes\\Perosnagem\\AndarDireitaBaixo.anim"
+  },
+  "e009cca8-cd5e-43ed-a05d-3b43d9739fcc": {
+    "asset": 1512991336000,
+    "meta": 1513693310327,
+    "relativePath": "Animacoes\\Perosnagem\\AndarDireitaCima.anim"
+  },
+  "7814c87f-da82-4fd1-ac3c-fb03a2051be5": {
+    "asset": 1512991336000,
+    "meta": 1513693310324,
+    "relativePath": "Animacoes\\Perosnagem\\AndarEsquerda.anim"
+  },
+  "25134635-5600-4996-b9e2-49bcd3e861f4": {
+    "asset": 1512991336000,
+    "meta": 1513693310337,
+    "relativePath": "Animacoes\\Perosnagem\\AndarEsquerdaBaixo.anim"
+  },
+  "00b96040-f7c1-499f-9690-e85fb2d15ee4": {
+    "asset": 1512991336000,
+    "meta": 1513693310366,
+    "relativePath": "Animacoes\\Perosnagem\\AndarEsquerdaCima.anim"
+  },
+  "c50753af-e6e9-4f29-954e-44fd19c42025": {
+    "asset": 1512991336000,
+    "meta": 1513693310353,
+    "relativePath": "Animacoes\\Perosnagem\\ParadoBaixo.anim"
+  },
+  "40cd45e3-fce8-4926-9829-4118ef67082a": {
+    "asset": 1512991336000,
+    "meta": 1513693310371,
+    "relativePath": "Animacoes\\Perosnagem\\ParadoCima.anim"
+  },
+  "b09eb6c3-b871-4b3c-b256-cd9e776cde28": {
+    "asset": 1512991336000,
+    "meta": 1513693310380,
+    "relativePath": "Animacoes\\Perosnagem\\ParadoDireita.anim"
+  },
+  "efed7630-93d5-4249-93b2-07acd711596e": {
+    "asset": 1512991336000,
+    "meta": 1513693310388,
+    "relativePath": "Animacoes\\Perosnagem\\ParadoDireitaBaixo.anim"
+  },
+  "40824653-66aa-4efd-8aa2-2d2832120862": {
+    "asset": 1512991336000,
+    "meta": 1513693310398,
+    "relativePath": "Animacoes\\Perosnagem\\ParadoDireitaCima.anim"
+  },
+  "072c3898-cde4-4817-8122-b18604ee1abf": {
+    "asset": 1512991336000,
+    "meta": 1513693310407,
+    "relativePath": "Animacoes\\Perosnagem\\ParadoEsquerda.anim"
+  },
+  "c5027403-2002-4da6-8919-6f795e3825ed": {
+    "asset": 1512991336000,
+    "meta": 1513693310415,
+    "relativePath": "Animacoes\\Perosnagem\\ParadoEsquerdaBaixo.anim"
+  },
+  "139bb71b-a772-4f24-b06c-1a85bad78e13": {
+    "asset": 1513267612461,
+    "meta": 1512991334000,
+    "relativePath": "Imagens"
+  },
+  "7a730362-72ed-4a7c-ba2d-af00fa6619ab": {
+    "asset": 1513267597828,
+    "meta": 1512991336000,
+    "relativePath": "Imagens\\Cenario"
+  },
+  "a7a1e2f9-f80c-4915-8b57-d14f677cf758": {
+    "asset": 1512991336000,
+    "meta": 1513693310422,
+    "relativePath": "Animacoes\\Perosnagem\\ParadoEsquerdaCima.anim"
+  },
+  "3b9c6b61-b1e8-4189-abbf-0e2c22710acf": {
+    "asset": 1512991336000,
+    "meta": 1513693310489,
+    "relativePath": "Imagens\\Cenario\\estacionamento.png"
+  },
+  "40468ddf-ee3f-4eb8-aa6c-08a775bdf706": {
+    "asset": 1512991336000,
+    "meta": 1513693310602,
+    "relativePath": "Imagens\\Cenario\\Loja.png"
+  },
+  "07b4c7f7-8db2-4594-86ff-017ef37c4b32": {
+    "asset": 1512991336000,
+    "meta": 1513693310618,
+    "relativePath": "Imagens\\Cenario\\Mecanico.png"
+  },
+  "bf52b5a8-2f66-460f-8d40-7b5416165559": {
+    "asset": 1512991336000,
+    "meta": 1513693310734,
+    "relativePath": "Imagens\\Cenario\\Motel.png"
+  },
+  "d3fc2ccf-c9a4-4700-a7de-5217ea4531f6": {
+    "asset": 1513267610765,
+    "meta": 1512991336000,
+    "relativePath": "Imagens\\Personagem"
+  },
+  "a3825c11-4b34-4f26-a449-2d4869b1e785": {
+    "asset": 1513267598751,
+    "meta": 1512991336000,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo"
+  },
+  "6e6159c5-4bf4-445d-b994-3aa4a806b094": {
+    "asset": 1512991336000,
+    "meta": 1513693310688,
+    "relativePath": "Imagens\\Personagem.png"
+  },
+  "2217154d-cfb7-4167-8933-d767d77c9ccf": {
+    "asset": 1512991338000,
+    "meta": 1513693310718,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00933.png"
+  },
+  "120ab697-82dc-4efc-b1d8-2309ced0af6f": {
+    "asset": 1512991338000,
+    "meta": 1513693310762,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00934.png"
+  },
+  "c23f3f70-a068-4e09-aa3e-07254ed21500": {
+    "asset": 1512991338000,
+    "meta": 1513693310753,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00935.png"
+  },
+  "12fb9b08-cca7-4007-836d-3e3b474a66ba": {
+    "asset": 1512991338000,
+    "meta": 1513693310778,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00937.png"
+  },
+  "4f3e9d66-603f-4130-8dfb-069f883f97a0": {
+    "asset": 1512991338000,
+    "meta": 1513693310789,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00936.png"
+  },
+  "30420c60-45f0-4077-b1cb-2a67a03d1240": {
+    "asset": 1512991338000,
+    "meta": 1513693310819,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00939.png"
+  },
+  "4df6e8ac-2416-4045-b05b-51accae4cfdb": {
+    "asset": 1512991338000,
+    "meta": 1513693310813,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00938.png"
+  },
+  "8a9fec4e-7b2b-4b79-86ee-bb7880194edd": {
+    "asset": 1512991338000,
+    "meta": 1513693310844,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00940.png"
+  },
+  "c7f3482b-36a6-4938-8c67-0070185c1ad7": {
+    "asset": 1512991338000,
+    "meta": 1513693310832,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00941.png"
+  },
+  "351ed346-b636-4e1c-8dbb-512dd3e201c9": {
+    "asset": 1512991338000,
+    "meta": 1513693310861,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00942.png"
+  },
+  "55e1ed1d-1f1f-4f96-b34d-43da8def5a1c": {
+    "asset": 1512991338000,
+    "meta": 1513693310869,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00943.png"
+  },
+  "9b26856b-e120-4c1c-89d4-7674ad64f6a2": {
+    "asset": 1512991338000,
+    "meta": 1513693310884,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00944.png"
+  },
+  "2353d97e-30cc-4457-a5ba-28be7c7a4d30": {
+    "asset": 1512991338000,
+    "meta": 1513693310892,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00945.png"
+  },
+  "4dadc024-3fe1-4099-baba-dfeb7389094c": {
+    "asset": 1512991338000,
+    "meta": 1513693310916,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00946.png"
+  },
+  "056930c0-c3d2-4bc5-b4a0-5148906cc514": {
+    "asset": 1512991338000,
+    "meta": 1513693310910,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00947.png"
+  },
+  "3642a566-68a8-4635-99ac-abf6f5acacf3": {
+    "asset": 1512991338000,
+    "meta": 1513693310931,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00949.png"
+  },
+  "d1e36586-b070-4988-a8ca-46a99a6d9c7d": {
+    "asset": 1512991338000,
+    "meta": 1513693310935,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00948.png"
+  },
+  "9a9dd535-be3c-4ae9-8fae-8590dc55b4c5": {
+    "asset": 1512991338000,
+    "meta": 1513693310958,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00950.png"
+  },
+  "a1c5b4ed-0682-47d0-aae2-1eb34bbcb64a": {
+    "asset": 1512991338000,
+    "meta": 1513693310963,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00951.png"
+  },
+  "b865c19b-b6d1-4bc1-b2ba-f2971d597d0a": {
+    "asset": 1512991338000,
+    "meta": 1513693310990,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00953.png"
+  },
+  "cdb73a7c-a098-4ce0-94a2-ba158785c3be": {
+    "asset": 1512991338000,
+    "meta": 1513693310979,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00952.png"
+  },
+  "d437278c-c5f5-4c41-8ee4-aaa7a5ab0df5": {
+    "asset": 1512991338000,
+    "meta": 1513693311009,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00954.png"
+  },
+  "b02a9a5e-7331-4f73-8677-b7307bd58739": {
+    "asset": 1512991338000,
+    "meta": 1513693311012,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00955.png"
+  },
+  "2c06d5c5-0039-4b0a-befe-a73b2d790196": {
+    "asset": 1512991338000,
+    "meta": 1513693311040,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00956.png"
+  },
+  "d6eec51f-2af0-49b1-a870-46d7a6579322": {
+    "asset": 1512991338000,
+    "meta": 1513693311035,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00957.png"
+  },
+  "e48ce2d6-ecde-449a-a5ec-5f52218d7bb6": {
+    "asset": 1512991338000,
+    "meta": 1513693311051,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00959.png"
+  },
+  "ffdde78c-e000-4775-a5ab-54021679f88d": {
+    "asset": 1512991338000,
+    "meta": 1513693311070,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00958.png"
+  },
+  "a015f0c6-7497-4874-8d05-f7ede500457d": {
+    "asset": 1512991338000,
+    "meta": 1513693311103,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00961.png"
+  },
+  "f41fdd1b-c05f-474c-a85a-6e88f6a5abd7": {
+    "asset": 1512991338000,
+    "meta": 1513693311080,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00960.png"
+  },
+  "328ef816-783e-44e4-bcd3-a9877182e6f0": {
+    "asset": 1512991338000,
+    "meta": 1513693311146,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00963.png"
+  },
+  "2696c00f-9f8d-49bf-9972-c7bcfb0bb5c9": {
+    "asset": 1512991338000,
+    "meta": 1513693311108,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00962.png"
+  },
+  "df853e26-99d7-41ad-bdef-daf1d51b5972": {
+    "asset": 1512991338000,
+    "meta": 1513693311117,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00964.png"
+  },
+  "49d5325b-d333-421b-ba93-48d1d1c43a37": {
+    "asset": 1512991338000,
+    "meta": 1513693311151,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00965.png"
+  },
+  "c9759a34-a305-4a67-97c8-c4c8931c4493": {
+    "asset": 1513267598991,
+    "meta": 1512991336000,
+    "relativePath": "Imagens\\Personagem\\AndarCima"
+  },
+  "d910682d-531b-4e17-a434-ed24ddcf4874": {
+    "asset": 1512991338000,
+    "meta": 1513693311168,
+    "relativePath": "Imagens\\Personagem\\AndarBaixo\\walk_bottom00966.png"
+  },
+  "1e383385-5f0d-4819-ac27-fd69a86ecd6c": {
+    "asset": 1512991338000,
+    "meta": 1513693311178,
+    "relativePath": "Imagens\\Personagem\\AndarCima\\walk_top00000.png"
+  },
+  "db1efcca-bf4e-419e-9e08-93db1512f743": {
+    "asset": 1512991338000,
+    "meta": 1513693311232,
+    "relativePath": "Imagens\\Personagem\\AndarCima\\walk_top00001.png"
+  },
+  "91123c51-fdfd-41d6-90fe-790debce9b38": {
+    "asset": 1512991338000,
+    "meta": 1513693311241,
+    "relativePath": "Imagens\\Personagem\\AndarCima\\walk_top00002.png"
+  },
+  "77fdb3be-6430-45f4-9516-a76be2272324": {
+    "asset": 1512991338000,
+    "meta": 1513693311257,
+    "relativePath": "Imagens\\Personagem\\AndarCima\\walk_top00003.png"
+  },
+  "a3f5a1f2-faa6-42bf-9386-04323de27894": {
+    "asset": 1512991338000,
+    "meta": 1513693311262,
+    "relativePath": "Imagens\\Personagem\\AndarCima\\walk_top00004.png"
+  },
+  "6144f221-b857-41fe-b263-a3b617ab3ca0": {
+    "asset": 1512991338000,
+    "meta": 1513693311285,
+    "relativePath": "Imagens\\Personagem\\AndarCima\\walk_top00005.png"
+  },
+  "db614237-864c-4502-82f0-4b5e96231bcd": {
+    "asset": 1512991338000,
+    "meta": 1513693311278,
+    "relativePath": "Imagens\\Personagem\\AndarCima\\walk_top00006.png"
+  },
+  "e06456f4-da2f-4179-8b80-f9897004f451": {
+    "asset": 1512991338000,
+    "meta": 1513693311301,
+    "relativePath": "Imagens\\Personagem\\AndarCima\\walk_top00007.png"
+  },
+  "98d9445a-5895-48a2-9574-05a3714b2b07": {
+    "asset": 1512991338000,
+    "meta": 1513693311308,
+    "relativePath": "Imagens\\Personagem\\AndarCima\\walk_top00008.png"
+  },
+  "77409d55-a33e-435b-b17a-5f7ccecffe2a": {
+    "asset": 1512991338000,
+    "meta": 1513693311334,
+    "relativePath": "Imagens\\Personagem\\AndarCima\\walk_top00009.png"
+  },
+  "20d0c8e9-c728-4cdb-ab0e-2923d8d2f343": {
+    "asset": 1512991338000,
+    "meta": 1513693311324,
+    "relativePath": "Imagens\\Personagem\\AndarCima\\walk_top00010.png"
+  },
+  "b2d07894-7bda-4308-aa81-9fc68505df04": {
+    "asset": 1513267599165,
+    "meta": 1512991336000,
+    "relativePath": "Imagens\\Personagem\\AndarDireita"
+  },
+  "bdc32ec8-4d49-4ce3-bab4-d42fec3df2d1": {
+    "asset": 1512991338000,
+    "meta": 1513693311349,
+    "relativePath": "Imagens\\Personagem\\AndarCima\\walk_top00011.png"
+  },
+  "42970e25-e2f0-41f5-b012-a2cf92abf62d": {
+    "asset": 1512991338000,
+    "meta": 1513693311360,
+    "relativePath": "Imagens\\Personagem\\AndarDireita\\walk_left00003.png"
+  },
+  "83c81857-5e37-4e11-ad3e-0a8cdaf40faa": {
+    "asset": 1512991338000,
+    "meta": 1513693311385,
+    "relativePath": "Imagens\\Personagem\\AndarDireita\\walk_left00004.png"
+  },
+  "a0e8e22d-cd6e-45a0-8cc6-2409edfe151c": {
+    "asset": 1512991338000,
+    "meta": 1513693311378,
+    "relativePath": "Imagens\\Personagem\\AndarDireita\\walk_left00005.png"
+  },
+  "d55d0c2e-b5ab-4731-b35f-515d7b73ae75": {
+    "asset": 1512991338000,
+    "meta": 1513693311404,
+    "relativePath": "Imagens\\Personagem\\AndarDireita\\walk_left00007.png"
+  },
+  "e32e7d61-1cc3-4f58-ad85-e420223baedb": {
+    "asset": 1512991338000,
+    "meta": 1513693311410,
+    "relativePath": "Imagens\\Personagem\\AndarDireita\\walk_left00006.png"
+  },
+  "6451949b-a523-4ef7-86f4-0019d3d5075d": {
+    "asset": 1512991338000,
+    "meta": 1513693311428,
+    "relativePath": "Imagens\\Personagem\\AndarDireita\\walk_left00008.png"
+  },
+  "f5bab544-274f-42da-ba86-2bfd1de218d3": {
+    "asset": 1512991338000,
+    "meta": 1513693311421,
+    "relativePath": "Imagens\\Personagem\\AndarDireita\\walk_left00009.png"
+  },
+  "c65467d3-2e2e-4030-96b8-75fa22a727b6": {
+    "asset": 1512991338000,
+    "meta": 1513693311446,
+    "relativePath": "Imagens\\Personagem\\AndarDireita\\walk_left00011.png"
+  },
+  "7c5aec51-9b13-4084-88ad-5e19a73caecf": {
+    "asset": 1512991338000,
+    "meta": 1513693311456,
+    "relativePath": "Imagens\\Personagem\\AndarDireita\\walk_left00010.png"
+  },
+  "f9591574-d17c-4498-92dd-efdd8742bb89": {
+    "asset": 1513267599884,
+    "meta": 1512991336000,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo"
+  },
+  "4ce38385-9c24-4617-b1e8-d0688758fd40": {
+    "asset": 1512991338000,
+    "meta": 1513693311485,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00690.png"
+  },
+  "ca543e74-3e24-4da3-b134-4430615d59d4": {
+    "asset": 1512991338000,
+    "meta": 1513693311477,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00691.png"
+  },
+  "0118176a-9201-462a-bec6-435dfd50153a": {
+    "asset": 1512991338000,
+    "meta": 1513693311502,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00693.png"
+  },
+  "6fcf291d-d57f-4c04-aab2-48843ba29924": {
+    "asset": 1512991338000,
+    "meta": 1513693311513,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00692.png"
+  },
+  "f340ee7a-59a7-4ee2-beae-90a5079219a7": {
+    "asset": 1512991338000,
+    "meta": 1513693311527,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00694.png"
+  },
+  "20682c9f-d652-4003-8db6-da3105219a94": {
+    "asset": 1512991338000,
+    "meta": 1513693311537,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00695.png"
+  },
+  "445a211a-1f78-4dd9-a482-9b3d9a66f755": {
+    "asset": 1512991338000,
+    "meta": 1513693311587,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00696.png"
+  },
+  "d3b79589-bc89-4cce-b355-7d12ebd06800": {
+    "asset": 1512991338000,
+    "meta": 1513693311577,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00697.png"
+  },
+  "9a66d845-4384-46f8-9e32-3106e413d6be": {
+    "asset": 1512991338000,
+    "meta": 1513693311609,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00699.png"
+  },
+  "0b8ad1e1-446b-4549-afe5-4a5ca4989f1a": {
+    "asset": 1512991338000,
+    "meta": 1513693311601,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00698.png"
+  },
+  "a1a1950b-a3c7-45be-bdca-93eed19333bf": {
+    "asset": 1512991338000,
+    "meta": 1513693311631,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00700.png"
+  },
+  "d30aa7ea-b2af-465c-8b6f-0a1fbb4ef462": {
+    "asset": 1512991338000,
+    "meta": 1513693311623,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00701.png"
+  },
+  "5d60c833-e9b5-4e41-8009-70efa91f7d98": {
+    "asset": 1512991338000,
+    "meta": 1513693311671,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00702.png"
+  },
+  "e5e62a6a-f1be-40b6-9f6c-274a681c8ca8": {
+    "asset": 1512991338000,
+    "meta": 1513693311666,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00703.png"
+  },
+  "ec14e526-e362-4ec3-a25d-c5c114d76c41": {
+    "asset": 1512991338000,
+    "meta": 1513693311689,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00704.png"
+  },
+  "31e4bf22-a1c4-4e29-88f8-63276cbacd92": {
+    "asset": 1512991338000,
+    "meta": 1513693311696,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00705.png"
+  },
+  "6df66696-8b62-4243-8870-0fb8c52d532c": {
+    "asset": 1512991338000,
+    "meta": 1513693311715,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00706.png"
+  },
+  "a2ec426d-5c4c-4463-bdf4-9e0cfbb52c63": {
+    "asset": 1512991338000,
+    "meta": 1513693311723,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00707.png"
+  },
+  "3692a186-3f50-49e9-bbb3-42bf2418c9e3": {
+    "asset": 1512991338000,
+    "meta": 1513693311746,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00709.png"
+  },
+  "80cd7155-584d-4c07-8e64-aad556ebc824": {
+    "asset": 1512991338000,
+    "meta": 1513693311760,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00708.png"
+  },
+  "b3c7712c-d0b0-4ffa-8336-87e69f59ced2": {
+    "asset": 1512991338000,
+    "meta": 1513693311770,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00710.png"
+  },
+  "0bbb8b5b-011c-432a-8e99-4efbb9c9dcbe": {
+    "asset": 1512991338000,
+    "meta": 1513693311787,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00711.png"
+  },
+  "8821163b-f26f-4739-91a7-7c2b93798d7f": {
+    "asset": 1512991338000,
+    "meta": 1513693311802,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00712.png"
+  },
+  "c5b647d5-57ab-46f2-aaa1-21d876c80c4f": {
+    "asset": 1512991338000,
+    "meta": 1513693311830,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00713.png"
+  },
+  "53c4b996-a326-43ff-a40f-cc0eeefa7394": {
+    "asset": 1512991338000,
+    "meta": 1513693311818,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00714.png"
+  },
+  "a4a2d66c-0d6f-47f5-864b-380be23361ad": {
+    "asset": 1512991338000,
+    "meta": 1513693311850,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00715.png"
+  },
+  "3be7a446-6786-46c4-a3e2-45ddc2877ae3": {
+    "asset": 1512991338000,
+    "meta": 1513693311875,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00717.png"
+  },
+  "e55f3327-6ddc-4183-9b00-6e3768bccc1d": {
+    "asset": 1512991338000,
+    "meta": 1513693311857,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00716.png"
+  },
+  "c7864349-df05-455c-a4ad-b25fe459335b": {
+    "asset": 1512991338000,
+    "meta": 1513693311905,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00719.png"
+  },
+  "1bcf9fb6-59d2-4515-8833-5a4179592a79": {
+    "asset": 1512991338000,
+    "meta": 1513693311879,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00718.png"
+  },
+  "548a548d-0b29-40ff-8b33-f21821ecfb7c": {
+    "asset": 1512991338000,
+    "meta": 1513693311903,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00720.png"
+  },
+  "4499c643-5d30-49c6-84f6-2b48aef2cbf5": {
+    "asset": 1512991338000,
+    "meta": 1513693311933,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00721.png"
+  },
+  "4257e09d-09e0-4ed0-9bd8-88ddbde1058d": {
+    "asset": 1512991340000,
+    "meta": 1513693311922,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00722.png"
+  },
+  "d38f4c58-5a46-4161-8658-537659662905": {
+    "asset": 1512991340000,
+    "meta": 1513693312188,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaBaixo\\walk_bottom_45_r_00723.png"
+  },
+  "b52f5371-69af-4859-adf3-9b9b43da5206": {
+    "asset": 1513267602316,
+    "meta": 1512991336000,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima"
+  },
+  "fed762c9-67da-4dda-b412-58a4d1e48563": {
+    "asset": 1512991340000,
+    "meta": 1513693312201,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00000.png"
+  },
+  "ebe25f79-0ca6-4908-a26e-54b1296b798d": {
+    "asset": 1512991340000,
+    "meta": 1513693312212,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00001.png"
+  },
+  "ec6487f6-e27f-4dea-badf-6c4f650b2bfb": {
+    "asset": 1512991340000,
+    "meta": 1513693312239,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00002.png"
+  },
+  "7067e231-4922-4940-811a-4306aa1107b1": {
+    "asset": 1512991340000,
+    "meta": 1513693312231,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00003.png"
+  },
+  "4bce3360-e734-408a-a5cc-af6f3ae49c8b": {
+    "asset": 1512991340000,
+    "meta": 1513693312274,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00005.png"
+  },
+  "5200cc26-3a4d-468c-a6f1-4c71fedbb0c2": {
+    "asset": 1512991340000,
+    "meta": 1513693312264,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00004.png"
+  },
+  "bb81223f-7c36-47ef-a720-9ad1f7a61b8f": {
+    "asset": 1512991340000,
+    "meta": 1513693312292,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00007.png"
+  },
+  "3df3c8e3-5987-4155-937f-8741dd907e18": {
+    "asset": 1512991340000,
+    "meta": 1513693312301,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00006.png"
+  },
+  "47306f6b-c95a-4abe-9db0-1a99cb7edcb6": {
+    "asset": 1512991340000,
+    "meta": 1513693312317,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00008.png"
+  },
+  "7c55b669-dc84-4df7-8873-7c62cb069955": {
+    "asset": 1512991340000,
+    "meta": 1513693312328,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00009.png"
+  },
+  "e0decd30-0098-4eb5-9d00-dfd1e424b2b0": {
+    "asset": 1512991340000,
+    "meta": 1513693312370,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00011.png"
+  },
+  "7a1e3e22-ad7b-4adc-aaaf-85fcee688642": {
+    "asset": 1512991340000,
+    "meta": 1513693312360,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00010.png"
+  },
+  "fc27bada-afb7-4c44-a90a-e1a7aa27b104": {
+    "asset": 1512991340000,
+    "meta": 1513693312405,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00012.png"
+  },
+  "472cefa4-030d-43c0-b7a8-6e6f79c3cf09": {
+    "asset": 1512991340000,
+    "meta": 1513693312412,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00013.png"
+  },
+  "cf22cc2a-b49a-4407-8b47-454ebbd1bb7e": {
+    "asset": 1512991340000,
+    "meta": 1513693312432,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00014.png"
+  },
+  "bac62f99-7f5a-4c3f-ab45-7cf155e0fb60": {
+    "asset": 1512991340000,
+    "meta": 1513693312448,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00015.png"
+  },
+  "70bcf4f1-162c-4998-81d0-719568d42a6f": {
+    "asset": 1512991340000,
+    "meta": 1513693312474,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00017.png"
+  },
+  "59e2efc9-eb9a-4d47-a3ff-3ba6fa21568f": {
+    "asset": 1512991340000,
+    "meta": 1513693312458,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00016.png"
+  },
+  "2a1e0781-c5b4-4387-be48-a93cf058227e": {
+    "asset": 1512991340000,
+    "meta": 1513693312486,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00018.png"
+  },
+  "c41c9c4e-7833-4946-9696-aae31bbf531e": {
+    "asset": 1512991340000,
+    "meta": 1513693312505,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00019.png"
+  },
+  "9a2de526-c73d-4421-8115-6817747d014a": {
+    "asset": 1512991340000,
+    "meta": 1513693312513,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00020.png"
+  },
+  "a7744725-e62d-4c47-b51d-d12fe4da0018": {
+    "asset": 1512991340000,
+    "meta": 1513693312529,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00021.png"
+  },
+  "44574454-a318-44db-90ac-45032d4a1246": {
+    "asset": 1512991340000,
+    "meta": 1513693312536,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00022.png"
+  },
+  "e00c585a-3599-4453-a3ce-58344f05ca85": {
+    "asset": 1512991340000,
+    "meta": 1513693312552,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00023.png"
+  },
+  "52ed296b-87f2-4cfd-861e-aa82f44a49b8": {
+    "asset": 1512991340000,
+    "meta": 1513693312581,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00025.png"
+  },
+  "c54f01cb-747f-42c5-bbd6-dede6a965bfd": {
+    "asset": 1512991340000,
+    "meta": 1513693312568,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00024.png"
+  },
+  "3d243994-c10e-4110-b22e-0760b0e35064": {
+    "asset": 1512991340000,
+    "meta": 1513693312592,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00026.png"
+  },
+  "ca9f2ac2-79bf-4fdf-9165-d27bbec40bdf": {
+    "asset": 1512991340000,
+    "meta": 1513693312616,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00027.png"
+  },
+  "25dec71b-9869-49da-8d71-1319fd6cf6fa": {
+    "asset": 1512991340000,
+    "meta": 1513693312607,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00028.png"
+  },
+  "3525ef5c-2ffb-4d2e-8c44-c3c37d340b49": {
+    "asset": 1512991340000,
+    "meta": 1513693312647,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00029.png"
+  },
+  "90d38b68-4ad7-40db-b75a-3814488ea896": {
+    "asset": 1512991340000,
+    "meta": 1513693312636,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00030.png"
+  },
+  "2ea9f3f1-f197-4323-b12c-13f9c791a51c": {
+    "asset": 1512991340000,
+    "meta": 1513693312684,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00031.png"
+  },
+  "85f1830e-a06f-435d-91d4-317f8ee736ac": {
+    "asset": 1512991340000,
+    "meta": 1513693312708,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00033.png"
+  },
+  "9823cff4-8311-4b84-b782-b951a1f3f211": {
+    "asset": 1512991340000,
+    "meta": 1513693312676,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00032.png"
+  },
+  "239fbfe5-1ccb-4524-badc-3fd8bcec4516": {
+    "asset": 1512991340000,
+    "meta": 1513693312730,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00035.png"
+  },
+  "04892d26-d6a1-4d7e-bac3-6ce75fb64d41": {
+    "asset": 1512991340000,
+    "meta": 1513693312702,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00034.png"
+  },
+  "3f1e140f-83f9-474b-8e03-ab30a8fdaef6": {
+    "asset": 1512991340000,
+    "meta": 1513693312727,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00036.png"
+  },
+  "47d5e235-6f08-4c13-bac1-969b3e5f90bb": {
+    "asset": 1512991340000,
+    "meta": 1513693312749,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00037.png"
+  },
+  "4ff82f89-edd6-4753-b7ac-e63554550527": {
+    "asset": 1512991340000,
+    "meta": 1513693312759,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00038.png"
+  },
+  "d5ab8098-c2c5-406d-94dc-8e4ce53a7203": {
+    "asset": 1512991340000,
+    "meta": 1513693312779,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00039.png"
+  },
+  "3597738e-4a2d-466c-b4a2-4f6b7e475ab4": {
+    "asset": 1512991340000,
+    "meta": 1513693312809,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00041.png"
+  },
+  "c7bd2246-24ac-4f79-9a9a-2c4a403f74f3": {
+    "asset": 1512991340000,
+    "meta": 1513693312786,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00040.png"
+  },
+  "cf97a8aa-3a72-42d5-94ac-8d1a2dc98301": {
+    "asset": 1512991340000,
+    "meta": 1513693312817,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00042.png"
+  },
+  "b157bbc8-c8f9-4ff6-84e2-1210945d9293": {
+    "asset": 1512991340000,
+    "meta": 1513693312835,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00043.png"
+  },
+  "b9cdccc7-2c97-4c07-b7fe-ed2617b491f6": {
+    "asset": 1512991340000,
+    "meta": 1513693312863,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00045.png"
+  },
+  "bc5dcace-6c58-4ed9-84cb-b6b6e1652bc7": {
+    "asset": 1512991340000,
+    "meta": 1513693312844,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00044.png"
+  },
+  "1b2c1298-6ca0-4fe8-8e3d-623ee1169741": {
+    "asset": 1512991340000,
+    "meta": 1513693312867,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00046.png"
+  },
+  "3702b166-54a1-44ab-a971-257628c9c75a": {
+    "asset": 1512991340000,
+    "meta": 1513693312885,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00047.png"
+  },
+  "f9476b28-2b0b-49fd-acff-6c73e4be70e5": {
+    "asset": 1512991340000,
+    "meta": 1513693312896,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00048.png"
+  },
+  "18ed347b-a78a-4173-baed-f548ade2c7c0": {
+    "asset": 1512991340000,
+    "meta": 1513693312956,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00049.png"
+  },
+  "6202912f-2f2a-49e5-ad4e-f3afeb91c1f3": {
+    "asset": 1512991340000,
+    "meta": 1513693312980,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00051.png"
+  },
+  "840171e3-714b-472a-b115-b1253ee5bc4f": {
+    "asset": 1512991340000,
+    "meta": 1513693312964,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00050.png"
+  },
+  "eb6e6c3e-9ea7-4044-9094-3acd0996635c": {
+    "asset": 1512991340000,
+    "meta": 1513693312984,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00052.png"
+  },
+  "4d9452a7-47c3-447f-8fc5-1753a7bb6073": {
+    "asset": 1512991340000,
+    "meta": 1513693313029,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00053.png"
+  },
+  "0e16dfb5-8c08-496c-b81f-c11527e7d558": {
+    "asset": 1512991340000,
+    "meta": 1513693313051,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00055.png"
+  },
+  "5bf6044c-7345-4b53-8d58-4dfba6216cee": {
+    "asset": 1512991340000,
+    "meta": 1513693313022,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00054.png"
+  },
+  "8a680a18-cb4a-46ae-bbc0-8cea5ea20e93": {
+    "asset": 1512991340000,
+    "meta": 1513693313041,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00056.png"
+  },
+  "95c5d76f-5b55-4496-b4df-75aa9d43e7f5": {
+    "asset": 1512991340000,
+    "meta": 1513693313079,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00057.png"
+  },
+  "6fa78b1c-d40c-479a-aaef-4bc45572757e": {
+    "asset": 1512991340000,
+    "meta": 1513693313120,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00059.png"
+  },
+  "8f5c8cb2-4600-4ed6-9cef-bb956c01a387": {
+    "asset": 1512991340000,
+    "meta": 1513693313087,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00058.png"
+  },
+  "5ea5e7dc-4753-491a-a357-c90e397f6d33": {
+    "asset": 1512991340000,
+    "meta": 1513693313116,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00060.png"
+  },
+  "98c6894e-5531-4ae5-8000-2611acf0a9ac": {
+    "asset": 1512991340000,
+    "meta": 1513693313134,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00061.png"
+  },
+  "5d882f27-c83c-45ce-a54a-10780bb46466": {
+    "asset": 1512991340000,
+    "meta": 1513693313192,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00062.png"
+  },
+  "5859e0e5-722c-4bf1-b150-ff09ef7e9e46": {
+    "asset": 1512991340000,
+    "meta": 1513693313181,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00063.png"
+  },
+  "133cead1-a340-46fb-b126-f2fe9c4f865c": {
+    "asset": 1512991340000,
+    "meta": 1513693313212,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00064.png"
+  },
+  "91561ac8-4f70-49bb-bddf-a5085a9a60d7": {
+    "asset": 1512991340000,
+    "meta": 1513693313218,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00065.png"
+  },
+  "c1ca7f79-01fc-4a43-975c-fbf7aeb04b63": {
+    "asset": 1512991340000,
+    "meta": 1513693313238,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00067.png"
+  },
+  "d9fe88c0-586d-49a8-a433-5608e3633189": {
+    "asset": 1512991340000,
+    "meta": 1513693313236,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00066.png"
+  },
+  "cd5bac55-a1e1-4ffb-8a3b-4ebd69e618aa": {
+    "asset": 1512991340000,
+    "meta": 1513693313292,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00068.png"
+  },
+  "65ac57f5-8007-4c4b-a94d-714461d5aaf2": {
+    "asset": 1512991340000,
+    "meta": 1513693313281,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00069.png"
+  },
+  "03934d87-6b56-4c5c-9642-543de81a842c": {
+    "asset": 1512991340000,
+    "meta": 1513693313365,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00070.png"
+  },
+  "ada17a78-0448-43f6-9ccb-dffa4d66c325": {
+    "asset": 1512991340000,
+    "meta": 1513693313373,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00071.png"
+  },
+  "babae0a1-639e-4622-b280-93cfc64e5552": {
+    "asset": 1512991340000,
+    "meta": 1513693313390,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00073.png"
+  },
+  "b3bd9354-ea11-45f8-b291-921fd650c37c": {
+    "asset": 1512991340000,
+    "meta": 1513693313412,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00072.png"
+  },
+  "8642f6fc-1cb6-473b-af60-6ef13965fe3c": {
+    "asset": 1512991340000,
+    "meta": 1513693313430,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00075.png"
+  },
+  "702c70c7-fdf2-40cd-ae95-de15db676157": {
+    "asset": 1512991340000,
+    "meta": 1513693313405,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00074.png"
+  },
+  "fe5d0a17-5ea7-4ac0-9321-d3e09db96ec2": {
+    "asset": 1512991340000,
+    "meta": 1513693313437,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00076.png"
+  },
+  "afb06f71-e9dd-46bc-b32e-820e08ccf4a0": {
+    "asset": 1512991340000,
+    "meta": 1513693313451,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00077.png"
+  },
+  "1f29d05f-03c6-4a7a-93aa-aae74e3f26fb": {
+    "asset": 1512991340000,
+    "meta": 1513693313467,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00078.png"
+  },
+  "838e9d9d-5b11-40c1-85ef-26a5d0824ddb": {
+    "asset": 1512991340000,
+    "meta": 1513693313475,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00079.png"
+  },
+  "337d5888-dd0a-431c-9003-cdc895d4153c": {
+    "asset": 1512991340000,
+    "meta": 1513693313503,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00081.png"
+  },
+  "5d3968ef-b91c-4432-8760-2f33bb4273c8": {
+    "asset": 1512991340000,
+    "meta": 1513693313495,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00080.png"
+  },
+  "9a215962-a763-4ee8-84c7-55f25768471d": {
+    "asset": 1512991340000,
+    "meta": 1513693313523,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00082.png"
+  },
+  "f52382c7-c7e1-48b2-be64-c3c5dafdae06": {
+    "asset": 1512991340000,
+    "meta": 1513693313533,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00083.png"
+  },
+  "30373f0a-4d8c-4d47-9ae3-b97023cdcf06": {
+    "asset": 1512991342000,
+    "meta": 1513693313549,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00084.png"
+  },
+  "55441f6e-abfd-4bbd-a35a-5add7062b945": {
+    "asset": 1512991342000,
+    "meta": 1513693313559,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00085.png"
+  },
+  "b3aa3945-8d18-4108-b0fa-4be7327ee73a": {
+    "asset": 1512991342000,
+    "meta": 1513693313575,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00087.png"
+  },
+  "3b113065-1ae6-40b7-8636-66b9bfe193c7": {
+    "asset": 1512991342000,
+    "meta": 1513693313581,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00086.png"
+  },
+  "aab075de-33f4-419f-a5fc-554e30c2e891": {
+    "asset": 1513267602563,
+    "meta": 1512991336000,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerda"
+  },
+  "3c3ab2df-3902-4897-8122-019c5bf27a84": {
+    "asset": 1512991342000,
+    "meta": 1513693313596,
+    "relativePath": "Imagens\\Personagem\\AndarDireitaCima\\player_walk_d_r00088.png"
+  },
+  "1fd486f9-2ed6-4f53-bfe5-244421b977e9": {
+    "asset": 1512991342000,
+    "meta": 1513693313601,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerda\\walk_left_100000.png"
+  },
+  "15d891f3-b871-487f-a043-d1df84989967": {
+    "asset": 1512991342000,
+    "meta": 1513693313632,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerda\\walk_left_100001.png"
+  },
+  "66dc52f0-443b-47b7-a564-b6723dc807eb": {
+    "asset": 1512991342000,
+    "meta": 1513693313643,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerda\\walk_left_100002.png"
+  },
+  "36894df2-8030-4bb7-9998-39ef011870f2": {
+    "asset": 1512991342000,
+    "meta": 1513693313668,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerda\\walk_left_100004.png"
+  },
+  "37964bb7-4919-43e4-bfa7-b93fca56b479": {
+    "asset": 1512991342000,
+    "meta": 1513693313658,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerda\\walk_left_100003.png"
+  },
+  "4fa0f7d8-d50a-45cf-9b5a-3837a0243531": {
+    "asset": 1512991342000,
+    "meta": 1513693313696,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerda\\walk_left_100006.png"
+  },
+  "44dacc38-a1f3-4fc5-ba6b-456b255e3cfb": {
+    "asset": 1512991342000,
+    "meta": 1513693313686,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerda\\walk_left_100005.png"
+  },
+  "0fdace39-d473-442f-861a-967f9b76915c": {
+    "asset": 1512991342000,
+    "meta": 1513693313711,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerda\\walk_left_100008.png"
+  },
+  "72c431eb-752c-4ecc-a7bb-45e9c700c151": {
+    "asset": 1512991342000,
+    "meta": 1513693313717,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerda\\walk_left_100007.png"
+  },
+  "e01227d1-d275-4064-9c66-559b404e8dba": {
+    "asset": 1512991342000,
+    "meta": 1513693313766,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerda\\walk_left_100010.png"
+  },
+  "9f2417fa-f4e9-431c-b6a6-c37aa0a968be": {
+    "asset": 1512991342000,
+    "meta": 1513693313756,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerda\\walk_left_100009.png"
+  },
+  "13dd5387-e48c-4a97-9880-40508fb92b8e": {
+    "asset": 1513267603229,
+    "meta": 1512991336000,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo"
+  },
+  "0f6c7911-1249-499d-a708-0862a8956416": {
+    "asset": 1512991342000,
+    "meta": 1513693313805,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerda\\walk_left_100011.png"
+  },
+  "88ae76e3-094f-4e7f-a68f-813bd990effb": {
+    "asset": 1512991342000,
+    "meta": 1513693313798,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01115.png"
+  },
+  "c5c43d5a-633e-48af-926c-64ea87780f31": {
+    "asset": 1512991342000,
+    "meta": 1513693313821,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01116.png"
+  },
+  "ef094a23-222d-4482-8515-62a8d726eacb": {
+    "asset": 1512991342000,
+    "meta": 1513693313828,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01117.png"
+  },
+  "b3379771-4725-4675-b846-85043ebed4d2": {
+    "asset": 1512991342000,
+    "meta": 1513693313842,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01118.png"
+  },
+  "e41265fe-670f-4383-8e95-21f1bedc965f": {
+    "asset": 1512991342000,
+    "meta": 1513693313851,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01119.png"
+  },
+  "6623e273-32e0-4100-b22a-8c730cbb0ef5": {
+    "asset": 1512991342000,
+    "meta": 1513693313885,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01121.png"
+  },
+  "31d9d237-fef9-490f-8419-ac69053da30f": {
+    "asset": 1512991342000,
+    "meta": 1513693313888,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01120.png"
+  },
+  "8df86b47-ed1e-47fe-ac3c-f0e4a6c66769": {
+    "asset": 1512991342000,
+    "meta": 1513693313905,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01122.png"
+  },
+  "bcde96bf-f048-4feb-a843-667448bc2e1c": {
+    "asset": 1512991342000,
+    "meta": 1513693313910,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01123.png"
+  },
+  "2420cddf-6d87-4d6a-a7cf-3b9d7c08432b": {
+    "asset": 1512991342000,
+    "meta": 1513693313938,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01124.png"
+  },
+  "2120cbb7-8992-472f-a245-9c6bd56a323e": {
+    "asset": 1512991342000,
+    "meta": 1513693313935,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01125.png"
+  },
+  "2e321f6c-28d1-484e-b311-0a29b2334417": {
+    "asset": 1512991342000,
+    "meta": 1513693313953,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01126.png"
+  },
+  "4bb05e9c-0e62-47cd-94a6-1465aa517120": {
+    "asset": 1512991342000,
+    "meta": 1513693313963,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01127.png"
+  },
+  "b9861191-d073-477e-8bfa-621632f57ee9": {
+    "asset": 1512991342000,
+    "meta": 1513693314005,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01129.png"
+  },
+  "49fcd792-96b7-4c98-8718-f0d564748aca": {
+    "asset": 1512991342000,
+    "meta": 1513693313999,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01128.png"
+  },
+  "aa3118ad-9cd2-49d0-a131-a0e91bde59db": {
+    "asset": 1512991342000,
+    "meta": 1513693314030,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01131.png"
+  },
+  "908b93d5-a3d1-4c58-819c-593ecfa48795": {
+    "asset": 1512991342000,
+    "meta": 1513693314038,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01130.png"
+  },
+  "26e0d713-6e83-416a-be66-023c8918174b": {
+    "asset": 1512991342000,
+    "meta": 1513693314082,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01132.png"
+  },
+  "edbf570c-e09c-43f7-b75d-7f31d7d8f672": {
+    "asset": 1512991342000,
+    "meta": 1513693314071,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01133.png"
+  },
+  "842cdcf3-6ceb-4a77-b944-9eb212ccb1d4": {
+    "asset": 1512991342000,
+    "meta": 1513693314095,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01134.png"
+  },
+  "2df8f8af-9427-4729-a2b1-41291888a30e": {
+    "asset": 1512991342000,
+    "meta": 1513693314101,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01135.png"
+  },
+  "8104ad93-c1b7-484d-85f6-fe7c89a6e67d": {
+    "asset": 1512991342000,
+    "meta": 1513693314127,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01136.png"
+  },
+  "69fdb9c1-9237-46f7-9fd7-fdc523380622": {
+    "asset": 1512991342000,
+    "meta": 1513693314117,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01137.png"
+  },
+  "1a469851-e141-41b2-a29b-9a8e952cadfd": {
+    "asset": 1512991342000,
+    "meta": 1513693314134,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01138.png"
+  },
+  "d0449ece-f6b1-45f3-916e-3d6db2f31162": {
+    "asset": 1512991342000,
+    "meta": 1513693314152,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01139.png"
+  },
+  "c2a62e1c-05f6-4fa4-a89d-f5c5a14e3794": {
+    "asset": 1512991342000,
+    "meta": 1513693314162,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01140.png"
+  },
+  "a68b870e-3a69-4cb0-b642-5c650d34d191": {
+    "asset": 1512991342000,
+    "meta": 1513693314175,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01141.png"
+  },
+  "415b5f73-351c-4db5-9889-a02e2da260d4": {
+    "asset": 1512991342000,
+    "meta": 1513693314202,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01143.png"
+  },
+  "39cbaad8-eb1f-4731-8c5c-5e798fab78f9": {
+    "asset": 1512991342000,
+    "meta": 1513693314192,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01142.png"
+  },
+  "3708fed6-2ea8-4aeb-86c2-7993ab7c7817": {
+    "asset": 1512991342000,
+    "meta": 1513693314216,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01144.png"
+  },
+  "96aaf580-baed-410f-9667-792ef48aa49c": {
+    "asset": 1512991342000,
+    "meta": 1513693314228,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01145.png"
+  },
+  "65c6508e-8691-416d-a6b8-280f50c82098": {
+    "asset": 1513267605504,
+    "meta": 1512991336000,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima"
+  },
+  "3fbda142-3d6c-496c-aea1-82088ad43c0e": {
+    "asset": 1512991342000,
+    "meta": 1513693314246,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaBaixo\\walk_bottom_45_L01146.png"
+  },
+  "bd085a9c-0c76-419f-9499-6d26d699d2a1": {
+    "asset": 1512991342000,
+    "meta": 1513693314253,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00000.png"
+  },
+  "38a38a07-0245-49ee-9590-7b0038ea44d5": {
+    "asset": 1512991342000,
+    "meta": 1513693314280,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00002.png"
+  },
+  "06f7908b-bec1-4189-ab73-fa5d1e279da5": {
+    "asset": 1512991342000,
+    "meta": 1513693314275,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00001.png"
+  },
+  "0ee5fcec-f284-4b0f-8445-ae61f802c826": {
+    "asset": 1512991342000,
+    "meta": 1513693314298,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00004.png"
+  },
+  "f6b91d11-a414-463c-973f-995679b6d59d": {
+    "asset": 1512991342000,
+    "meta": 1513693314309,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00003.png"
+  },
+  "c82c4921-ad3e-424d-a5e7-f73f735de23f": {
+    "asset": 1512991342000,
+    "meta": 1513693314349,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00005.png"
+  },
+  "3bcaa9d5-3fbd-48e4-a031-d4a0574287da": {
+    "asset": 1512991342000,
+    "meta": 1513693314341,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00006.png"
+  },
+  "ae340535-5481-47d4-b77e-fa75b05f82da": {
+    "asset": 1512991342000,
+    "meta": 1513693314395,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00008.png"
+  },
+  "1f9c401d-44f1-4e4c-b796-7074a81a69a1": {
+    "asset": 1512991342000,
+    "meta": 1513693314359,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00007.png"
+  },
+  "83c998c8-4258-478b-8336-ac40fe4fd7d3": {
+    "asset": 1512991342000,
+    "meta": 1513693314379,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00009.png"
+  },
+  "63b5847e-4c35-4f3f-842e-eaf4da9f29c7": {
+    "asset": 1512991342000,
+    "meta": 1513693314405,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00010.png"
+  },
+  "be65c20a-a3a7-4f28-a505-175deb98ad0b": {
+    "asset": 1512991342000,
+    "meta": 1513693314452,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00012.png"
+  },
+  "47115fe8-bc69-4240-ae74-0acc43764a25": {
+    "asset": 1512991342000,
+    "meta": 1513693314419,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00011.png"
+  },
+  "51233d2f-7ac1-4a50-95b9-219f91782c47": {
+    "asset": 1512991342000,
+    "meta": 1513693314486,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00014.png"
+  },
+  "f05b4a22-5fb5-4a32-9377-2683d62cd6c4": {
+    "asset": 1512991342000,
+    "meta": 1513693314446,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00013.png"
+  },
+  "c527208c-4a7c-4e83-8836-db708e33f5a0": {
+    "asset": 1512991342000,
+    "meta": 1513693314520,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00016.png"
+  },
+  "d5b2a386-8b06-42e7-8d37-eb00588d9aa7": {
+    "asset": 1512991342000,
+    "meta": 1513693314473,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00015.png"
+  },
+  "5cb96633-ce74-464d-8c44-7f0f24f859a5": {
+    "asset": 1512991342000,
+    "meta": 1513693314537,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00018.png"
+  },
+  "55c230cd-2eee-4ae0-9887-a4eceb7c240e": {
+    "asset": 1512991342000,
+    "meta": 1513693314507,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00017.png"
+  },
+  "ddf6779d-c9f2-4230-9830-ea15bfba7069": {
+    "asset": 1512991342000,
+    "meta": 1513693314550,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00019.png"
+  },
+  "b74cbf58-54f8-40f5-8424-36961c281ab3": {
+    "asset": 1512991342000,
+    "meta": 1513693314582,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00020.png"
+  },
+  "da9fc7ce-c381-413f-821d-67d16f0bd32a": {
+    "asset": 1512991342000,
+    "meta": 1513693314611,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00022.png"
+  },
+  "845b0624-8321-4750-9e57-9be98e91e281": {
+    "asset": 1512991342000,
+    "meta": 1513693314570,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00021.png"
+  },
+  "fa9d278b-1d30-467a-b72c-025f905db516": {
+    "asset": 1512991342000,
+    "meta": 1513693314642,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00024.png"
+  },
+  "ace69f09-91a8-423f-b41d-618e69be5267": {
+    "asset": 1512991342000,
+    "meta": 1513693314604,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00023.png"
+  },
+  "e8f9f673-521d-4c7c-9c90-fb3bffd83aeb": {
+    "asset": 1512991342000,
+    "meta": 1513693314630,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00025.png"
+  },
+  "736dfbcf-0e79-4b66-9777-d44987a2523f": {
+    "asset": 1512991342000,
+    "meta": 1513693314668,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00026.png"
+  },
+  "290314f2-e829-4499-b97e-98b1b5de5d86": {
+    "asset": 1512991342000,
+    "meta": 1513693314658,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00027.png"
+  },
+  "3c18e929-73a3-4b4a-a5fc-11b3b01939a4": {
+    "asset": 1512991342000,
+    "meta": 1513693314694,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00028.png"
+  },
+  "110a3ae1-23df-4a68-93b5-aca2bf95c854": {
+    "asset": 1512991342000,
+    "meta": 1513693314683,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00029.png"
+  },
+  "835fa76c-1c1a-43fd-916d-8fd7a5c2e245": {
+    "asset": 1512991342000,
+    "meta": 1513693314710,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00030.png"
+  },
+  "acdb7ca6-ee43-4a00-82c1-03c8f8b27016": {
+    "asset": 1512991342000,
+    "meta": 1513693314715,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00031.png"
+  },
+  "9c08ec52-9342-4c69-8e2c-6672969df543": {
+    "asset": 1512991342000,
+    "meta": 1513693314756,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00032.png"
+  },
+  "87be7686-71b1-48a2-8368-e5680838e4c8": {
+    "asset": 1512991342000,
+    "meta": 1513693314802,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00034.png"
+  },
+  "1b79f6e3-a8be-48fe-be30-1893eb2669a5": {
+    "asset": 1512991342000,
+    "meta": 1513693314729,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00033.png"
+  },
+  "fc322ce5-6707-4deb-93dc-0c4075dfeb28": {
+    "asset": 1512991342000,
+    "meta": 1513693314815,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00035.png"
+  },
+  "22521a88-90fe-4227-90cc-55c60c7176dc": {
+    "asset": 1512991342000,
+    "meta": 1513693314845,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00036.png"
+  },
+  "558c75fa-c862-44a2-ae57-f18ed7bf1268": {
+    "asset": 1512991344000,
+    "meta": 1513693314884,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00038.png"
+  },
+  "da28fee3-3f3b-4de5-8c5d-44a80fc91596": {
+    "asset": 1512991342000,
+    "meta": 1513693314856,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00037.png"
+  },
+  "6bb99327-5c3f-46da-be9b-e9e55fa1a0ef": {
+    "asset": 1512991344000,
+    "meta": 1513693314875,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00039.png"
+  },
+  "f260727e-f42d-45f4-b6d4-e2fbde40e145": {
+    "asset": 1512991344000,
+    "meta": 1513693314899,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00040.png"
+  },
+  "8ad8ccd4-a678-49a2-97f2-837ab19f7917": {
+    "asset": 1512991344000,
+    "meta": 1513693314914,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00041.png"
+  },
+  "71230f3f-5bf8-4f14-895c-e19fe9c685b4": {
+    "asset": 1512991344000,
+    "meta": 1513693314928,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00042.png"
+  },
+  "8c1e0c0e-d032-41d0-884d-577698dc3d01": {
+    "asset": 1512991344000,
+    "meta": 1513693314946,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00044.png"
+  },
+  "15fcfabd-6bd3-4e88-b374-945f6e3f907a": {
+    "asset": 1512991344000,
+    "meta": 1513693314941,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00043.png"
+  },
+  "ef05f9ca-7a6b-4d11-b2dd-e0ddc3814dc3": {
+    "asset": 1512991344000,
+    "meta": 1513693314961,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00045.png"
+  },
+  "2762739f-1981-4e86-b9c8-4043f70c08d8": {
+    "asset": 1512991344000,
+    "meta": 1513693314972,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00046.png"
+  },
+  "1df521da-c7d3-45b5-96ce-3ea4283ded5c": {
+    "asset": 1512991344000,
+    "meta": 1513693315003,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00047.png"
+  },
+  "b96d8b9b-8685-410f-8bb6-53836d58c570": {
+    "asset": 1512991344000,
+    "meta": 1513693314989,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00048.png"
+  },
+  "33a0ae72-1f0b-4050-80e5-8a0812d0237c": {
+    "asset": 1512991344000,
+    "meta": 1513693315031,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00050.png"
+  },
+  "9abfba06-319a-49ee-8596-b32451f371ac": {
+    "asset": 1512991344000,
+    "meta": 1513693315017,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00049.png"
+  },
+  "f25ee5ba-cbce-4c8b-bd05-a9560c4d144f": {
+    "asset": 1512991344000,
+    "meta": 1513693315045,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00051.png"
+  },
+  "9161d1d8-2af3-4710-baaa-d7aef35b6a07": {
+    "asset": 1512991344000,
+    "meta": 1513693315050,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00052.png"
+  },
+  "a8d02371-d21f-4b17-bb74-af8c7b24a94d": {
+    "asset": 1512991344000,
+    "meta": 1513693315074,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00054.png"
+  },
+  "e3a842aa-4a7d-4805-af96-3e703186ac68": {
+    "asset": 1512991344000,
+    "meta": 1513693315066,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00053.png"
+  },
+  "7dbcfc0c-eeec-44d9-9bbb-01373bd283a9": {
+    "asset": 1512991344000,
+    "meta": 1513693315107,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00055.png"
+  },
+  "838351a1-6868-4ecf-ae42-60e16df629fc": {
+    "asset": 1512991344000,
+    "meta": 1513693315093,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00056.png"
+  },
+  "9eb6ecbd-198c-47e5-9ac0-aacc542d0e5e": {
+    "asset": 1512991344000,
+    "meta": 1513693315134,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00057.png"
+  },
+  "84f1723d-6e29-4222-8792-f167dc3d379e": {
+    "asset": 1512991344000,
+    "meta": 1513693315129,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00058.png"
+  },
+  "32f2d456-a4ce-44a1-9c60-6c6cf981e811": {
+    "asset": 1512991344000,
+    "meta": 1513693315177,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00060.png"
+  },
+  "bbfc4eae-bd26-41cf-8741-135208280a7a": {
+    "asset": 1512991344000,
+    "meta": 1513693315174,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00059.png"
+  },
+  "5f03edf0-afc9-46c8-9a79-e3f5b2ac123e": {
+    "asset": 1512991344000,
+    "meta": 1513693315193,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00062.png"
+  },
+  "1243456c-ae99-4625-b9cf-d42fb05a9d8f": {
+    "asset": 1512991344000,
+    "meta": 1513693315203,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00061.png"
+  },
+  "bbccadb9-22f4-4ad3-88b5-cf5b186ec8ab": {
+    "asset": 1512991344000,
+    "meta": 1513693315218,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00063.png"
+  },
+  "b2a7c2db-fb65-4e88-bace-90918b32c0ae": {
+    "asset": 1512991344000,
+    "meta": 1513693315226,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00064.png"
+  },
+  "071d8284-a99a-48f2-994e-c8558ffe021a": {
+    "asset": 1512991344000,
+    "meta": 1513693315245,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00066.png"
+  },
+  "c95663e6-6b90-47c4-a75e-2f790a827d7f": {
+    "asset": 1512991344000,
+    "meta": 1513693315238,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00065.png"
+  },
+  "07b3d771-d531-4a34-8718-bfce9194af5e": {
+    "asset": 1512991344000,
+    "meta": 1513693315266,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00068.png"
+  },
+  "d8f88b82-c57e-4ee1-9e09-09df070daa50": {
+    "asset": 1512991344000,
+    "meta": 1513693315259,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00067.png"
+  },
+  "e31186fd-56db-499c-aec9-004e04d463b2": {
+    "asset": 1512991344000,
+    "meta": 1513693315294,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00069.png"
+  },
+  "faf85696-6352-4ddf-9621-f241b6a50afe": {
+    "asset": 1512991344000,
+    "meta": 1513693315283,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00070.png"
+  },
+  "032666c3-36e2-46cb-94f2-bd46efbad4e6": {
+    "asset": 1512991344000,
+    "meta": 1513693315315,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00072.png"
+  },
+  "d6dca169-acde-4e07-81a4-84d9ef24581e": {
+    "asset": 1512991344000,
+    "meta": 1513693315320,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00071.png"
+  },
+  "fffa244f-c4a3-414a-81db-0d2a7f462cc8": {
+    "asset": 1512991344000,
+    "meta": 1513693315338,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00074.png"
+  },
+  "a5156393-4cf1-4c26-8199-470c19dd0186": {
+    "asset": 1512991344000,
+    "meta": 1513693315345,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00073.png"
+  },
+  "28e7df41-f5ea-46f1-95e9-bcd42fef115d": {
+    "asset": 1512991344000,
+    "meta": 1513693315370,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00075.png"
+  },
+  "68db61ed-de35-4f08-9e48-e743a6b970ab": {
+    "asset": 1512991344000,
+    "meta": 1513693315360,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00076.png"
+  },
+  "2ff34160-870b-4f7f-b1d2-b14c18ceb363": {
+    "asset": 1512991344000,
+    "meta": 1513693315398,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00077.png"
+  },
+  "1ebf118b-bc63-423a-bc77-dea9fba1e3e4": {
+    "asset": 1512991344000,
+    "meta": 1513693315389,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00078.png"
+  },
+  "673e5939-4309-40bd-acc6-4308333a2dd6": {
+    "asset": 1512991344000,
+    "meta": 1513693315415,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00080.png"
+  },
+  "a6ea8583-d9b3-4ea4-89e2-d5dffe745805": {
+    "asset": 1512991344000,
+    "meta": 1513693315428,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00079.png"
+  },
+  "d6228524-b9b5-4942-b99d-008554087c5c": {
+    "asset": 1512991344000,
+    "meta": 1513693315444,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00082.png"
+  },
+  "8922437e-beba-49e0-b7e3-17cf054cbbea": {
+    "asset": 1512991344000,
+    "meta": 1513693315456,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00081.png"
+  },
+  "1699c93e-4c06-4851-a26d-fe8a40bd5635": {
+    "asset": 1512991344000,
+    "meta": 1513693315483,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00083.png"
+  },
+  "5f58ace3-c5bd-4359-8f57-33e16578c1a2": {
+    "asset": 1512991344000,
+    "meta": 1513693315475,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00084.png"
+  },
+  "1895090d-4c27-4b10-9781-f7d16ce0e272": {
+    "asset": 1512991344000,
+    "meta": 1513693315506,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00086.png"
+  },
+  "9973886b-067b-4f94-912d-dbb6323ed138": {
+    "asset": 1512991344000,
+    "meta": 1513693315512,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00085.png"
+  },
+  "fc8d6088-3769-4ae7-ae06-87e11439f663": {
+    "asset": 1512991344000,
+    "meta": 1513693315526,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00088.png"
+  },
+  "615b7f77-ba0f-4bfa-861c-059d36a5d8e4": {
+    "asset": 1512991344000,
+    "meta": 1513693315537,
+    "relativePath": "Imagens\\Personagem\\AndarEsquerdaCima\\player_walk_d_l_00087.png"
+  },
+  "a2cb364b-0978-4b6a-bb18-2f09f62f1dea": {
+    "asset": 1513267606365,
+    "meta": 1512991336000,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo"
+  },
+  "5a30a34f-4c30-435b-9465-2698fa7fe351": {
+    "asset": 1512991344000,
+    "meta": 1513693315563,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00832.png"
+  },
+  "2d4a678b-3c6e-42b1-bc80-7158082ee7f9": {
+    "asset": 1512991344000,
+    "meta": 1513693315551,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00833.png"
+  },
+  "69b4a6c9-e89f-4809-9535-53167f045d0f": {
+    "asset": 1512991344000,
+    "meta": 1513693315583,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00834.png"
+  },
+  "d2d58724-4a7b-4548-99c5-e2fa125b097c": {
+    "asset": 1512991344000,
+    "meta": 1513693315588,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00835.png"
+  },
+  "9647b8b1-c5af-4826-8021-a25a87f0bc0c": {
+    "asset": 1512991344000,
+    "meta": 1513693315635,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00836.png"
+  },
+  "56a58e29-043a-41e7-a969-521a7fec7352": {
+    "asset": 1512991344000,
+    "meta": 1513693315648,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00837.png"
+  },
+  "2242c4f8-7872-4048-b55b-3c18cdf5ee67": {
+    "asset": 1512991344000,
+    "meta": 1513693315670,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00838.png"
+  },
+  "eded6af3-98e0-4e25-963e-cb4fa94c5db7": {
+    "asset": 1512991344000,
+    "meta": 1513693315680,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00839.png"
+  },
+  "bf5355ee-488b-4721-a518-2e8f36ac74fa": {
+    "asset": 1512991344000,
+    "meta": 1513693315698,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00840.png"
+  },
+  "ca8ff666-d6ef-488a-ab94-5b17508d519d": {
+    "asset": 1512991344000,
+    "meta": 1513693315708,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00841.png"
+  },
+  "14f33b41-197d-4be6-b896-51df23f3a0eb": {
+    "asset": 1512991344000,
+    "meta": 1513693315734,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00843.png"
+  },
+  "c1fe4d33-f34e-4c1a-bdd0-c4381e203a6d": {
+    "asset": 1512991344000,
+    "meta": 1513693315737,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00842.png"
+  },
+  "c8783c14-03aa-4607-8429-5144b3a62c98": {
+    "asset": 1512991344000,
+    "meta": 1513693315758,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00844.png"
+  },
+  "daa218b1-9a69-40b8-82f3-13b8952f97b4": {
+    "asset": 1512991344000,
+    "meta": 1513693315763,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00845.png"
+  },
+  "c1292fe5-1374-48fa-b54c-ef169d4b52d8": {
+    "asset": 1512991344000,
+    "meta": 1513693315783,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00846.png"
+  },
+  "0ff1b815-e876-4632-ac7f-192768ae7eb3": {
+    "asset": 1512991344000,
+    "meta": 1513693315788,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00847.png"
+  },
+  "5d73d13e-a835-47af-a81b-84a7b850da9f": {
+    "asset": 1512991344000,
+    "meta": 1513693315816,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00848.png"
+  },
+  "68d25622-3333-4fc1-8fd6-1e3492cc5c5d": {
+    "asset": 1512991344000,
+    "meta": 1513693315811,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00849.png"
+  },
+  "0a7eef93-90ea-4a05-91be-c886dcb043df": {
+    "asset": 1512991344000,
+    "meta": 1513693315857,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00850.png"
+  },
+  "15294754-7abd-49ad-91c8-04df2775c163": {
+    "asset": 1512991344000,
+    "meta": 1513693315852,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00851.png"
+  },
+  "20dc13c6-216d-41f0-9d68-3d46bba03637": {
+    "asset": 1512991344000,
+    "meta": 1513693315941,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00853.png"
+  },
+  "6b91c302-c79c-4349-9d0d-b21a7a5c972c": {
+    "asset": 1512991344000,
+    "meta": 1513693315935,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00852.png"
+  },
+  "b9eb59a2-3941-4be7-918e-7b6ac633bb29": {
+    "asset": 1512991344000,
+    "meta": 1513693315953,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00854.png"
+  },
+  "210b2240-624f-483f-853c-52a2b4f1c9b9": {
+    "asset": 1512991344000,
+    "meta": 1513693315963,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00855.png"
+  },
+  "e2029c26-223b-4ccb-badc-bb9aad79392b": {
+    "asset": 1512991344000,
+    "meta": 1513693316033,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00857.png"
+  },
+  "9fefbc33-5c8a-4dbc-bd63-939885fd3cbf": {
+    "asset": 1512991344000,
+    "meta": 1513693315980,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00856.png"
+  },
+  "202493b4-7658-40b1-a0a9-777f786d92fe": {
+    "asset": 1512991344000,
+    "meta": 1513693316084,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00859.png"
+  },
+  "9b158e51-c0e4-4807-b2bb-75a9aea0e991": {
+    "asset": 1512991344000,
+    "meta": 1513693316038,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00858.png"
+  },
+  "993e0ee0-3bd2-4d16-91d9-3801e4a3a23b": {
+    "asset": 1512991344000,
+    "meta": 1513693316092,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00860.png"
+  },
+  "5ee9e380-60f2-4977-8b50-a95ca9219fe8": {
+    "asset": 1512991344000,
+    "meta": 1513693316104,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00861.png"
+  },
+  "f29ae5cf-6665-45eb-9446-28be702e887e": {
+    "asset": 1512991344000,
+    "meta": 1513693316114,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00862.png"
+  },
+  "5f3f6b0d-0824-46a5-8918-45ed29ae8941": {
+    "asset": 1512991344000,
+    "meta": 1513693316143,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00863.png"
+  },
+  "28177b9e-2692-4108-b7c0-0f30ae20b9e7": {
+    "asset": 1512991344000,
+    "meta": 1513693316133,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00864.png"
+  },
+  "c32fb254-2b21-4a02-914e-2b8993f43b47": {
+    "asset": 1512991346000,
+    "meta": 1513693316158,
+    "relativePath": "Imagens\\Personagem\\ParadoBaixo\\idle_bottom00865.png"
+  },
+  "7239826b-39ab-49bf-b20b-792dfda462a7": {
+    "asset": 1513267606858,
+    "meta": 1512991336000,
+    "relativePath": "Imagens\\Personagem\\ParadoCima"
+  },
+  "41fccdb4-6312-4a01-96d9-e2729ea62efb": {
+    "asset": 1512991346000,
+    "meta": 1513693316186,
+    "relativePath": "Imagens\\Personagem\\ParadoCima\\idle_top00001.png"
+  },
+  "419935cf-7b4d-4be2-bd08-df64cf2f48d5": {
+    "asset": 1512991346000,
+    "meta": 1513693316168,
+    "relativePath": "Imagens\\Personagem\\ParadoCima\\idle_top00000.png"
+  },
+  "e88ba3ae-94fe-48ee-8978-f5d10c7142bf": {
+    "asset": 1512991346000,
+    "meta": 1513693316196,
+    "relativePath": "Imagens\\Personagem\\ParadoCima\\idle_top00002.png"
+  },
+  "fdcb28fa-0f73-4cd9-a1fc-88b8e03919d5": {
+    "asset": 1512991346000,
+    "meta": 1513693316218,
+    "relativePath": "Imagens\\Personagem\\ParadoCima\\idle_top00003.png"
+  },
+  "15ccb1d2-d141-4e7b-aecc-7bdb6f4b557a": {
+    "asset": 1512991346000,
+    "meta": 1513693316213,
+    "relativePath": "Imagens\\Personagem\\ParadoCima\\idle_top00004.png"
+  },
+  "d48c153e-ff0c-4412-a879-d08308c4c866": {
+    "asset": 1512991346000,
+    "meta": 1513693316233,
+    "relativePath": "Imagens\\Personagem\\ParadoCima\\idle_top00005.png"
+  },
+  "50d1aff8-dceb-4b2c-8bea-101794a3016a": {
+    "asset": 1512991346000,
+    "meta": 1513693316240,
+    "relativePath": "Imagens\\Personagem\\ParadoCima\\idle_top00006.png"
+  },
+  "499a463d-d6d7-4a2d-9448-fb1c0ea79e70": {
+    "asset": 1512991346000,
+    "meta": 1513693316257,
+    "relativePath": "Imagens\\Personagem\\ParadoCima\\idle_top00007.png"
+  },
+  "349a2551-6dc1-43da-808f-6ad3bbc33ede": {
+    "asset": 1512991346000,
+    "meta": 1513693316281,
+    "relativePath": "Imagens\\Personagem\\ParadoCima\\idle_top00009.png"
+  },
+  "8ec16f1a-7486-426f-af98-fbc5acc62ec7": {
+    "asset": 1512991346000,
+    "meta": 1513693316267,
+    "relativePath": "Imagens\\Personagem\\ParadoCima\\idle_top00008.png"
+  },
+  "dd7ddbd8-7548-4145-a372-35cb34fe6422": {
+    "asset": 1512991346000,
+    "meta": 1513693316291,
+    "relativePath": "Imagens\\Personagem\\ParadoCima\\idle_top00010.png"
+  },
+  "ad7cdc13-6c66-41ca-8825-75343b72c36d": {
+    "asset": 1512991346000,
+    "meta": 1513693316317,
+    "relativePath": "Imagens\\Personagem\\ParadoCima\\idle_top00011.png"
+  },
+  "dc30dcb7-8309-4f6d-8219-12b3c5ed39b8": {
+    "asset": 1512991346000,
+    "meta": 1513693316341,
+    "relativePath": "Imagens\\Personagem\\ParadoCima\\idle_top00013.png"
+  },
+  "a73d7dac-9ee7-44b9-bd5e-f7d7f2041c9e": {
+    "asset": 1512991346000,
+    "meta": 1513693316314,
+    "relativePath": "Imagens\\Personagem\\ParadoCima\\idle_top00012.png"
+  },
+  "07ece41a-9fa1-4ec1-acde-22d995d6d0d9": {
+    "asset": 1512991346000,
+    "meta": 1513693316373,
+    "relativePath": "Imagens\\Personagem\\ParadoCima\\idle_top00015.png"
+  },
+  "d4b232d9-8cab-4d0f-8ff8-858d7f370f5e": {
+    "asset": 1512991346000,
+    "meta": 1513693316334,
+    "relativePath": "Imagens\\Personagem\\ParadoCima\\idle_top00014.png"
+  },
+  "5b5d9e1b-834f-45eb-b07d-c251efcdfff9": {
+    "asset": 1512991346000,
+    "meta": 1513693316359,
+    "relativePath": "Imagens\\Personagem\\ParadoCima\\idle_top00016.png"
+  },
+  "f32f02dd-82f1-409a-b837-92d4dc909f42": {
+    "asset": 1512991346000,
+    "meta": 1513693316382,
+    "relativePath": "Imagens\\Personagem\\ParadoCima\\idle_top00017.png"
+  },
+  "bd7545eb-8a9b-4020-8aa5-0e1ad6140c86": {
+    "asset": 1512991346000,
+    "meta": 1513693316408,
+    "relativePath": "Imagens\\Personagem\\ParadoCima\\idle_top00019.png"
+  },
+  "696acf38-d2a7-4649-a555-fe3ef7f2c380": {
+    "asset": 1512991346000,
+    "meta": 1513693316399,
+    "relativePath": "Imagens\\Personagem\\ParadoCima\\idle_top00018.png"
+  },
+  "97a0fd8a-0545-4ef3-bf56-e61d90ba1dfd": {
+    "asset": 1512991346000,
+    "meta": 1513693316431,
+    "relativePath": "Imagens\\Personagem\\ParadoCima\\idle_top00020.png"
+  },
+  "e3435302-81b3-436d-a37d-4508f4c72379": {
+    "asset": 1512991346000,
+    "meta": 1513693316436,
+    "relativePath": "Imagens\\Personagem\\ParadoCima\\idle_top00021.png"
+  },
+  "3a13c700-4081-43e9-a5f3-ff42cce0cef8": {
+    "asset": 1512991346000,
+    "meta": 1513693316460,
+    "relativePath": "Imagens\\Personagem\\ParadoCima\\idle_top00023.png"
+  },
+  "ab5791b7-bece-46e1-9068-da7d73037238": {
+    "asset": 1512991346000,
+    "meta": 1513693316455,
+    "relativePath": "Imagens\\Personagem\\ParadoCima\\idle_top00022.png"
+  },
+  "c04b99c5-df49-432a-a961-14f2fffef47b": {
+    "asset": 1513267607550,
+    "meta": 1512991336000,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita"
+  },
+  "2355ec88-88cd-400b-ab14-e7468e52ae56": {
+    "asset": 1512991346000,
+    "meta": 1513693316480,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00000.png"
+  },
+  "31a1a231-4e78-42aa-a6b9-1d5941e88059": {
+    "asset": 1512991346000,
+    "meta": 1513693316487,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00001.png"
+  },
+  "96322b98-bf34-4937-bc60-0d99f285f15d": {
+    "asset": 1512991346000,
+    "meta": 1513693316511,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00002.png"
+  },
+  "f2204501-f6ad-4f86-b129-47d1a4aed4d2": {
+    "asset": 1512991346000,
+    "meta": 1513693316503,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00003.png"
+  },
+  "861eaff0-aa54-40ab-90eb-1b1f8bdfc6ac": {
+    "asset": 1512991346000,
+    "meta": 1513693316521,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00005.png"
+  },
+  "1091fd54-87ed-40dd-b72a-6b2597354b64": {
+    "asset": 1512991346000,
+    "meta": 1513693316531,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00004.png"
+  },
+  "0dbfbc0b-55c9-414f-93a9-c95bdd62c363": {
+    "asset": 1512991346000,
+    "meta": 1513693316549,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00006.png"
+  },
+  "f6b31ae0-993f-4dd0-8c95-172735400dd8": {
+    "asset": 1512991346000,
+    "meta": 1513693316559,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00007.png"
+  },
+  "58e2e4ca-f0f0-41fb-a917-177413b5b455": {
+    "asset": 1512991346000,
+    "meta": 1513693316582,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00009.png"
+  },
+  "291e75f1-6037-492c-a9f1-9f3aeb135350": {
+    "asset": 1512991346000,
+    "meta": 1513693316584,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00008.png"
+  },
+  "5ddd8dac-4061-4c4e-a676-f22a066d7562": {
+    "asset": 1512991346000,
+    "meta": 1513693316599,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00010.png"
+  },
+  "778b5f28-36a5-43f5-a74a-26864889942e": {
+    "asset": 1512991346000,
+    "meta": 1513693316609,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00011.png"
+  },
+  "8111d079-682d-469a-8db4-c1cb224bbe60": {
+    "asset": 1512991346000,
+    "meta": 1513693316632,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00012.png"
+  },
+  "bd7d6d79-719a-45df-b367-5d5cb40b36a5": {
+    "asset": 1512991346000,
+    "meta": 1513693316626,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00013.png"
+  },
+  "f2843484-5130-4cde-90a0-227fe3da06e6": {
+    "asset": 1512991346000,
+    "meta": 1513693316650,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00015.png"
+  },
+  "2c6fbf87-2403-4247-9d9b-baf3c90178dc": {
+    "asset": 1512991346000,
+    "meta": 1513693316657,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00014.png"
+  },
+  "b08a1e1b-84b2-4cb4-b444-d20e0b69d153": {
+    "asset": 1512991346000,
+    "meta": 1513693316672,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00017.png"
+  },
+  "aa945751-60a7-4b42-a74b-8a0040542e99": {
+    "asset": 1512991346000,
+    "meta": 1513693316679,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00016.png"
+  },
+  "b75c71d8-50ea-416c-bf40-d498021c7119": {
+    "asset": 1512991346000,
+    "meta": 1513693316696,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00018.png"
+  },
+  "e9d015e4-61e1-43f6-aab2-2a8b0686a76a": {
+    "asset": 1512991346000,
+    "meta": 1513693316701,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00019.png"
+  },
+  "6e562ad6-aee6-46ea-bfab-bbf312dd1996": {
+    "asset": 1512991346000,
+    "meta": 1513693316727,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00021.png"
+  },
+  "d77c9245-3bab-4cc4-9c40-c1f1e00e30dc": {
+    "asset": 1512991346000,
+    "meta": 1513693316717,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00020.png"
+  },
+  "2ea4084f-0d0b-4ad5-98d4-58dd13f2f674": {
+    "asset": 1512991346000,
+    "meta": 1513693316746,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00023.png"
+  },
+  "4efeccdc-c485-4ace-8177-1caba83e9cba": {
+    "asset": 1512991346000,
+    "meta": 1513693316749,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00022.png"
+  },
+  "23cd0a2b-536c-4f70-be76-c0f09b2e4775": {
+    "asset": 1512991346000,
+    "meta": 1513693316777,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00024.png"
+  },
+  "1786ff84-f61e-43ed-b777-ac486e3a3437": {
+    "asset": 1512991346000,
+    "meta": 1513693316767,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00025.png"
+  },
+  "d024c05f-ff44-473c-910e-092992e7034f": {
+    "asset": 1512991346000,
+    "meta": 1513693316802,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00027.png"
+  },
+  "e4b0ee1d-3bbd-4e57-9e46-293d93a6e807": {
+    "asset": 1512991346000,
+    "meta": 1513693316797,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00026.png"
+  },
+  "61bd7f09-c351-4ef6-9c65-bada26aad950": {
+    "asset": 1512991346000,
+    "meta": 1513693316817,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00028.png"
+  },
+  "b7276d80-db9d-4f13-85bb-79f1d4125d21": {
+    "asset": 1512991346000,
+    "meta": 1513693316821,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00029.png"
+  },
+  "45af3584-a982-4b10-956c-0eae5e02db6a": {
+    "asset": 1512991346000,
+    "meta": 1513693316846,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00030.png"
+  },
+  "0fe90674-8f35-45c5-bc41-5035f51088c7": {
+    "asset": 1512991346000,
+    "meta": 1513693316835,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00031.png"
+  },
+  "255bd1e7-fe51-4660-a629-66dc877d25b2": {
+    "asset": 1512991346000,
+    "meta": 1513693316872,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00032.png"
+  },
+  "063235a3-04ac-400d-8c62-394e9bcc3b61": {
+    "asset": 1512991346000,
+    "meta": 1513693316863,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaDireita\\idle_top_45_degress_00033.png"
+  },
+  "633de1cb-8e09-4df0-a587-f266631607b1": {
+    "asset": 1513267608665,
+    "meta": 1512991336000,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda"
+  },
+  "fcc3b7c6-e231-40e3-890a-32c9acef0b4a": {
+    "asset": 1512991346000,
+    "meta": 1513693316891,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01440.png"
+  },
+  "24bae9f6-0cf2-48e8-871c-a950ed977c9c": {
+    "asset": 1512991346000,
+    "meta": 1513693316901,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01439.png"
+  },
+  "72395c1f-a3c5-45f6-b60f-79af92329b42": {
+    "asset": 1512991346000,
+    "meta": 1513693316915,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01441.png"
+  },
+  "b3f44d9a-efec-48e5-bc30-29d0a7a07566": {
+    "asset": 1512991346000,
+    "meta": 1513693316924,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01442.png"
+  },
+  "1572f5f9-5504-4d1a-97ac-1bead29cee94": {
+    "asset": 1512991346000,
+    "meta": 1513693316952,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01443.png"
+  },
+  "c421eccd-ae83-41b4-92d3-e392743fe4ca": {
+    "asset": 1512991346000,
+    "meta": 1513693316944,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01444.png"
+  },
+  "5da38891-5235-496e-99fd-762180aa7fb1": {
+    "asset": 1512991346000,
+    "meta": 1513693316970,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01446.png"
+  },
+  "fb1db562-5c9d-4ec2-a4d5-893e29fcd154": {
+    "asset": 1512991346000,
+    "meta": 1513693316982,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01445.png"
+  },
+  "0714890e-ba7e-4aa3-825d-e7a1c294a9e1": {
+    "asset": 1512991346000,
+    "meta": 1513693317003,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01447.png"
+  },
+  "fd358cd1-9fdb-4300-b32a-486551665582": {
+    "asset": 1512991346000,
+    "meta": 1513693317011,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01448.png"
+  },
+  "8e58e083-bfbc-4683-93cd-99966bcab455": {
+    "asset": 1512991348000,
+    "meta": 1513693317041,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01450.png"
+  },
+  "f79becb0-98a7-418f-b23b-4647ac9b1851": {
+    "asset": 1512991346000,
+    "meta": 1513693317038,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01449.png"
+  },
+  "7e62e001-cec0-43a6-860f-0295dc4de9fe": {
+    "asset": 1512991348000,
+    "meta": 1513693317060,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01451.png"
+  },
+  "e47f30bb-6eac-4d75-9502-bb410c306ca0": {
+    "asset": 1512991348000,
+    "meta": 1513693317071,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01452.png"
+  },
+  "93b2fe5b-6d14-4d63-bba2-672e74ded92f": {
+    "asset": 1512991348000,
+    "meta": 1513693317087,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01453.png"
+  },
+  "182f82e5-f833-4d8b-a0e0-43677b002a15": {
+    "asset": 1512991348000,
+    "meta": 1513693317099,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01454.png"
+  },
+  "ccd740b5-5333-488a-b3ce-8aab9aea2726": {
+    "asset": 1512991348000,
+    "meta": 1513693317118,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01455.png"
+  },
+  "fc9cb44f-636e-4dda-b639-d0f1eb7ccc06": {
+    "asset": 1512991348000,
+    "meta": 1513693317123,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01456.png"
+  },
+  "8bb41bdb-b9f1-4fdc-b944-d0c1f016c715": {
+    "asset": 1512991348000,
+    "meta": 1513693317152,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01458.png"
+  },
+  "a1d2249e-c629-44a6-bf08-23bd3ad9801b": {
+    "asset": 1512991348000,
+    "meta": 1513693317140,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01457.png"
+  },
+  "e18806c1-bf0c-40b1-8c7d-a5ce170375fb": {
+    "asset": 1512991348000,
+    "meta": 1513693317169,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01459.png"
+  },
+  "8151f1f7-1f17-4e68-9639-40e6bbc20c89": {
+    "asset": 1512991348000,
+    "meta": 1513693317177,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01460.png"
+  },
+  "eb90f204-23f4-4ae3-bf68-585d493465fd": {
+    "asset": 1512991348000,
+    "meta": 1513693317200,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01462.png"
+  },
+  "54725ee5-5b01-4863-8d9c-9dabb8a388cb": {
+    "asset": 1512991348000,
+    "meta": 1513693317203,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01461.png"
+  },
+  "f5f4d6b8-9fc8-4be5-bf3e-88020694d618": {
+    "asset": 1512991348000,
+    "meta": 1513693317230,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01464.png"
+  },
+  "daedf2e4-f905-4795-8919-b69bd19dfa20": {
+    "asset": 1512991348000,
+    "meta": 1513693317227,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01463.png"
+  },
+  "02fc04aa-367d-4671-b0e3-85ffdf553afd": {
+    "asset": 1512991348000,
+    "meta": 1513693317248,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01465.png"
+  },
+  "e66c7e29-a448-447c-b160-962ae10f4189": {
+    "asset": 1512991348000,
+    "meta": 1513693317253,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01466.png"
+  },
+  "e8c04d3e-4842-4c13-a145-491fbd5e5fca": {
+    "asset": 1512991348000,
+    "meta": 1513693317278,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01467.png"
+  },
+  "d291b641-77fa-4a1a-ba67-c9546bcc83a0": {
+    "asset": 1512991348000,
+    "meta": 1513693317276,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01468.png"
+  },
+  "b201096d-1b89-4324-9f65-22fcdc35ea59": {
+    "asset": 1512991348000,
+    "meta": 1513693317295,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01470.png"
+  },
+  "7c0652ba-0bb9-4909-b5b7-c2615431f2e0": {
+    "asset": 1512991348000,
+    "meta": 1513693317305,
+    "relativePath": "Imagens\\Personagem\\ParadoCimaEsquerda\\idle_top_45_L01469.png"
+  },
+  "ffe0a6f9-bce4-4b0c-ab9d-578169364190": {
+    "asset": 1513267609372,
+    "meta": 1512991336000,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita"
+  },
+  "7e36522b-ba08-428a-850a-246ce042a3b9": {
+    "asset": 1512991348000,
+    "meta": 1513693317323,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00438.png"
+  },
+  "41c2df5b-2d8f-43b1-b954-287b4a5eade0": {
+    "asset": 1512991348000,
+    "meta": 1513693317333,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00439.png"
+  },
+  "bec85364-7c82-4fe7-872a-ff430b69df04": {
+    "asset": 1512991348000,
+    "meta": 1513693317351,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00440.png"
+  },
+  "99dbca92-0e9c-4123-88c3-728c087e66f4": {
+    "asset": 1512991348000,
+    "meta": 1513693317362,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00441.png"
+  },
+  "fef85dc5-287f-4fb5-b5c2-8ed0324f856c": {
+    "asset": 1512991348000,
+    "meta": 1513693317419,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00442.png"
+  },
+  "1d327a19-b8c7-47df-b932-ec53d6b59252": {
+    "asset": 1512991348000,
+    "meta": 1513693317407,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00443.png"
+  },
+  "2a169e3e-1d1f-4b88-994b-5e43627a15a0": {
+    "asset": 1512991348000,
+    "meta": 1513693317459,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00444.png"
+  },
+  "b3c66bb3-fa71-450e-a988-e13502b1129a": {
+    "asset": 1512991348000,
+    "meta": 1513693317465,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00445.png"
+  },
+  "2523330a-0d70-4a4f-9827-b69165e97bf6": {
+    "asset": 1512991348000,
+    "meta": 1513693317519,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00446.png"
+  },
+  "e90bfc31-47b6-4e28-8554-8b990d87be0e": {
+    "asset": 1512991348000,
+    "meta": 1513693317536,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00447.png"
+  },
+  "0ee748e2-ced5-49e0-802b-a7118d826dca": {
+    "asset": 1512991348000,
+    "meta": 1513693317563,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00448.png"
+  },
+  "dcea48c4-0f7f-44d2-9f6d-53effb75f1c3": {
+    "asset": 1512991348000,
+    "meta": 1513693317574,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00449.png"
+  },
+  "a5ccf588-4b93-496b-a59d-5a69c0d4923f": {
+    "asset": 1512991348000,
+    "meta": 1513693317590,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00450.png"
+  },
+  "ad82f431-bc6b-4042-abbb-6bd8373d35d5": {
+    "asset": 1512991348000,
+    "meta": 1513693317593,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00451.png"
+  },
+  "0caaa37f-bcfa-4976-b5b1-fe110ab0568e": {
+    "asset": 1512991348000,
+    "meta": 1513693317608,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00452.png"
+  },
+  "183b3a1b-088c-4a47-8ee2-b1952783feb7": {
+    "asset": 1512991348000,
+    "meta": 1513693317614,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00453.png"
+  },
+  "890870db-1f12-4fb7-8be7-d5c05871dcfd": {
+    "asset": 1512991348000,
+    "meta": 1513693317642,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00455.png"
+  },
+  "f117e49c-3133-4a0d-9d8a-76d179e24bbe": {
+    "asset": 1512991348000,
+    "meta": 1513693317632,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00454.png"
+  },
+  "3c4a8dc4-d19d-4db8-a6af-e5eb417b7497": {
+    "asset": 1512991348000,
+    "meta": 1513693317668,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00456.png"
+  },
+  "ecff2d3d-fabf-4f50-97d9-f5df3292e591": {
+    "asset": 1512991348000,
+    "meta": 1513693317657,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00457.png"
+  },
+  "e703779c-7107-4b41-adca-a2fa448f5124": {
+    "asset": 1512991350000,
+    "meta": 1513693317683,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00458.png"
+  },
+  "621fd5a2-49b9-48f7-b077-0593376914ff": {
+    "asset": 1512991350000,
+    "meta": 1513693317690,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00459.png"
+  },
+  "d02f5d62-3edb-4cec-8075-15d358629c70": {
+    "asset": 1512991350000,
+    "meta": 1513693317727,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00460.png"
+  },
+  "5ffcc846-6708-4c3b-a690-4473ab6f24de": {
+    "asset": 1512991350000,
+    "meta": 1513693317717,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00461.png"
+  },
+  "884328bf-483f-4b4b-9b14-27e1df853f5c": {
+    "asset": 1512991350000,
+    "meta": 1513693317742,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00463.png"
+  },
+  "f1f72f3b-3423-4f1d-ab10-0cea51b9b44b": {
+    "asset": 1512991350000,
+    "meta": 1513693317752,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00462.png"
+  },
+  "3a6517b8-655b-438a-97d6-d08384207fda": {
+    "asset": 1512991350000,
+    "meta": 1513693317774,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00465.png"
+  },
+  "27a6a925-eb26-459a-9fff-c83d96a4737b": {
+    "asset": 1512991350000,
+    "meta": 1513693317767,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00464.png"
+  },
+  "78107843-5409-41e7-8630-5d5af54ac7c2": {
+    "asset": 1512991350000,
+    "meta": 1513693317794,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00467.png"
+  },
+  "6adf0a43-4608-4f7c-88f1-7629d0178ee1": {
+    "asset": 1512991350000,
+    "meta": 1513693317804,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00466.png"
+  },
+  "f7b68112-0b12-4f38-a410-9fcb8f3b785a": {
+    "asset": 1512991350000,
+    "meta": 1513693317821,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00468.png"
+  },
+  "7a78d9cb-0f87-44d6-aaeb-f5d02305fe97": {
+    "asset": 1512991350000,
+    "meta": 1513693317829,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00469.png"
+  },
+  "f7a88b40-1559-45ea-8439-8f53015fa283": {
+    "asset": 1512991350000,
+    "meta": 1513693317850,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00471.png"
+  },
+  "416cc5ba-7eda-4465-938f-4d47dbce1b92": {
+    "asset": 1512991350000,
+    "meta": 1513693317843,
+    "relativePath": "Imagens\\Personagem\\ParadoDireita\\idle_right00470.png"
+  },
+  "6dc3f77a-f595-48e2-ad23-c7400718be28": {
+    "asset": 1513267610122,
+    "meta": 1512991336000,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo"
+  },
+  "4e03bc09-57a2-4577-929a-1baef66904c7": {
+    "asset": 1512991350000,
+    "meta": 1513693317878,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00620.png"
+  },
+  "f1a0a227-b10c-4dbd-a262-7f09f72cfee6": {
+    "asset": 1512991350000,
+    "meta": 1513693317868,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00621.png"
+  },
+  "824419df-b1b8-4c97-8377-9dfb0880afb4": {
+    "asset": 1512991350000,
+    "meta": 1513693317897,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00622.png"
+  },
+  "a0dd2b9c-2eb8-4c6e-84d8-547b30694367": {
+    "asset": 1512991350000,
+    "meta": 1513693317907,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00623.png"
+  },
+  "b25f1d08-fe75-4941-b2fa-eeba40b1d122": {
+    "asset": 1512991350000,
+    "meta": 1513693317919,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00625.png"
+  },
+  "83b8f0d0-52ac-48ab-a567-7dd303653c01": {
+    "asset": 1512991350000,
+    "meta": 1513693317928,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00624.png"
+  },
+  "bb06c027-00bf-47bd-a2fc-2e53b70c4d85": {
+    "asset": 1512991350000,
+    "meta": 1513693317949,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00627.png"
+  },
+  "d919205e-25af-48ad-ad93-93edb19af28d": {
+    "asset": 1512991350000,
+    "meta": 1513693317961,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00626.png"
+  },
+  "386a13a6-3ffc-4092-8684-8c76cd5e84b4": {
+    "asset": 1512991350000,
+    "meta": 1513693317985,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00628.png"
+  },
+  "cf037129-df4c-4449-8ff3-b1a60fda0435": {
+    "asset": 1512991350000,
+    "meta": 1513693317977,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00629.png"
+  },
+  "b80d1692-02fa-4fde-b351-f9113897e4dc": {
+    "asset": 1512991350000,
+    "meta": 1513693318014,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00630.png"
+  },
+  "52e42bc1-ce88-4f37-9f86-b32998392e72": {
+    "asset": 1512991350000,
+    "meta": 1513693318005,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00631.png"
+  },
+  "6d47a414-590f-48c1-aa24-03d7444989e1": {
+    "asset": 1512991350000,
+    "meta": 1513693318033,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00632.png"
+  },
+  "6e46ba41-a844-4621-a54c-178588104b44": {
+    "asset": 1512991350000,
+    "meta": 1513693318044,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00633.png"
+  },
+  "2c84ae5f-d045-48aa-b97b-6c2db3b1b224": {
+    "asset": 1512991350000,
+    "meta": 1513693318072,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00635.png"
+  },
+  "321e8ca6-6a4f-4196-ac47-a30754c66dc2": {
+    "asset": 1512991350000,
+    "meta": 1513693318064,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00634.png"
+  },
+  "dbae5e87-e25f-4f48-a42f-97b752880d86": {
+    "asset": 1512991350000,
+    "meta": 1513693318099,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00637.png"
+  },
+  "a9e70d73-674e-4058-9ccf-7c93f9a9ebab": {
+    "asset": 1512991350000,
+    "meta": 1513693318087,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00636.png"
+  },
+  "6d701f53-c09b-4a02-90bf-3d1aef7b150f": {
+    "asset": 1512991350000,
+    "meta": 1513693318127,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00638.png"
+  },
+  "c0e7b7c2-3bb6-4eca-b707-e70078a41220": {
+    "asset": 1512991350000,
+    "meta": 1513693318119,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00639.png"
+  },
+  "870a086d-3b9d-47bc-b324-c6f0b0119d29": {
+    "asset": 1512991350000,
+    "meta": 1513693318142,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00640.png"
+  },
+  "aa339fc8-6d64-4aca-8c39-d383b79f9dcd": {
+    "asset": 1512991350000,
+    "meta": 1513693318152,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00641.png"
+  },
+  "8c020d19-ef4b-4da3-9246-cfca5415440f": {
+    "asset": 1512991350000,
+    "meta": 1513693318170,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00642.png"
+  },
+  "ae00d8fc-f0be-4590-b011-17593a187c1c": {
+    "asset": 1512991350000,
+    "meta": 1513693318180,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00643.png"
+  },
+  "e640e255-11eb-42b3-8871-cd4992d490cc": {
+    "asset": 1512991350000,
+    "meta": 1513693318197,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00645.png"
+  },
+  "3625945b-0ac9-4891-8f78-c63232376ddc": {
+    "asset": 1512991350000,
+    "meta": 1513693318208,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00644.png"
+  },
+  "fdd600ae-c340-4f62-a56d-d09aaa655273": {
+    "asset": 1512991350000,
+    "meta": 1513693318226,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00647.png"
+  },
+  "d6f8b440-0aee-416a-bc4a-be2f97d6c33b": {
+    "asset": 1512991350000,
+    "meta": 1513693318233,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00646.png"
+  },
+  "ec453ec6-8a6d-49e1-b2f0-85227f5cd1de": {
+    "asset": 1512991350000,
+    "meta": 1513693318257,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00648.png"
+  },
+  "9bf2eb0e-9fd1-461b-bff8-f3c9b2160d7d": {
+    "asset": 1512991350000,
+    "meta": 1513693318247,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00649.png"
+  },
+  "bd5dc30d-114b-427a-93f5-4713bd30c1e9": {
+    "asset": 1512991350000,
+    "meta": 1513693318282,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00650.png"
+  },
+  "f4fa355c-c27c-4419-9d46-02ddccc9d3c1": {
+    "asset": 1512991350000,
+    "meta": 1513693318272,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00651.png"
+  },
+  "473654eb-8107-4ce7-ab88-c142ab904c94": {
+    "asset": 1512991350000,
+    "meta": 1513693318299,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00652.png"
+  },
+  "12ab8118-c25d-404b-b5a2-b302930aac07": {
+    "asset": 1512991350000,
+    "meta": 1513693318307,
+    "relativePath": "Imagens\\Personagem\\ParadoDireitaBaixo\\idle_bottom_45_r00653.png"
+  },
+  "dcc83f08-87f8-440d-91b5-4ba3a3d5bfaa": {
+    "asset": 1513267610759,
+    "meta": 1512991336000,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda"
+  },
+  "5103a1ce-c73a-4831-a539-988be49665df": {
+    "asset": 1512991350000,
+    "meta": 1513693318322,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01249.png"
+  },
+  "c138f3f3-90f1-4d55-b068-5aba2b7a8be5": {
+    "asset": 1512991350000,
+    "meta": 1513693318328,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01248.png"
+  },
+  "e6e10792-5ecd-44fd-995b-d33fc5e503f0": {
+    "asset": 1512991350000,
+    "meta": 1513693318355,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01250.png"
+  },
+  "538f8e36-6ac1-4e60-b57f-73976f88f6fa": {
+    "asset": 1512991350000,
+    "meta": 1513693318345,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01251.png"
+  },
+  "5357bcd4-46c8-481f-b94a-c957bebd08a4": {
+    "asset": 1512991350000,
+    "meta": 1513693318368,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01253.png"
+  },
+  "cebafa62-a761-4b4f-a38a-8953f41086b8": {
+    "asset": 1512991350000,
+    "meta": 1513693318382,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01252.png"
+  },
+  "218f4c80-924e-4829-9c32-9aeb915068be": {
+    "asset": 1512991350000,
+    "meta": 1513693318392,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01254.png"
+  },
+  "bc72bc41-a7df-4f61-a859-0aebd793ff9e": {
+    "asset": 1512991350000,
+    "meta": 1513693318417,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01255.png"
+  },
+  "ef59081a-4de3-48ad-b41b-44318c0b80fc": {
+    "asset": 1512991350000,
+    "meta": 1513693318407,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01256.png"
+  },
+  "30d0f987-3887-4bed-84b9-53f3a19a5af9": {
+    "asset": 1512991350000,
+    "meta": 1513693318432,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01257.png"
+  },
+  "e6a0bfeb-b965-4e66-ab63-d9c5e5a24d25": {
+    "asset": 1512991350000,
+    "meta": 1513693318468,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01258.png"
+  },
+  "b8e6723f-2f61-4b79-9125-4637b2718b3f": {
+    "asset": 1512991350000,
+    "meta": 1513693318458,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01259.png"
+  },
+  "c89397ee-4908-41be-905d-8d8915e11382": {
+    "asset": 1512991350000,
+    "meta": 1513693318483,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01261.png"
+  },
+  "b632a35b-2f6b-4df7-a7e7-d9e3e2866eeb": {
+    "asset": 1512991350000,
+    "meta": 1513693318488,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01260.png"
+  },
+  "d496bb03-7b13-4038-b114-d9239db2b544": {
+    "asset": 1512991350000,
+    "meta": 1513693318507,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01262.png"
+  },
+  "b2d15ac0-1eb8-4cf0-96e4-4a20c65b3b86": {
+    "asset": 1512991350000,
+    "meta": 1513693318517,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01263.png"
+  },
+  "bd1fa7bf-b724-49a3-bb9c-ededeb5778e0": {
+    "asset": 1512991350000,
+    "meta": 1513693318545,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01264.png"
+  },
+  "1d94d9d9-c4c6-42fd-8ab9-afd3df8fca48": {
+    "asset": 1512991350000,
+    "meta": 1513693318535,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01265.png"
+  },
+  "1932f072-ebf2-49f0-ae11-109b782c9dcc": {
+    "asset": 1512991350000,
+    "meta": 1513693318570,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01266.png"
+  },
+  "dbc2bf1e-de29-451e-95fa-d2dcfec88ff3": {
+    "asset": 1512991350000,
+    "meta": 1513693318565,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01267.png"
+  },
+  "7bc7a04b-9794-4eff-8616-d323de33aa3d": {
+    "asset": 1512991350000,
+    "meta": 1513693318593,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01269.png"
+  },
+  "c44ddaf0-0f2c-4015-88a6-234df4604e71": {
+    "asset": 1512991350000,
+    "meta": 1513693318603,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01268.png"
+  },
+  "eddef210-20a9-4886-8708-968e4936dcee": {
+    "asset": 1512991350000,
+    "meta": 1513693318632,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01270.png"
+  },
+  "a8d050bf-eb3d-44d9-b5f7-245ab2704011": {
+    "asset": 1512991350000,
+    "meta": 1513693318621,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01271.png"
+  },
+  "78616dd9-80d1-419f-9e1a-cbfd5a69d3e9": {
+    "asset": 1512991350000,
+    "meta": 1513693318660,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01272.png"
+  },
+  "4438fb3d-3546-43af-adc5-081d2b37cf73": {
+    "asset": 1512991350000,
+    "meta": 1513693318649,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01273.png"
+  },
+  "5dd1c58e-3197-42a3-83a6-8dc57f16c481": {
+    "asset": 1512991350000,
+    "meta": 1513693318679,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01274.png"
+  },
+  "54b9c88a-dbeb-4e48-9aaa-e92f180192e4": {
+    "asset": 1512991350000,
+    "meta": 1513693318688,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01275.png"
+  },
+  "feada068-5484-4727-82cb-55fd60ea5db1": {
+    "asset": 1512991350000,
+    "meta": 1513693318713,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01276.png"
+  },
+  "592105b7-8e27-428b-8f03-ed5651e39ee5": {
+    "asset": 1512991350000,
+    "meta": 1513693318702,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01277.png"
+  },
+  "fcec38c6-f026-4dae-8c2f-2273d0224d4b": {
+    "asset": 1512991350000,
+    "meta": 1513693318757,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01279.png"
+  },
+  "37049c1a-9396-4340-94f8-d2569dd85b92": {
+    "asset": 1512991350000,
+    "meta": 1513693318764,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerda\\idle_left01278.png"
+  },
+  "9d8e0272-d3b8-475f-98ca-50980c91371b": {
+    "asset": 1513267612452,
+    "meta": 1512991336000,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo"
+  },
+  "658727ed-33b5-487e-b3d7-95ceba951c3d": {
+    "asset": 1512991350000,
+    "meta": 1513693318791,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01045.png"
+  },
+  "94623e34-6a0a-4fd6-9a91-2e027ff2bc6a": {
+    "asset": 1512991350000,
+    "meta": 1513693318780,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01046.png"
+  },
+  "1c6bb8ef-9858-47c7-a7b2-cdb2c5176044": {
+    "asset": 1512991350000,
+    "meta": 1513693318805,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01048.png"
+  },
+  "069496e8-15b2-498a-9c90-c94ae273f5f5": {
+    "asset": 1512991350000,
+    "meta": 1513693318816,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01047.png"
+  },
+  "96e572d6-6d8b-4dfc-8df7-d30fece5cf5f": {
+    "asset": 1512991350000,
+    "meta": 1513693318827,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01050.png"
+  },
+  "e7d072c5-f0d6-4aa6-8577-4d2be2e1796c": {
+    "asset": 1512991350000,
+    "meta": 1513693318834,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01049.png"
+  },
+  "190baa35-436e-49ad-899d-ca7603ae9a77": {
+    "asset": 1512991350000,
+    "meta": 1513693318852,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01052.png"
+  },
+  "834179f3-9080-45ad-9dc5-632ba1b01dd3": {
+    "asset": 1512991350000,
+    "meta": 1513693318859,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01051.png"
+  },
+  "f492bd40-8819-46fa-bc46-e25b68a32386": {
+    "asset": 1512991350000,
+    "meta": 1513693318883,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01053.png"
+  },
+  "c6a09264-bace-4e46-a4fb-1a5db83aa09d": {
+    "asset": 1512991350000,
+    "meta": 1513693318876,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01054.png"
+  },
+  "61fa1a9d-312e-4d3a-ae73-4c4ffcb1aa19": {
+    "asset": 1512991350000,
+    "meta": 1513693318898,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01055.png"
+  },
+  "acbcaa80-08cb-4282-9d97-2aca150e1dab": {
+    "asset": 1512991350000,
+    "meta": 1513693318905,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01056.png"
+  },
+  "75de2aad-6537-45a4-89bb-3558ed57d428": {
+    "asset": 1512991352000,
+    "meta": 1513693318923,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01057.png"
+  },
+  "acea7646-ae3e-4ea3-87b4-3aa7ac6f6aa5": {
+    "asset": 1512991352000,
+    "meta": 1513693318928,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01058.png"
+  },
+  "c0050504-4ee9-4e0b-a935-0247406d63f3": {
+    "asset": 1512991352000,
+    "meta": 1513693318952,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01060.png"
+  },
+  "9eb5c394-51ee-48e6-be01-bd554f4f6e7a": {
+    "asset": 1512991352000,
+    "meta": 1513693318945,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01059.png"
+  },
+  "9755f1df-ee68-4030-9d45-35dc3135d63f": {
+    "asset": 1512991352000,
+    "meta": 1513693318969,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01061.png"
+  },
+  "2d9b73bf-ca3c-4900-8cb9-3b51c866c843": {
+    "asset": 1512991352000,
+    "meta": 1513693318974,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01062.png"
+  },
+  "99be627c-61e7-4e31-88da-b421f4d95a80": {
+    "asset": 1512991352000,
+    "meta": 1513693318989,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01064.png"
+  },
+  "0c2cadaa-8b91-469c-b69c-f6ea8219bd38": {
+    "asset": 1512991352000,
+    "meta": 1513693318999,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01063.png"
+  },
+  "63665771-d77f-4292-b6f9-cb94b4f89b57": {
+    "asset": 1512991352000,
+    "meta": 1513693319024,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01066.png"
+  },
+  "2d4f9507-dbd9-44c5-b907-f6a2e0961260": {
+    "asset": 1512991352000,
+    "meta": 1513693319029,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01065.png"
+  },
+  "f05948d4-59a7-4edd-b196-ec0b0a89b71c": {
+    "asset": 1512991352000,
+    "meta": 1513693319048,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01067.png"
+  },
+  "56f75171-378f-4e08-b855-42a289fdfbc9": {
+    "asset": 1512991352000,
+    "meta": 1513693319058,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01068.png"
+  },
+  "c87bf382-0f5d-4b44-9ae8-8916201611c6": {
+    "asset": 1512991352000,
+    "meta": 1513693319077,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01070.png"
+  },
+  "04bfd418-14ff-4b1a-b974-cd6028be1763": {
+    "asset": 1512991352000,
+    "meta": 1513693319073,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01069.png"
+  },
+  "d10cf13c-3b06-4b04-8592-111a3a0e95c1": {
+    "asset": 1512991352000,
+    "meta": 1513693319106,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01071.png"
+  },
+  "764fe97a-14eb-41f5-ab17-fe253179806c": {
+    "asset": 1512991352000,
+    "meta": 1513693319095,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01072.png"
+  },
+  "c0bec753-07d3-48c2-a202-45f71bb77cf7": {
+    "asset": 1512991352000,
+    "meta": 1513693319132,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01074.png"
+  },
+  "83729c89-00a0-46dc-ab43-16071d70aa3d": {
+    "asset": 1512991352000,
+    "meta": 1513693319122,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01073.png"
+  },
+  "0e38fd0e-fb01-4cfc-81c8-23a9f8c18915": {
+    "asset": 1512991352000,
+    "meta": 1513693319149,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01076.png"
+  },
+  "4c2d4944-5764-43c7-9e32-c7d6e18895d8": {
+    "asset": 1512991352000,
+    "meta": 1513693319159,
+    "relativePath": "Imagens\\Personagem\\ParadoEsquerdaBaixo\\idle_bottom_45_L01075.png"
+  },
+  "945e1a47-26ce-4f81-9a7d-f264fc95f95d": {
+    "asset": 1513267619963,
+    "meta": 1512991336000,
+    "relativePath": "Imagens\\Zumbi"
+  },
+  "adaf59b9-5c96-4550-afa2-83cb5caecff1": {
+    "asset": 1512991336000,
+    "meta": 1513693319173,
+    "relativePath": "Imagens\\Tiro.png"
+  },
+  "afa68cbe-7999-45f5-b059-ed728f90e2e8": {
+    "asset": 1512991336000,
+    "meta": 1513693319189,
+    "relativePath": "Imagens\\Zumbi.png"
+  },
+  "7db88370-de7c-42ed-9064-738a3a4b3768": {
+    "asset": 1513267613188,
+    "meta": 1512991352000,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo"
+  },
+  "89ee945a-fe5a-4083-b7a0-22a7a0fd5f89": {
+    "asset": 1512991352000,
+    "meta": 1513693319226,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00001.png"
+  },
+  "351ff52d-8878-4195-990d-80391e02ebb3": {
+    "asset": 1512991352000,
+    "meta": 1513693319201,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00000.png"
+  },
+  "2362f074-94f7-4748-b102-84c010837eb2": {
+    "asset": 1512991352000,
+    "meta": 1513693319221,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00002.png"
+  },
+  "1e4a81bb-5f36-4565-af1e-1bb5b34c59fc": {
+    "asset": 1512991352000,
+    "meta": 1513693319253,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00003.png"
+  },
+  "c200e2d7-28b8-432c-9fca-fa21d444f43c": {
+    "asset": 1512991352000,
+    "meta": 1513693319242,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00004.png"
+  },
+  "d7837ae3-8eab-485e-b806-4f901596dcbb": {
+    "asset": 1512991352000,
+    "meta": 1513693319260,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00005.png"
+  },
+  "89bd72ba-c895-4b75-b328-1c529a85fade": {
+    "asset": 1512991352000,
+    "meta": 1513693319280,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00006.png"
+  },
+  "e26f16e8-35d3-4dba-b521-c7f8adf03be1": {
+    "asset": 1512991352000,
+    "meta": 1513693319282,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00007.png"
+  },
+  "0f76a404-5ef9-43ff-8198-ff93ad752fa5": {
+    "asset": 1512991352000,
+    "meta": 1513693319296,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00009.png"
+  },
+  "23843465-9957-4303-8a2f-7e8cea0b2203": {
+    "asset": 1512991352000,
+    "meta": 1513693319309,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00008.png"
+  },
+  "79f9e76a-ae33-4614-aa01-9ab8a3b3f508": {
+    "asset": 1512991352000,
+    "meta": 1513693319334,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00010.png"
+  },
+  "9218851a-fa8d-427f-9787-e1345b147f9e": {
+    "asset": 1512991352000,
+    "meta": 1513693319327,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00011.png"
+  },
+  "84d9d3f6-1689-42c6-8d0c-4d796ea953db": {
+    "asset": 1512991352000,
+    "meta": 1513693319352,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00012.png"
+  },
+  "ff13e9f2-45b0-4ec5-bd45-e180e9afc46e": {
+    "asset": 1512991352000,
+    "meta": 1513693319357,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00013.png"
+  },
+  "a74007c5-8818-4562-a2b2-bd2d067294e1": {
+    "asset": 1512991352000,
+    "meta": 1513693319389,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00014.png"
+  },
+  "479cbf3c-7aa8-4323-bdfc-050dd2269db0": {
+    "asset": 1512991352000,
+    "meta": 1513693319399,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00015.png"
+  },
+  "b3ddd75b-e15d-4e3a-9292-587d82b03095": {
+    "asset": 1512991352000,
+    "meta": 1513693319476,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00017.png"
+  },
+  "001e5bfa-839c-43e9-a545-b806fb721d49": {
+    "asset": 1512991352000,
+    "meta": 1513693319431,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00016.png"
+  },
+  "59dd483d-5b23-4f57-840e-32f1b31d9311": {
+    "asset": 1512991352000,
+    "meta": 1513693319464,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00019.png"
+  },
+  "c69336c1-c98d-4328-b3a0-81513c4840cd": {
+    "asset": 1512991352000,
+    "meta": 1513693319446,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00018.png"
+  },
+  "3e6c793b-f45f-4062-b4be-d7f07bdddd36": {
+    "asset": 1512991352000,
+    "meta": 1513693319488,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00021.png"
+  },
+  "160f8251-a34c-47f1-9822-56beed820718": {
+    "asset": 1512991352000,
+    "meta": 1513693319494,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00020.png"
+  },
+  "dc06f086-9d25-4e07-807b-c3b9be043ad6": {
+    "asset": 1512991352000,
+    "meta": 1513693319507,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00022.png"
+  },
+  "7f7e812a-83e3-48d3-806e-f7d8b63e4e7e": {
+    "asset": 1512991352000,
+    "meta": 1513693319549,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00023.png"
+  },
+  "33f836b3-0f17-4c67-afd0-cac50203767e": {
+    "asset": 1512991352000,
+    "meta": 1513693319557,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00024.png"
+  },
+  "4959a3d9-9a4a-42c4-a84b-0feea86ae4e6": {
+    "asset": 1512991352000,
+    "meta": 1513693319595,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00025.png"
+  },
+  "9280958d-2062-4296-bf25-20b6fc248404": {
+    "asset": 1512991352000,
+    "meta": 1513693319610,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00027.png"
+  },
+  "9c67016c-c3a6-4283-8f59-e5a38d7016df": {
+    "asset": 1512991352000,
+    "meta": 1513693319586,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00026.png"
+  },
+  "8b788a5d-9b4f-4d2f-be83-78b714220fd2": {
+    "asset": 1512991352000,
+    "meta": 1513693319632,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00028.png"
+  },
+  "68ab389b-7685-47dc-bb36-79e7c442c722": {
+    "asset": 1512991352000,
+    "meta": 1513693319641,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00029.png"
+  },
+  "45b6c471-6a44-4990-8512-83eec5c5c3d7": {
+    "asset": 1512991352000,
+    "meta": 1513693319658,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00030.png"
+  },
+  "a0c6ccdc-15ec-4bec-9e31-cd48bbd74a2e": {
+    "asset": 1512991352000,
+    "meta": 1513693319675,
+    "relativePath": "Imagens\\Zumbi\\AndarBaixo\\walk_front00031.png"
+  },
+  "1526e674-760a-4bad-a9fe-238dfe63ddf4": {
+    "asset": 1513267613490,
+    "meta": 1512991352000,
+    "relativePath": "Imagens\\Zumbi\\AndarCima"
+  },
+  "38e3315c-040e-4f6d-8d4d-9b883f977bcd": {
+    "asset": 1512991352000,
+    "meta": 1513693319702,
+    "relativePath": "Imagens\\Zumbi\\AndarCima\\walk_top_00001.png"
+  },
+  "7a4e7dd9-1533-47d3-9bf8-0ca056e74da9": {
+    "asset": 1512991352000,
+    "meta": 1513693319688,
+    "relativePath": "Imagens\\Zumbi\\AndarCima\\walk_top_00000.png"
+  },
+  "314f7078-78b7-448a-bbb3-93e04fc2fc54": {
+    "asset": 1512991352000,
+    "meta": 1513693319720,
+    "relativePath": "Imagens\\Zumbi\\AndarCima\\walk_top_00002.png"
+  },
+  "0055b859-7964-4942-957b-3ad13b2ae305": {
+    "asset": 1512991352000,
+    "meta": 1513693319732,
+    "relativePath": "Imagens\\Zumbi\\AndarCima\\walk_top_00003.png"
+  },
+  "e8ab6c17-70ca-4666-9afb-0d5150aaae80": {
+    "asset": 1512991352000,
+    "meta": 1513693319752,
+    "relativePath": "Imagens\\Zumbi\\AndarCima\\walk_top_00004.png"
+  },
+  "1f2f6d2f-99ad-4087-aa38-352861e9744f": {
+    "asset": 1512991352000,
+    "meta": 1513693319764,
+    "relativePath": "Imagens\\Zumbi\\AndarCima\\walk_top_00005.png"
+  },
+  "e9ecdfb2-6aaa-4fd8-957c-819f339764ea": {
+    "asset": 1512991352000,
+    "meta": 1513693319786,
+    "relativePath": "Imagens\\Zumbi\\AndarCima\\walk_top_00007.png"
+  },
+  "1ffd5fcc-e4e5-4158-aa33-b4ddeec2febe": {
+    "asset": 1512991352000,
+    "meta": 1513693319819,
+    "relativePath": "Imagens\\Zumbi\\AndarCima\\walk_top_00006.png"
+  },
+  "6f9c5fa5-9c8a-4914-bcc2-d61a49d67240": {
+    "asset": 1512991352000,
+    "meta": 1513693319876,
+    "relativePath": "Imagens\\Zumbi\\AndarCima\\walk_top_00009.png"
+  },
+  "3882e514-54e2-4618-adfb-48a5f0304375": {
+    "asset": 1512991352000,
+    "meta": 1513693319870,
+    "relativePath": "Imagens\\Zumbi\\AndarCima\\walk_top_00008.png"
+  },
+  "e28aeaef-f8f3-462f-96f2-b352dcbdc057": {
+    "asset": 1512991352000,
+    "meta": 1513693319960,
+    "relativePath": "Imagens\\Zumbi\\AndarCima\\walk_top_00010.png"
+  },
+  "8c4e114d-5fed-4df4-b0bc-63be7be8f187": {
+    "asset": 1512991352000,
+    "meta": 1513693319942,
+    "relativePath": "Imagens\\Zumbi\\AndarCima\\walk_top_00011.png"
+  },
+  "8d7b54da-a32f-4648-980c-48174ca9cd18": {
+    "asset": 1512991352000,
+    "meta": 1513693319984,
+    "relativePath": "Imagens\\Zumbi\\AndarCima\\walk_top_00013.png"
+  },
+  "da88f27b-f1d8-4db7-a3a0-409a35169d53": {
+    "asset": 1512991352000,
+    "meta": 1513693319996,
+    "relativePath": "Imagens\\Zumbi\\AndarCima\\walk_top_00012.png"
+  },
+  "ec6ce4d3-2928-4a30-81ae-3cd43917a401": {
+    "asset": 1513267613913,
+    "meta": 1512991352000,
+    "relativePath": "Imagens\\Zumbi\\AndarDireita"
+  },
+  "9ebc2702-e489-46bd-b516-fb7ce4ab252f": {
+    "asset": 1512991352000,
+    "meta": 1513693320018,
+    "relativePath": "Imagens\\Zumbi\\AndarCima\\walk_top_00014.png"
+  },
+  "a3fbdadf-02d2-469e-9fda-b5b906b4aada": {
+    "asset": 1512991352000,
+    "meta": 1513693320028,
+    "relativePath": "Imagens\\Zumbi\\AndarDireita\\walk_right00000.png"
+  },
+  "c501dba3-c2e2-40fc-bde8-b1ef1e3d3383": {
+    "asset": 1512991352000,
+    "meta": 1513693320059,
+    "relativePath": "Imagens\\Zumbi\\AndarDireita\\walk_right00002.png"
+  },
+  "fd00bc1c-8076-4ee3-9470-a6da97d2b550": {
+    "asset": 1512991352000,
+    "meta": 1513693320053,
+    "relativePath": "Imagens\\Zumbi\\AndarDireita\\walk_right00001.png"
+  },
+  "f3ca1935-90a8-42f0-b95e-69c71e0b0975": {
+    "asset": 1512991352000,
+    "meta": 1513693320076,
+    "relativePath": "Imagens\\Zumbi\\AndarDireita\\walk_right00004.png"
+  },
+  "20a7f489-7e9c-48a0-bd62-6c9901e0e109": {
+    "asset": 1512991352000,
+    "meta": 1513693320086,
+    "relativePath": "Imagens\\Zumbi\\AndarDireita\\walk_right00003.png"
+  },
+  "62c1cb7a-8b3e-4b12-b896-56694004de25": {
+    "asset": 1512991352000,
+    "meta": 1513693320117,
+    "relativePath": "Imagens\\Zumbi\\AndarDireita\\walk_right00006.png"
+  },
+  "0677c4c6-18d5-4b80-93af-df2f863d2adb": {
+    "asset": 1512991352000,
+    "meta": 1513693320104,
+    "relativePath": "Imagens\\Zumbi\\AndarDireita\\walk_right00005.png"
+  },
+  "39b0a4ed-aed2-418e-a1cd-c1441b61a5bb": {
+    "asset": 1512991352000,
+    "meta": 1513693320130,
+    "relativePath": "Imagens\\Zumbi\\AndarDireita\\walk_right00007.png"
+  },
+  "c9626179-4551-4c85-8f22-ae424218cd8f": {
+    "asset": 1512991352000,
+    "meta": 1513693320140,
+    "relativePath": "Imagens\\Zumbi\\AndarDireita\\walk_right00008.png"
+  },
+  "4cb5644b-0345-4aff-9b69-643695c757db": {
+    "asset": 1512991352000,
+    "meta": 1513693320152,
+    "relativePath": "Imagens\\Zumbi\\AndarDireita\\walk_right00009.png"
+  },
+  "40943401-be08-4998-b271-6d31cb68c70e": {
+    "asset": 1512991352000,
+    "meta": 1513693320166,
+    "relativePath": "Imagens\\Zumbi\\AndarDireita\\walk_right00010.png"
+  },
+  "b2cd6a57-8321-418e-b3b7-e8b3c84eaa1c": {
+    "asset": 1512991352000,
+    "meta": 1513693320187,
+    "relativePath": "Imagens\\Zumbi\\AndarDireita\\walk_right00012.png"
+  },
+  "63cad229-53f3-48e6-a7dd-5183ab892d80": {
+    "asset": 1512991352000,
+    "meta": 1513693320180,
+    "relativePath": "Imagens\\Zumbi\\AndarDireita\\walk_right00011.png"
+  },
+  "dd327b00-8163-4ef9-8aad-784411060852": {
+    "asset": 1512991352000,
+    "meta": 1513693320211,
+    "relativePath": "Imagens\\Zumbi\\AndarDireita\\walk_right00014.png"
+  },
+  "e48bf8b3-5ce3-42bb-973a-a046f6031c38": {
+    "asset": 1512991352000,
+    "meta": 1513693320201,
+    "relativePath": "Imagens\\Zumbi\\AndarDireita\\walk_right00013.png"
+  },
+  "2615222f-1a5a-4b19-892b-ef4027e9d264": {
+    "asset": 1512991352000,
+    "meta": 1513693320251,
+    "relativePath": "Imagens\\Zumbi\\AndarDireita\\walk_right00016.png"
+  },
+  "4277ce7c-1380-4082-a213-5235b59105b6": {
+    "asset": 1512991352000,
+    "meta": 1513693320240,
+    "relativePath": "Imagens\\Zumbi\\AndarDireita\\walk_right00015.png"
+  },
+  "c5150bb1-dd6e-4300-97b8-e3f6a3860cfd": {
+    "asset": 1512991352000,
+    "meta": 1513693320270,
+    "relativePath": "Imagens\\Zumbi\\AndarDireita\\walk_right00017.png"
+  },
+  "f8eafa37-721f-45e5-92ba-dfba8967c36a": {
+    "asset": 1512991352000,
+    "meta": 1513693320282,
+    "relativePath": "Imagens\\Zumbi\\AndarDireita\\walk_right00018.png"
+  },
+  "da0b211c-2b65-4dcd-95ca-c9553e947572": {
+    "asset": 1513267615225,
+    "meta": 1512991352000,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo"
+  },
+  "46cd915a-fada-42ae-b408-af5f644e11b2": {
+    "asset": 1512991352000,
+    "meta": 1513693320293,
+    "relativePath": "Imagens\\Zumbi\\AndarDireita\\walk_right00019.png"
+  },
+  "5d5f58c1-5411-4217-b7de-a774e7632a61": {
+    "asset": 1512991354000,
+    "meta": 1513693320324,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00000.png"
+  },
+  "fe2bd618-e919-4e9d-8e0d-33cdc1bed164": {
+    "asset": 1512991354000,
+    "meta": 1513693320313,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00001.png"
+  },
+  "67eb5e2f-58f7-4102-bf0b-434eb971a9c3": {
+    "asset": 1512991354000,
+    "meta": 1513693320348,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00002.png"
+  },
+  "21f06ed5-4dd1-4a85-a30f-5d85f69a2b47": {
+    "asset": 1512991354000,
+    "meta": 1513693320372,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00004.png"
+  },
+  "8cbe6c7a-0f09-443c-8e21-ad0a6b4f7b4c": {
+    "asset": 1512991354000,
+    "meta": 1513693320341,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00003.png"
+  },
+  "1164b690-9215-465e-a12e-a83bdf2d4aee": {
+    "asset": 1512991354000,
+    "meta": 1513693320391,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00006.png"
+  },
+  "d13165f2-0f88-4577-9f20-756269dbe38c": {
+    "asset": 1512991354000,
+    "meta": 1513693320362,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00005.png"
+  },
+  "d08495d1-fe22-4ce1-a10f-c19ba5f2d921": {
+    "asset": 1512991354000,
+    "meta": 1513693320421,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00008.png"
+  },
+  "bd6a0457-c3f2-4579-ba39-1a232b8d0728": {
+    "asset": 1512991354000,
+    "meta": 1513693320401,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00007.png"
+  },
+  "e4364eb3-15a3-4949-80b7-00e2f138530c": {
+    "asset": 1512991354000,
+    "meta": 1513693320452,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00010.png"
+  },
+  "3b1060b9-4c97-4ddf-a7e1-c61259ad94d8": {
+    "asset": 1512991354000,
+    "meta": 1513693320426,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00009.png"
+  },
+  "61102c31-c746-4800-936e-28db545e09c3": {
+    "asset": 1512991354000,
+    "meta": 1513693320443,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00011.png"
+  },
+  "bbe2d409-dfae-4c2b-a7ce-78ffee1de594": {
+    "asset": 1512991354000,
+    "meta": 1513693320471,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00012.png"
+  },
+  "27c774de-ce01-4427-bd50-95324c7975b9": {
+    "asset": 1512991354000,
+    "meta": 1513693320481,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00013.png"
+  },
+  "81df5ce2-0bcd-4ad5-b395-5431a0f10003": {
+    "asset": 1512991354000,
+    "meta": 1513693320508,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00014.png"
+  },
+  "87fba6fd-e9f6-4854-ac73-c082d875701c": {
+    "asset": 1512991354000,
+    "meta": 1513693320523,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00016.png"
+  },
+  "32689938-9f76-4d29-aad8-36763743498a": {
+    "asset": 1512991354000,
+    "meta": 1513693320498,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00015.png"
+  },
+  "d12448e0-302f-4a94-b941-261c8c619de0": {
+    "asset": 1512991354000,
+    "meta": 1513693320540,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00017.png"
+  },
+  "cf4af06b-3d50-4f68-a63e-b72cf8e485a5": {
+    "asset": 1512991354000,
+    "meta": 1513693320551,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00018.png"
+  },
+  "29314437-e7c8-44a9-b02f-fd5881ce8942": {
+    "asset": 1512991354000,
+    "meta": 1513693320578,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00019.png"
+  },
+  "9cb70697-a7cc-44d2-abf0-fd2f7240c56c": {
+    "asset": 1512991354000,
+    "meta": 1513693320584,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00020.png"
+  },
+  "3b9ba82e-3dd9-4561-a54f-417e11dcbe05": {
+    "asset": 1512991354000,
+    "meta": 1513693320615,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00021.png"
+  },
+  "44e5f8b9-3810-4b45-b690-f0c524de93b0": {
+    "asset": 1512991354000,
+    "meta": 1513693320603,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00022.png"
+  },
+  "493c3a07-8006-4b6f-aba2-7a0696d02f57": {
+    "asset": 1512991354000,
+    "meta": 1513693320645,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00023.png"
+  },
+  "5f5c043b-b942-4f06-9d8d-a501d1b82c6f": {
+    "asset": 1512991354000,
+    "meta": 1513693320633,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00024.png"
+  },
+  "f1ffc306-f147-4707-ba7e-c9d8faaedc93": {
+    "asset": 1512991354000,
+    "meta": 1513693320687,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00025.png"
+  },
+  "296300f3-0d82-4258-8fcd-1d8720f688e9": {
+    "asset": 1512991354000,
+    "meta": 1513693320677,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00026.png"
+  },
+  "fa241bad-e685-4ff4-9fed-b8c1161e1b6d": {
+    "asset": 1512991354000,
+    "meta": 1513693320736,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00028.png"
+  },
+  "a76d064f-210d-4cc8-957d-243380ffc184": {
+    "asset": 1512991354000,
+    "meta": 1513693320750,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00027.png"
+  },
+  "1d63c119-140b-498d-a865-efc68091b1b9": {
+    "asset": 1512991354000,
+    "meta": 1513693320796,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00030.png"
+  },
+  "035830a8-728d-41d0-a30d-eab8571c0bc1": {
+    "asset": 1512991354000,
+    "meta": 1513693320786,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00029.png"
+  },
+  "cecd757c-5e74-41fa-95f0-5fbf431da260": {
+    "asset": 1512991354000,
+    "meta": 1513693320849,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00032.png"
+  },
+  "1561fa33-fe20-473d-afcd-28150d7c61a0": {
+    "asset": 1512991354000,
+    "meta": 1513693320844,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00031.png"
+  },
+  "65308be6-427e-409a-bd38-5cbe09cf29ed": {
+    "asset": 1512991354000,
+    "meta": 1513693320896,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00034.png"
+  },
+  "05604dbb-6a28-4b64-b2e3-78b96d88a481": {
+    "asset": 1512991354000,
+    "meta": 1513693320910,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00033.png"
+  },
+  "10953ae9-9f41-48b9-be94-2f57b20763db": {
+    "asset": 1512991354000,
+    "meta": 1513693320928,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00035.png"
+  },
+  "0a0d2055-f448-4023-bf1d-8547ca63f472": {
+    "asset": 1512991354000,
+    "meta": 1513693320935,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00036.png"
+  },
+  "0ed7c5aa-67b5-47ea-975d-8f6c280b3bd5": {
+    "asset": 1512991354000,
+    "meta": 1513693320971,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00038.png"
+  },
+  "fbd629e1-8537-4fe9-ad53-5b8e53fab341": {
+    "asset": 1512991354000,
+    "meta": 1513693320985,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00037.png"
+  },
+  "6182a7e6-6cb1-4a19-9a83-38ccc4e8de6f": {
+    "asset": 1512991354000,
+    "meta": 1513693321020,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00039.png"
+  },
+  "b50c3028-94d1-4dc0-9113-efb06a0012d1": {
+    "asset": 1512991354000,
+    "meta": 1513693321030,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00040.png"
+  },
+  "e6864ba3-ead0-4859-9abe-5dc2f2f0f996": {
+    "asset": 1512991354000,
+    "meta": 1513693321059,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00041.png"
+  },
+  "fc6ffa3f-8859-4149-8c85-76eefd88b59f": {
+    "asset": 1512991354000,
+    "meta": 1513693321048,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00042.png"
+  },
+  "f8057bc4-bdb2-4960-91a6-6a347bdab20d": {
+    "asset": 1512991354000,
+    "meta": 1513693321086,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00043.png"
+  },
+  "f32d568f-94ac-48db-bc6c-9f57a44624b0": {
+    "asset": 1512991354000,
+    "meta": 1513693321076,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00044.png"
+  },
+  "d48461b8-afda-4fdd-a372-f8da1b54b7f0": {
+    "asset": 1512991354000,
+    "meta": 1513693321123,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00046.png"
+  },
+  "a38b4b93-0eea-4074-933d-c95a3175852b": {
+    "asset": 1512991354000,
+    "meta": 1513693321102,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00045.png"
+  },
+  "562b4f5e-e2e7-4152-8bdd-b66ee124ccbe": {
+    "asset": 1512991354000,
+    "meta": 1513693321134,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00047.png"
+  },
+  "feab233f-7970-4375-8f5f-020e44eceef9": {
+    "asset": 1512991354000,
+    "meta": 1513693321160,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00048.png"
+  },
+  "f95e434f-9538-492f-8f23-00197f2c9a7f": {
+    "asset": 1512991354000,
+    "meta": 1513693321185,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00050.png"
+  },
+  "d6b67096-7994-4f99-a2f1-bd831fa1cfd3": {
+    "asset": 1512991354000,
+    "meta": 1513693321155,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00049.png"
+  },
+  "170fc373-945f-4448-9e94-0f6da104cd82": {
+    "asset": 1512991354000,
+    "meta": 1513693321175,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00051.png"
+  },
+  "d1391d61-6828-4c5a-8e73-763820b9b7f3": {
+    "asset": 1512991354000,
+    "meta": 1513693321215,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00052.png"
+  },
+  "73a22b13-139c-4694-966e-d105fc422f70": {
+    "asset": 1513267616555,
+    "meta": 1512991352000,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima"
+  },
+  "b1999e08-85b2-4be9-9ec7-395b815e43f5": {
+    "asset": 1512991354000,
+    "meta": 1513693321205,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaBaixo\\walk_45_front_R_00053.png"
+  },
+  "dbdd43c7-0c21-46e2-a257-33e9f3d08e16": {
+    "asset": 1512991354000,
+    "meta": 1513693321250,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00000.png"
+  },
+  "2be526df-5ca9-4476-a514-5262e460b8d4": {
+    "asset": 1512991354000,
+    "meta": 1513693321240,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00001.png"
+  },
+  "bc89375f-0b75-4b18-9d67-ad07cb8ec210": {
+    "asset": 1512991354000,
+    "meta": 1513693321278,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00002.png"
+  },
+  "79fd0522-4ebc-43e9-ae63-2f953fe05c59": {
+    "asset": 1512991354000,
+    "meta": 1513693321294,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00004.png"
+  },
+  "65b2261f-3114-4941-b1b7-8d03fd758a65": {
+    "asset": 1512991354000,
+    "meta": 1513693321268,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00003.png"
+  },
+  "83d08571-9826-4097-8e64-777fe761920b": {
+    "asset": 1512991354000,
+    "meta": 1513693321304,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00005.png"
+  },
+  "5902c412-1125-4804-a88f-f28f95896bae": {
+    "asset": 1512991354000,
+    "meta": 1513693321333,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00006.png"
+  },
+  "b4aa8fa4-8c56-4750-b318-2654584865f1": {
+    "asset": 1512991354000,
+    "meta": 1513693321323,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00007.png"
+  },
+  "1ca8a96a-b812-43da-9583-04e516cea75a": {
+    "asset": 1512991354000,
+    "meta": 1513693321386,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00008.png"
+  },
+  "e19e9eda-c3c4-47f6-95b5-89f3fbff73e1": {
+    "asset": 1512991354000,
+    "meta": 1513693321420,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00010.png"
+  },
+  "d538d11d-acc5-4fd2-8315-a86272e5cf84": {
+    "asset": 1512991354000,
+    "meta": 1513693321381,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00009.png"
+  },
+  "9a2b7ff1-7353-46d7-97dd-e6f4de3dba17": {
+    "asset": 1512991354000,
+    "meta": 1513693321414,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00011.png"
+  },
+  "d9b71da3-3744-4231-ae2c-aea59e4cb7e3": {
+    "asset": 1512991354000,
+    "meta": 1513693321448,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00012.png"
+  },
+  "051978c3-aaf8-4969-9ef9-5b2ad2075c72": {
+    "asset": 1512991354000,
+    "meta": 1513693321435,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00013.png"
+  },
+  "756ef7ca-a1dc-4c8e-bb3d-d877d82d0b51": {
+    "asset": 1512991354000,
+    "meta": 1513693321456,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00014.png"
+  },
+  "18242d43-7596-4751-a292-8acc04faace0": {
+    "asset": 1512991354000,
+    "meta": 1513693321472,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00015.png"
+  },
+  "6b23c32d-f82b-484b-a1c1-8ac4ae5265a7": {
+    "asset": 1512991354000,
+    "meta": 1513693321482,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00016.png"
+  },
+  "6ca8988c-d2c1-49fb-9cac-f7faeae8759b": {
+    "asset": 1512991354000,
+    "meta": 1513693321505,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00018.png"
+  },
+  "c6f957fd-37ec-4e2a-b4d6-9d81da3b13ff": {
+    "asset": 1512991354000,
+    "meta": 1513693321503,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00017.png"
+  },
+  "ddf35ae9-21c7-4d06-851f-9bd0700a27d4": {
+    "asset": 1512991354000,
+    "meta": 1513693321532,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00020.png"
+  },
+  "6a35d455-b3a5-4dca-a606-e43b98f357a5": {
+    "asset": 1512991354000,
+    "meta": 1513693321525,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00019.png"
+  },
+  "013cca0e-b908-4d06-8d1c-295415abf2c3": {
+    "asset": 1512991354000,
+    "meta": 1513693321560,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00022.png"
+  },
+  "51f75db7-7c5b-41c1-b0ba-583fe838fa5e": {
+    "asset": 1512991354000,
+    "meta": 1513693321549,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00021.png"
+  },
+  "7d77ce6e-1fb3-46d4-b7a0-977a74b90452": {
+    "asset": 1512991354000,
+    "meta": 1513693321574,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00023.png"
+  },
+  "358dcc9e-1649-40a6-8602-22b093c7ceb2": {
+    "asset": 1512991354000,
+    "meta": 1513693321581,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00024.png"
+  },
+  "000485db-7f4f-4578-af67-684c9e810fd5": {
+    "asset": 1512991354000,
+    "meta": 1513693321607,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00025.png"
+  },
+  "9b0e3de9-acf7-43dd-ada1-df4add95cc70": {
+    "asset": 1512991354000,
+    "meta": 1513693321597,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00026.png"
+  },
+  "910dc7be-6632-4309-b0e4-52c5a6c59ad6": {
+    "asset": 1512991354000,
+    "meta": 1513693321657,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00027.png"
+  },
+  "53acbd8e-b664-4024-b379-10a456c763cb": {
+    "asset": 1512991354000,
+    "meta": 1513693321667,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00028.png"
+  },
+  "444134a2-8627-4f3a-9c20-b90e8447c9dd": {
+    "asset": 1512991354000,
+    "meta": 1513693321692,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00030.png"
+  },
+  "cb51ff02-1b7f-4830-9f65-c2d3043f2804": {
+    "asset": 1512991354000,
+    "meta": 1513693321685,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00029.png"
+  },
+  "9be5d9f1-4fac-4099-b812-c1a7b4ee4792": {
+    "asset": 1512991354000,
+    "meta": 1513693321726,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00032.png"
+  },
+  "17c414dc-f437-40b4-bb3e-0d215f5f186c": {
+    "asset": 1512991354000,
+    "meta": 1513693321722,
+    "relativePath": "Imagens\\Zumbi\\AndarDireitaCima\\walk_top_45_R_00031.png"
+  },
+  "37ae7513-d991-40a9-9881-df67fa4f935f": {
+    "asset": 1513267617043,
+    "meta": 1512991352000,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerda"
+  },
+  "7d37678f-5ac2-49a4-bff0-3aea01eca3b3": {
+    "asset": 1512991354000,
+    "meta": 1513693321753,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerda\\walk_left01143.png"
+  },
+  "7004ae42-bf3b-449e-baac-c5d978dc5731": {
+    "asset": 1512991354000,
+    "meta": 1513693321744,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerda\\walk_left01144.png"
+  },
+  "bd825c3a-7477-46e1-ae5d-a6a7c69670d7": {
+    "asset": 1512991354000,
+    "meta": 1513693321779,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerda\\walk_left01146.png"
+  },
+  "cc71ac6f-0269-4ca4-b34e-327ba7135502": {
+    "asset": 1512991354000,
+    "meta": 1513693321772,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerda\\walk_left01145.png"
+  },
+  "1c2126b4-c781-426a-b8d6-2fca67bb44af": {
+    "asset": 1512991356000,
+    "meta": 1513693321802,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerda\\walk_left01148.png"
+  },
+  "9c927bff-2182-49fe-a19a-5f097d4e8575": {
+    "asset": 1512991356000,
+    "meta": 1513693321812,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerda\\walk_left01147.png"
+  },
+  "09e53be3-9998-4dd7-bcac-d027f7207ee8": {
+    "asset": 1512991356000,
+    "meta": 1513693321846,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerda\\walk_left01149.png"
+  },
+  "7dbf2ca2-9ed1-4614-b007-67ffdfcb119f": {
+    "asset": 1512991356000,
+    "meta": 1513693321836,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerda\\walk_left01150.png"
+  },
+  "ffa275c4-2706-4797-83a1-0154965d8735": {
+    "asset": 1512991356000,
+    "meta": 1513693321874,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerda\\walk_left01152.png"
+  },
+  "610b7f09-be90-4608-ade3-d22f926e177f": {
+    "asset": 1512991356000,
+    "meta": 1513693321864,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerda\\walk_left01151.png"
+  },
+  "18e7e398-c1d9-4d50-b310-c8bc007bb56f": {
+    "asset": 1512991356000,
+    "meta": 1513693321898,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerda\\walk_left01153.png"
+  },
+  "9e7020c0-4629-40e5-9cf4-d13d98601ceb": {
+    "asset": 1512991356000,
+    "meta": 1513693321893,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerda\\walk_left01154.png"
+  },
+  "0f692f1c-5925-4a5f-8f02-f47aae4ea47a": {
+    "asset": 1512991356000,
+    "meta": 1513693321916,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerda\\walk_left01155.png"
+  },
+  "b426a8fb-9d57-4d43-8228-c7e6b04d86eb": {
+    "asset": 1512991356000,
+    "meta": 1513693321923,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerda\\walk_left01156.png"
+  },
+  "80b6e9a8-3fd8-4602-892c-8ee6d3b47129": {
+    "asset": 1512991356000,
+    "meta": 1513693321941,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerda\\walk_left01157.png"
+  },
+  "70ebecd9-ebd3-4b61-ab81-78bb8c9ed55d": {
+    "asset": 1512991356000,
+    "meta": 1513693321948,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerda\\walk_left01158.png"
+  },
+  "da24e890-1359-4065-819e-81452ab02621": {
+    "asset": 1512991356000,
+    "meta": 1513693321975,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerda\\walk_left01159.png"
+  },
+  "8d8f0eeb-b8c1-48ce-aae9-838cf2bc1437": {
+    "asset": 1512991356000,
+    "meta": 1513693321970,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerda\\walk_left01160.png"
+  },
+  "01dc33b2-712f-46c6-8192-75ac392b148f": {
+    "asset": 1512991356000,
+    "meta": 1513693322003,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerda\\walk_left01162.png"
+  },
+  "775080f8-725d-4413-a9d9-eeed3240a765": {
+    "asset": 1512991356000,
+    "meta": 1513693321998,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerda\\walk_left01161.png"
+  },
+  "b4def726-721a-4ce4-8ff2-8b455567f74c": {
+    "asset": 1513267618406,
+    "meta": 1512991352000,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo"
+  },
+  "83e97dd2-9baf-4ee6-a7c6-eab73e10dd37": {
+    "asset": 1512991356000,
+    "meta": 1513693322022,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00952.png"
+  },
+  "691a2c1b-452d-4eb4-803a-cbba39d5606f": {
+    "asset": 1512991356000,
+    "meta": 1513693322032,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00951.png"
+  },
+  "391d2826-6034-4a6c-9bc9-78042450b36c": {
+    "asset": 1512991356000,
+    "meta": 1513693322080,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00954.png"
+  },
+  "7a1ba8a4-1b6b-4609-8eb3-fbb4b5a61b5c": {
+    "asset": 1512991356000,
+    "meta": 1513693322070,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00953.png"
+  },
+  "666dc87b-9703-41bf-822b-c5206f2b4e88": {
+    "asset": 1512991356000,
+    "meta": 1513693322104,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00955.png"
+  },
+  "bacc45a5-12da-4ac2-8c17-77b26275c9e1": {
+    "asset": 1512991356000,
+    "meta": 1513693322111,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00956.png"
+  },
+  "8953236c-d58f-4027-b993-be829eab9ab1": {
+    "asset": 1512991356000,
+    "meta": 1513693322140,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00958.png"
+  },
+  "5f92de35-a441-4af6-adbf-a1c2ab528507": {
+    "asset": 1512991356000,
+    "meta": 1513693322132,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00957.png"
+  },
+  "c6c37af1-3dd6-4b02-b216-158d211f2cbb": {
+    "asset": 1512991356000,
+    "meta": 1513693322157,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00959.png"
+  },
+  "e8a262cd-99fd-4878-a852-b985d162bc20": {
+    "asset": 1512991356000,
+    "meta": 1513693322168,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00960.png"
+  },
+  "99c04ded-52dc-4eea-a0b8-5cbe4c46dbf7": {
+    "asset": 1512991356000,
+    "meta": 1513693322209,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00962.png"
+  },
+  "3a30bd89-91ce-4547-b325-f1a6181f9355": {
+    "asset": 1512991356000,
+    "meta": 1513693322186,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00961.png"
+  },
+  "3a0a7774-400f-4e8b-a1da-7b8bb117ae3a": {
+    "asset": 1512991356000,
+    "meta": 1513693322221,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00963.png"
+  },
+  "b53589ff-0fca-4383-88e5-1e578a65cfbd": {
+    "asset": 1512991356000,
+    "meta": 1513693322243,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00964.png"
+  },
+  "b4b11dd4-7372-4da8-9050-3e55b0962a8e": {
+    "asset": 1512991356000,
+    "meta": 1513693322270,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00966.png"
+  },
+  "b79a1cd9-ce6f-44a4-aa32-3cafe35c73ea": {
+    "asset": 1512991356000,
+    "meta": 1513693322255,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00965.png"
+  },
+  "bb1729a2-548d-42cd-bda3-ab68370ba5e4": {
+    "asset": 1512991356000,
+    "meta": 1513693322301,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00968.png"
+  },
+  "3fca90a1-c733-405b-8052-e9a1759959a1": {
+    "asset": 1512991356000,
+    "meta": 1513693322289,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00967.png"
+  },
+  "3629c8a4-28b5-4d56-9488-f4958ad3d37a": {
+    "asset": 1512991356000,
+    "meta": 1513693322404,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00970.png"
+  },
+  "e8b17f23-4db6-4936-8d7c-f69688b50db1": {
+    "asset": 1512991356000,
+    "meta": 1513693322321,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00969.png"
+  },
+  "f2f45900-2a11-4f91-afc3-8a4f6c6dc733": {
+    "asset": 1512991356000,
+    "meta": 1513693322411,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00971.png"
+  },
+  "2723adfb-fe38-4b39-9829-9f81a4dceb5f": {
+    "asset": 1512991356000,
+    "meta": 1513693322427,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00972.png"
+  },
+  "1652fe30-cf40-43d4-8c5a-4def819e3805": {
+    "asset": 1512991356000,
+    "meta": 1513693322437,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00973.png"
+  },
+  "0fad45a0-3541-4da4-948b-65f7c93165fa": {
+    "asset": 1512991356000,
+    "meta": 1513693322455,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00974.png"
+  },
+  "83e5fd6e-c368-46c4-a076-828fee7684e5": {
+    "asset": 1512991356000,
+    "meta": 1513693322486,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00976.png"
+  },
+  "c3ca5acf-0345-40fa-a3ac-f5e13910d321": {
+    "asset": 1512991356000,
+    "meta": 1513693322464,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00975.png"
+  },
+  "6e65729f-c61d-4042-8cbc-1e20af336c3c": {
+    "asset": 1512991356000,
+    "meta": 1513693322484,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00977.png"
+  },
+  "33d1d2de-1cb5-4090-addc-02635228b307": {
+    "asset": 1512991356000,
+    "meta": 1513693322504,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00978.png"
+  },
+  "d7052347-9145-42c0-b593-e8f7bc95e400": {
+    "asset": 1512991356000,
+    "meta": 1513693322543,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00980.png"
+  },
+  "e8a1aef7-41de-4d27-bcda-b6d3443dfd64": {
+    "asset": 1512991356000,
+    "meta": 1513693322515,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00979.png"
+  },
+  "6aea1d77-3c32-493a-b7b9-9049a41c542a": {
+    "asset": 1512991356000,
+    "meta": 1513693322562,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00982.png"
+  },
+  "d6aa0fb3-76c1-445f-b18b-eade7411c311": {
+    "asset": 1512991356000,
+    "meta": 1513693322537,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00981.png"
+  },
+  "ce4ccef3-1f2c-42d8-92c5-5acdc51fe94a": {
+    "asset": 1512991356000,
+    "meta": 1513693322599,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00984.png"
+  },
+  "ee97f3da-0c41-4f12-b089-fe6e6f119a58": {
+    "asset": 1512991356000,
+    "meta": 1513693322572,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00983.png"
+  },
+  "b16753ef-c534-4663-a304-988fec051f2c": {
+    "asset": 1512991356000,
+    "meta": 1513693322668,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00986.png"
+  },
+  "cdfcdba1-76a0-4434-ba2d-a513d61624bc": {
+    "asset": 1512991356000,
+    "meta": 1513693322589,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00985.png"
+  },
+  "4629da8a-5b33-4ad5-b314-9ec3ef2524d2": {
+    "asset": 1512991356000,
+    "meta": 1513693322718,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00988.png"
+  },
+  "d51a3bc2-db38-4b04-b74b-fc4765c29811": {
+    "asset": 1512991356000,
+    "meta": 1513693322696,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00987.png"
+  },
+  "985d03f3-64bb-4c0e-83a4-a5e8bc7d3a05": {
+    "asset": 1512991356000,
+    "meta": 1513693322752,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00990.png"
+  },
+  "1b34839c-74bd-4f4d-ad37-d2bd3b6e327c": {
+    "asset": 1512991356000,
+    "meta": 1513693322728,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00989.png"
+  },
+  "5179e73e-0183-425a-a66e-4c738c0facb9": {
+    "asset": 1512991356000,
+    "meta": 1513693322873,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00992.png"
+  },
+  "9fbf07e4-0b47-4dfd-a6d4-511a3b54c3c5": {
+    "asset": 1512991356000,
+    "meta": 1513693322745,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00991.png"
+  },
+  "0a5782c3-190a-433a-a042-5e163245ae82": {
+    "asset": 1512991356000,
+    "meta": 1513693322891,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00994.png"
+  },
+  "fd67e362-8757-4846-93fb-0dc9ca97fb3f": {
+    "asset": 1512991356000,
+    "meta": 1513693322864,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00993.png"
+  },
+  "f7a7c93c-771c-4433-9f80-5e15a02ff4ac": {
+    "asset": 1512991356000,
+    "meta": 1513693322901,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00995.png"
+  },
+  "6b4dfc93-7739-485a-a752-35092e64462c": {
+    "asset": 1512991356000,
+    "meta": 1513693322927,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00996.png"
+  },
+  "273d3019-4e0c-4ed1-9230-c1bce0e956d6": {
+    "asset": 1512991356000,
+    "meta": 1513693322920,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00997.png"
+  },
+  "7f3cc650-40d3-4681-92f7-87d042c155b2": {
+    "asset": 1512991356000,
+    "meta": 1513693322960,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00998.png"
+  },
+  "970e7c35-631a-4653-9ce8-6f5845aeccb1": {
+    "asset": 1512991356000,
+    "meta": 1513693322968,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l00999.png"
+  },
+  "b6230e36-79ab-4d86-99d5-21e054759ade": {
+    "asset": 1512991356000,
+    "meta": 1513693323023,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l01000.png"
+  },
+  "6aa4357b-5be5-4b9f-bfad-472a8e0b9545": {
+    "asset": 1512991356000,
+    "meta": 1513693323013,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l01001.png"
+  },
+  "307034e8-1ede-4f8b-989b-d2017775a91c": {
+    "asset": 1512991356000,
+    "meta": 1513693323050,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l01002.png"
+  },
+  "cecc7bc9-d846-4c34-bef6-eed7b8e1489b": {
+    "asset": 1512991356000,
+    "meta": 1513693323065,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l01004.png"
+  },
+  "8730655b-acb7-4d33-a982-df567360c805": {
+    "asset": 1512991356000,
+    "meta": 1513693323045,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaBaixo\\walk_45_front_l01003.png"
+  },
+  "c53163af-fab0-42ba-bd00-e33ef63f5b30": {
+    "asset": 1513267619953,
+    "meta": 1512991352000,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima"
+  },
+  "36a05889-c6bb-4135-91ea-19f04bfc5f71": {
+    "asset": 1512991356000,
+    "meta": 1513693323075,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00000.png"
+  },
+  "a0463185-9c86-4fc5-83df-03f346db6d3e": {
+    "asset": 1512991356000,
+    "meta": 1513693323089,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00001.png"
+  },
+  "b00e684a-d01c-41a4-83cc-3c4915cc3296": {
+    "asset": 1512991356000,
+    "meta": 1513693323135,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00003.png"
+  },
+  "9deaf21d-a01f-4c0a-9cc0-df1bd3898eec": {
+    "asset": 1512991356000,
+    "meta": 1513693323112,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00002.png"
+  },
+  "76240d5e-2541-4f04-a43d-779bb879e5a8": {
+    "asset": 1512991356000,
+    "meta": 1513693323147,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00004.png"
+  },
+  "f45735af-90cd-4680-9bca-5fc208cc1507": {
+    "asset": 1512991356000,
+    "meta": 1513693323167,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00005.png"
+  },
+  "9b7ed2aa-8096-4cab-b6b3-c5c32ecbf4de": {
+    "asset": 1512991356000,
+    "meta": 1513693323179,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00006.png"
+  },
+  "ba4ba7cc-74d0-41bd-bf68-6419ec293b1a": {
+    "asset": 1512991356000,
+    "meta": 1513693323211,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00007.png"
+  },
+  "4c186174-e906-4670-91e6-5c0f66f0f1d2": {
+    "asset": 1512991356000,
+    "meta": 1513693323199,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00008.png"
+  },
+  "ca35b878-1d7c-4d95-b7cd-8105e61a92fa": {
+    "asset": 1512991356000,
+    "meta": 1513693323243,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00009.png"
+  },
+  "9e6e40f3-1174-4504-be0d-d3c96a1771aa": {
+    "asset": 1512991356000,
+    "meta": 1513693323266,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00011.png"
+  },
+  "25238fdc-599a-47e6-8fcc-bcd0cb2102cd": {
+    "asset": 1512991356000,
+    "meta": 1513693323231,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00010.png"
+  },
+  "6743f6c1-96ff-43a3-bf3b-cec78b177ef1": {
+    "asset": 1512991356000,
+    "meta": 1513693323292,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00013.png"
+  },
+  "f88e4aeb-412d-4d71-bc83-4b60c711b9de": {
+    "asset": 1512991356000,
+    "meta": 1513693323273,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00012.png"
+  },
+  "eb8fff6b-e3f7-44ca-ad4d-545e11dd297e": {
+    "asset": 1512991356000,
+    "meta": 1513693323309,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00014.png"
+  },
+  "3a1c96ac-3b33-4631-af86-450f45fead0c": {
+    "asset": 1512991356000,
+    "meta": 1513693323320,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00015.png"
+  },
+  "861ccaa4-42a0-4372-af83-722069180b38": {
+    "asset": 1512991356000,
+    "meta": 1513693323407,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00017.png"
+  },
+  "b388cb4b-eda3-4890-ad41-7b6017b8f078": {
+    "asset": 1512991356000,
+    "meta": 1513693323390,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00016.png"
+  },
+  "a1ebbae2-e31a-426b-8231-c964eb994f89": {
+    "asset": 1512991356000,
+    "meta": 1513693323440,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00018.png"
+  },
+  "c49a749a-b9f4-4171-9000-2b14704befac": {
+    "asset": 1512991356000,
+    "meta": 1513693323429,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00019.png"
+  },
+  "33576bf8-fa1f-43cd-b16a-7c4b6aa7d2a5": {
+    "asset": 1512991356000,
+    "meta": 1513693323458,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00020.png"
+  },
+  "8b9158c1-b6fd-4bc7-8124-d3605bdfc7c2": {
+    "asset": 1512991356000,
+    "meta": 1513693323468,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00021.png"
+  },
+  "8d0e8a65-f809-4548-a2ae-561d65c3e6f1": {
+    "asset": 1512991358000,
+    "meta": 1513693323498,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00022.png"
+  },
+  "4ba98099-2274-43fb-a8a8-f72789cea454": {
+    "asset": 1512991358000,
+    "meta": 1513693323486,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00023.png"
+  },
+  "905e6731-8eb6-4c5c-a348-47726e140400": {
+    "asset": 1512991358000,
+    "meta": 1513693323544,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00024.png"
+  },
+  "ed448de0-dde9-4412-a9c1-a335118607c0": {
+    "asset": 1512991358000,
+    "meta": 1513693323533,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00025.png"
+  },
+  "57ca8df2-c3e1-4a7e-85e6-7bd6622e1fdc": {
+    "asset": 1512991358000,
+    "meta": 1513693323572,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00026.png"
+  },
+  "9eab06aa-9612-4d59-be2e-35da993b5af7": {
+    "asset": 1512991358000,
+    "meta": 1513693323562,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00027.png"
+  },
+  "7fdcdb23-0484-4935-a7f3-f7682c57392c": {
+    "asset": 1512991358000,
+    "meta": 1513693323593,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00029.png"
+  },
+  "0bf0f9d5-4e77-4d96-8f94-b78cfebb7676": {
+    "asset": 1512991358000,
+    "meta": 1513693323600,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00028.png"
+  },
+  "fa072a5e-7bdf-453e-b208-38c033c1c32e": {
+    "asset": 1512991358000,
+    "meta": 1513693323625,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00030.png"
+  },
+  "8e316811-8efc-4ca2-a48f-475d09bdf4e9": {
+    "asset": 1512991358000,
+    "meta": 1513693323614,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00031.png"
+  },
+  "f979ce0e-6983-4026-b2b0-698b7ea9c6df": {
+    "asset": 1513267620756,
+    "meta": 1512991352000,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente"
+  },
+  "f0ab67c9-36f2-4e38-8972-a3eb68a96e13": {
+    "asset": 1512991358000,
+    "meta": 1513693323642,
+    "relativePath": "Imagens\\Zumbi\\AndarEsquerdaCima\\walk_top_45_l00032.png"
+  },
+  "3572658e-37d7-4be7-8386-8d0ddae5163f": {
+    "asset": 1512991358000,
+    "meta": 1513693323652,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00000.png"
+  },
+  "1d64ea6d-2b05-44a0-9ef9-bfaea0a1d82d": {
+    "asset": 1512991358000,
+    "meta": 1513693323670,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00002.png"
+  },
+  "896ee29d-e800-40c7-8af3-bde66cce61a6": {
+    "asset": 1512991358000,
+    "meta": 1513693323682,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00001.png"
+  },
+  "99149d78-eef2-476e-b9b2-f65d3f956488": {
+    "asset": 1512991358000,
+    "meta": 1513693323709,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00003.png"
+  },
+  "f4387193-1355-45c2-89f5-712f1a0f67dd": {
+    "asset": 1512991358000,
+    "meta": 1513693323699,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00004.png"
+  },
+  "da023c9d-47c2-4ff7-88b8-7dc680a58e46": {
+    "asset": 1512991358000,
+    "meta": 1513693323736,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00005.png"
+  },
+  "4a002da8-f3af-4def-8b3c-f48a4134ad76": {
+    "asset": 1512991358000,
+    "meta": 1513693323726,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00006.png"
+  },
+  "4c61277b-8e98-4a33-beb3-223dcba98fd6": {
+    "asset": 1512991358000,
+    "meta": 1513693323753,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00007.png"
+  },
+  "f74fef70-73a6-46b3-87fb-3b8c372df512": {
+    "asset": 1512991358000,
+    "meta": 1513693323763,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00008.png"
+  },
+  "db62c7f0-6a26-44ae-bef4-ab975aa3b259": {
+    "asset": 1512991358000,
+    "meta": 1513693323777,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00009.png"
+  },
+  "6891669d-41d5-4e47-9f9b-d511a63de30d": {
+    "asset": 1512991358000,
+    "meta": 1513693323789,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00010.png"
+  },
+  "efa49ff4-769f-46e7-ae75-aca8dc70a8db": {
+    "asset": 1512991358000,
+    "meta": 1513693323817,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00011.png"
+  },
+  "2828c9ae-2860-407a-83bd-634be6bb5aa8": {
+    "asset": 1512991358000,
+    "meta": 1513693323807,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00012.png"
+  },
+  "5b2af692-d0d0-4e0f-bd91-1b172534dee3": {
+    "asset": 1512991358000,
+    "meta": 1513693323834,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00013.png"
+  },
+  "681d0129-e004-4e89-adb2-52d164f76797": {
+    "asset": 1512991358000,
+    "meta": 1513693323844,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00014.png"
+  },
+  "ea545198-1958-4bdb-97f8-f80fad409c0f": {
+    "asset": 1512991358000,
+    "meta": 1513693323871,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00015.png"
+  },
+  "5634bcaf-bf90-45d6-8942-eb1e3b6aea05": {
+    "asset": 1512991358000,
+    "meta": 1513693323861,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00016.png"
+  },
+  "9771792d-f3fc-494f-91cf-54739dc745d1": {
+    "asset": 1512991358000,
+    "meta": 1513693323889,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00017.png"
+  },
+  "4698fc54-3c86-49ae-98d9-43f9e87f115e": {
+    "asset": 1512991358000,
+    "meta": 1513693323899,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00018.png"
+  },
+  "72ab5b4c-27c0-4168-974a-f8b167de1e47": {
+    "asset": 1512991358000,
+    "meta": 1513693323929,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00020.png"
+  },
+  "2504d08e-e4d7-4f1d-b8fd-d0119872b6f7": {
+    "asset": 1512991358000,
+    "meta": 1513693323917,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00019.png"
+  },
+  "38a85cdf-16e5-4cfa-85df-365149c4ed12": {
+    "asset": 1512991358000,
+    "meta": 1513693323966,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00022.png"
+  },
+  "3c0eb05f-e215-4b47-8227-0bfdd26d3104": {
+    "asset": 1512991358000,
+    "meta": 1513693323955,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00021.png"
+  },
+  "2dc70c28-8134-42e8-9a7c-7e7039f775fe": {
+    "asset": 1512991358000,
+    "meta": 1513693323993,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00023.png"
+  },
+  "65160fdd-face-479f-aee8-a8e3451a113b": {
+    "asset": 1512991358000,
+    "meta": 1513693323983,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00024.png"
+  },
+  "3af6ca03-4805-48ad-a967-1c7ab7c81ac6": {
+    "asset": 1512991358000,
+    "meta": 1513693324011,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00026.png"
+  },
+  "68aff046-8d77-4d17-861b-ec208c6fc77a": {
+    "asset": 1512991358000,
+    "meta": 1513693324021,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00025.png"
+  },
+  "ef46d5be-bfd5-4716-a9aa-fe325f62a974": {
+    "asset": 1512991358000,
+    "meta": 1513693324036,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00027.png"
+  },
+  "06eff99a-6b10-40a7-a79b-f4bd40754db7": {
+    "asset": 1512991358000,
+    "meta": 1513693324046,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00028.png"
+  },
+  "11b87520-494e-4168-9ee4-2a3e9c756375": {
+    "asset": 1512991358000,
+    "meta": 1513693324063,
+    "relativePath": "Imagens\\Zumbi\\ParadoFrente\\idle_front00029.png"
+  },
+  "609766a9-58bf-481f-a4df-d35a0f6eb813": {
+    "asset": 1513267620834,
+    "meta": 1512991334000,
+    "relativePath": "Prefabs"
+  },
+  "ba8bf90c-75c2-4465-91e9-7ec7dea90eb6": {
+    "asset": 1512991358000,
+    "meta": 1513693324082,
+    "relativePath": "Prefabs\\Tiro.prefab"
+  },
+  "66dfbd53-7703-4d8d-995e-f4137a9a904e": {
+    "asset": 1513267621381,
+    "meta": 1512991334000,
+    "relativePath": "Scripts"
+  },
+  "65bf74ea-f0ad-46af-84a6-e29f55a14ec1": {
+    "asset": 1513172036000,
+    "meta": 1513693324553,
+    "relativePath": "Prefabs\\Zumbi.prefab"
+  },
+  "7fefff2d-b400-4ab6-bced-09c9b8bd7d30": {
+    "asset": 1512991358000,
+    "meta": 1513693324592,
+    "relativePath": "Scripts\\ColisaoCenario.js"
+  },
+  "b89be33c-b32e-4302-8bce-25db9aed4b16": {
+    "asset": 1512991358000,
+    "meta": 1513693324908,
+    "relativePath": "Scripts\\ControleDeAnimacao.js"
+  },
+  "9d4cbf04-9993-45f8-8874-3759b46a6207": {
+    "asset": 1512991358000,
+    "meta": 1513693325619,
+    "relativePath": "Scripts\\Movimentacao.js"
+  },
+  "c4fa02e4-2939-48cd-b1b8-f3647423d784": {
+    "asset": 1512991334000,
+    "meta": 1512991334000,
+    "relativePath": "Audio\\trilha.ogg"
+  },
+  "7a912326-344b-4733-af99-dc948d74a513": {
+    "asset": 1512995244000,
+    "meta": 1513693324820,
+    "relativePath": "Scripts\\ControleCamera.js"
+  },
+  "b6b3663e-bdba-48ad-8e90-662a732df574": {
+    "asset": 1513001514000,
+    "meta": 1513693325579,
+    "relativePath": "Scripts\\LimitadorDeMovimento.js"
+  },
+  "876e1ace-af95-4ca4-ab30-add7008e82ed": {
+    "asset": 1513075770000,
+    "meta": 1513693310468,
+    "relativePath": "Imagens\\Caveira.png"
+  },
+  "adcf8e1a-9a72-4112-99f0-119e8937a968": {
+    "asset": 1513078314000,
+    "meta": 1513693325637,
+    "relativePath": "Scripts\\Pontucao.js"
+  },
+  "004f67aa-34c7-40c3-98e9-1030098557fc": {
+    "asset": 1513080486000,
+    "meta": 1513693324530,
+    "relativePath": "Scripts\\BarraDeVida.js"
+  },
+  "b1de0583-4d3d-4980-9a9f-2d2316525406": {
+    "asset": 1513084720000,
+    "meta": 1513084720000,
+    "relativePath": "Audio\\SomTiro.ogg"
+  },
+  "124b8a91-2d1c-4788-b241-2929b170f2b2": {
+    "asset": 1513267597600,
+    "meta": 1513084732000,
+    "relativePath": "Audio"
+  },
+  "fab364e3-62c8-4277-84a4-cce083d65e18": {
+    "asset": 1513085272000,
+    "meta": 1513085272000,
+    "relativePath": "Audio\\MorteZumbi.ogg"
+  },
+  "5a5f114a-eddd-4fdf-9afb-48566e8c2825": {
+    "asset": 1513085560000,
+    "meta": 1513693325709,
+    "relativePath": "Scripts\\TocarAudioComEvento.js"
+  },
+  "489662b4-4154-461e-bb60-e658ddc9c4b2": {
+    "asset": 1513086938000,
+    "meta": 1513086938000,
+    "relativePath": "Audio\\CoraçãoBatendo.wav"
+  },
+  "f2b06ea0-d4e0-45e7-861c-80d631bc9cb4": {
+    "asset": 1513249766000,
+    "meta": 1513693324483,
+    "relativePath": "Scripts\\AudioCoracao.js"
+  },
+  "1b807be7-a07f-4b75-a0b3-c41eca739dc2": {
+    "asset": 1513165242000,
+    "meta": 1513693325363,
+    "relativePath": "Scripts\\GameOver.js"
+  },
+  "8e9a13d8-220a-42c6-8f19-9d4b3809206f": {
+    "asset": 1513169720000,
+    "meta": 1513693325682,
+    "relativePath": "Scripts\\Teclado.js"
+  },
+  "c57668a5-77cf-46ff-a2cd-feb1b0b3ef86": {
+    "asset": 1513170392000,
+    "meta": 1513693325694,
+    "relativePath": "Scripts\\Tiro.js"
+  },
+  "d3299227-3ff8-40a0-a464-eadc34169210": {
+    "asset": 1513170652000,
+    "meta": 1513693325559,
+    "relativePath": "Scripts\\Jogador.js"
+  },
+  "db00ef83-28a7-4f8e-9ee9-6a20ef1db437": {
+    "asset": 1513171992000,
+    "meta": 1513693325491,
+    "relativePath": "Scripts\\Inimigo.js"
+  },
+  "60d0f08b-9001-4846-bdbc-e2326328582d": {
+    "asset": 1513173642000,
+    "meta": 1513693325431,
+    "relativePath": "Scripts\\GeradorDeInimigos.js"
+  },
+  "b1b819d6-754e-4a9b-a9d2-8a24bff4c720": {
+    "asset": 1513693345801,
+    "meta": 1513693366871,
+    "relativePath": "Jogo.fire"
+  }
+}

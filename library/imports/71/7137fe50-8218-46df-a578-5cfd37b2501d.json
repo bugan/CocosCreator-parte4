@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Loja",
+    "texture": "40468ddf-ee3f-4eb8-aa6c-08a775bdf706",
+    "atlas": "",
+    "rect": [
+      359,
+      143,
+      320,
+      735
+    ],
+    "offset": [
+      19,
+      -17.5
+    ],
+    "originalSize": [
+      1000,
+      986
+    ]
+  }
+}

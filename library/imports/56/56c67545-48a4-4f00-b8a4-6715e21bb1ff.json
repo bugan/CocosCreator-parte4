@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "estacionamento",
+    "texture": "3b9c6b61-b1e8-4189-abbf-0e2c22710acf",
+    "atlas": "",
+    "rect": [
+      146,
+      143,
+      696,
+      665
+    ],
+    "offset": [
+      -6,
+      17.5
+    ],
+    "originalSize": [
+      1000,
+      986
+    ]
+  }
+}

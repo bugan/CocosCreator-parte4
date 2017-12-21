@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Mecanico",
+    "texture": "07b4c7f7-8db2-4594-86ff-017ef37c4b32",
+    "atlas": "",
+    "rect": [
+      157,
+      259,
+      707,
+      379
+    ],
+    "offset": [
+      10.5,
+      44.5
+    ],
+    "originalSize": [
+      1000,
+      986
+    ]
+  }
+}

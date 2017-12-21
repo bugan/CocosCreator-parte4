@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "player_walk_d_l_00083",
+    "texture": "1699c93e-4c06-4851-a26d-fe8a40bd5635",
+    "atlas": "",
+    "rect": [
+      27,
+      67,
+      70,
+      73
+    ],
+    "offset": [
+      -13,
+      1
+    ],
+    "originalSize": [
+      150,
+      209
+    ]
+  }
+}

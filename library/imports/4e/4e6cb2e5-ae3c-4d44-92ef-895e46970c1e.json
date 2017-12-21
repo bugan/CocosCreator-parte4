@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "walk_45_front_R_00045",
+    "texture": "a38b4b93-0eea-4074-933d-c95a3175852b",
+    "atlas": "",
+    "rect": [
+      52,
+      65,
+      69,
+      79
+    ],
+    "offset": [
+      11.5,
+      0
+    ],
+    "originalSize": [
+      150,
+      209
+    ]
+  }
+}

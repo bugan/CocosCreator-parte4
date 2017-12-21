@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Motel",
+    "texture": "bf52b5a8-2f66-460f-8d40-7b5416165559",
+    "atlas": "",
+    "rect": [
+      82,
+      331,
+      847,
+      307
+    ],
+    "offset": [
+      5.5,
+      8.5
+    ],
+    "originalSize": [
+      1000,
+      986
+    ]
+  }
+}

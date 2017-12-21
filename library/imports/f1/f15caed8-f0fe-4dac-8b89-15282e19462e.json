@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "walk_bottom_45_r_00714",
+    "texture": "53c4b996-a326-43ff-a40f-cc0eeefa7394",
+    "atlas": "",
+    "rect": [
+      51,
+      80,
+      74,
+      76
+    ],
+    "offset": [
+      13,
+      -13.5
+    ],
+    "originalSize": [
+      150,
+      209
+    ]
+  }
+}
