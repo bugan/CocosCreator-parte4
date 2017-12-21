@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ff339fcc-4fbb-46ee-9bb9-1a49e2a87f30",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Veiculos_CarroCapotado03Frente": {
+      "ver": "1.0.3",
+      "uuid": "60c6ac3a-d37e-47f0-849f-dce1ba9493e8",
+      "rawTextureUuid": "ff339fcc-4fbb-46ee-9bb9-1a49e2a87f30",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -120.5,
+      "offsetY": 6,
+      "trimX": 171,
+      "trimY": 51,
+      "width": 167,
+      "height": 308,
+      "rawWidth": 750,
+      "rawHeight": 422,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

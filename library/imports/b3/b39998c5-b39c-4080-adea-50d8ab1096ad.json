@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Zumbi_ParadoEsquerda_016",
+    "texture": "28127c8f-34f3-47af-b324-08f2e25eaf28",
+    "atlas": "",
+    "rect": [
+      106,
+      33,
+      53,
+      107
+    ],
+    "offset": [
+      -17.5,
+      -2
+    ],
+    "originalSize": [
+      300,
+      169
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Jogadora_AndarEsquerdaBaixo_016",
+    "texture": "2fa052c6-54f7-4d46-ac2a-9b8fe7e4d4ec",
+    "atlas": "",
+    "rect": [
+      83,
+      17,
+      108,
+      103
+    ],
+    "offset": [
+      -7,
+      12.5
+    ],
+    "originalSize": [
+      288,
+      162
+    ]
+  }
+}

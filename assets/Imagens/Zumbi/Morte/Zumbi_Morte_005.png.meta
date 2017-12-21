@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "99fdf1d6-4418-4342-bd7f-fda0d4e817a5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Zumbi_Morte_005": {
+      "ver": "1.0.3",
+      "uuid": "69050377-943d-4d29-92bd-f11443ab6d4c",
+      "rawTextureUuid": "99fdf1d6-4418-4342-bd7f-fda0d4e817a5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": 38.5,
+      "trimX": 111,
+      "trimY": 5,
+      "width": 83,
+      "height": 101,
+      "rawWidth": 300,
+      "rawHeight": 188,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

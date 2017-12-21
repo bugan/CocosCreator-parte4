@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Veiculos_CarroCapotado01Tras",
+    "texture": "039f1ebb-ff18-457b-9117-9626908a84fc",
+    "atlas": "",
+    "rect": [
+      279,
+      39,
+      178,
+      299
+    ],
+    "offset": [
+      -7,
+      22.5
+    ],
+    "originalSize": [
+      750,
+      422
+    ]
+  }
+}

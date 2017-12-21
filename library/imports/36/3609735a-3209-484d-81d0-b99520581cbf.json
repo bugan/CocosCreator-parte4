@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Veiculos_VanBatidaTras",
+    "texture": "0598001c-637d-4b74-9f9e-871aee79d004",
+    "atlas": "",
+    "rect": [
+      144,
+      33,
+      405,
+      347
+    ],
+    "offset": [
+      -28.5,
+      4.5
+    ],
+    "originalSize": [
+      750,
+      422
+    ]
+  }
+}

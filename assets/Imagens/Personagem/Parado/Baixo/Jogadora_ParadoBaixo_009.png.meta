@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a8c79b0a-1e21-43ee-b36c-0069b2c705fc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Jogadora_ParadoBaixo_009": {
+      "ver": "1.0.3",
+      "uuid": "55b70003-22d4-43b5-a1ce-c19dc5f9d26e",
+      "rawTextureUuid": "a8c79b0a-1e21-43ee-b36c-0069b2c705fc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4.5,
+      "offsetY": 1.5,
+      "trimX": 115,
+      "trimY": 22,
+      "width": 67,
+      "height": 115,
+      "rawWidth": 288,
+      "rawHeight": 162,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b2cfc9ae-068d-459c-9e2f-3eaad242cfc6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Jogadora_ParadoDireitaBaixo_032": {
+      "ver": "1.0.3",
+      "uuid": "bfd6e29f-ce06-405e-9d55-b72e3d3236e4",
+      "rawTextureUuid": "b2cfc9ae-068d-459c-9e2f-3eaad242cfc6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 18.5,
+      "offsetY": 12.5,
+      "trimX": 112,
+      "trimY": 15,
+      "width": 101,
+      "height": 107,
+      "rawWidth": 288,
+      "rawHeight": 162,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

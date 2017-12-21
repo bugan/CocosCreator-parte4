@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Jogadora_AndarCima_023",
+    "texture": "554aaa2e-a034-4925-a887-2215c1e29a4f",
+    "atlas": "",
+    "rect": [
+      114,
+      16,
+      68,
+      131
+    ],
+    "offset": [
+      4,
+      -0.5
+    ],
+    "originalSize": [
+      288,
+      162
+    ]
+  }
+}

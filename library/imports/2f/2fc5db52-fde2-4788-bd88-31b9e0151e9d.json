@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Veiculos_VanBatidaDireita",
+    "texture": "e53c746c-f2fd-4057-986d-6a1b3c2d6058",
+    "atlas": "",
+    "rect": [
+      161,
+      39,
+      356,
+      317
+    ],
+    "offset": [
+      -36,
+      13.5
+    ],
+    "originalSize": [
+      750,
+      422
+    ]
+  }
+}

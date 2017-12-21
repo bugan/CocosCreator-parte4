@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a641f682-36c4-4e70-8c3d-ffcfc7c792b1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Chefe_AndarDireita_007": {
+      "ver": "1.0.3",
+      "uuid": "701f3b66-7923-4af1-9e9f-fdb33aed560f",
+      "rawTextureUuid": "a641f682-36c4-4e70-8c3d-ffcfc7c792b1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 24,
+      "offsetY": 1,
+      "trimX": 237,
+      "trimY": 68,
+      "width": 150,
+      "height": 186,
+      "rawWidth": 576,
+      "rawHeight": 324,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

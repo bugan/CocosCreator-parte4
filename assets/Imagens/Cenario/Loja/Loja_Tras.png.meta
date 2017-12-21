@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f59d002d-7576-4f2d-9c42-6a7fc4fe8335",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Loja_Tras": {
+      "ver": "1.0.3",
+      "uuid": "946d66e2-a5a1-4941-921a-7b475adadc03",
+      "rawTextureUuid": "f59d002d-7576-4f2d-9c42-6a7fc4fe8335",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1264,
+      "height": 381,
+      "rawWidth": 1264,
+      "rawHeight": 381,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Ambiente_RuaCantoEsquerda",
+    "texture": "7084dd0d-d959-4188-bead-b771cb6b3adb",
+    "atlas": "",
+    "rect": [
+      35.8,
+      115.7,
+      549.7,
+      385.7
+    ],
+    "offset": [
+      -1.849999999999966,
+      3.9499999999999886
+    ],
+    "originalSize": [
+      625,
+      625
+    ],
+    "capInsets": [
+      9,
+      18.6,
+      6,
+      24
+    ]
+  }
+}

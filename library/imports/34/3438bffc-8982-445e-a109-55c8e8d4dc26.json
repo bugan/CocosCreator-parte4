@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Jogadora_ParadoEsquerdaBaixo_027",
+    "texture": "c074ce02-d8c3-430e-8f46-d8bcd4162aed",
+    "atlas": "",
+    "rect": [
+      84,
+      18,
+      107,
+      108
+    ],
+    "offset": [
+      -6.5,
+      9
+    ],
+    "originalSize": [
+      288,
+      162
+    ]
+  }
+}

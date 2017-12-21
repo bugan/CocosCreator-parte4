@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Adereços_PosteDeLuzEsquerda",
+    "texture": "eeb3391d-3ed1-4f13-a045-c69354077a10",
+    "atlas": "",
+    "rect": [
+      345,
+      179,
+      254,
+      435
+    ],
+    "offset": [
+      97,
+      -21.5
+    ],
+    "originalSize": [
+      750,
+      750
+    ]
+  }
+}

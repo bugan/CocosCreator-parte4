@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Jogadora_ParadoDireita_028",
+    "texture": "a23764f7-dbc0-45f4-b896-cf5bc8f9eaed",
+    "atlas": "",
+    "rect": [
+      96,
+      29,
+      122,
+      98
+    ],
+    "offset": [
+      13,
+      3
+    ],
+    "originalSize": [
+      288,
+      162
+    ]
+  }
+}

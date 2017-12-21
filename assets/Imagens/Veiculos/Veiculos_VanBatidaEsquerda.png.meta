@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "268a1516-6674-4888-b335-8701e91cdbff",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Veiculos_VanBatidaEsquerda": {
+      "ver": "1.0.3",
+      "uuid": "b7b6111d-60d8-48fd-9dff-38862c8b0b85",
+      "rawTextureUuid": "268a1516-6674-4888-b335-8701e91cdbff",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -6.5,
+      "offsetY": 1,
+      "trimX": 190,
+      "trimY": 25,
+      "width": 357,
+      "height": 370,
+      "rawWidth": 750,
+      "rawHeight": 422,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

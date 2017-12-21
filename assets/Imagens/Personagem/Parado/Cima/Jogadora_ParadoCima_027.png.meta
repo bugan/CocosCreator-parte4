@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "23c20b58-5dbe-4d95-9dc0-4497bff85ec4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Jogadora_ParadoCima_027": {
+      "ver": "1.0.3",
+      "uuid": "48f3f843-e574-4173-ac53-dc55cdb4ebba",
+      "rawTextureUuid": "23c20b58-5dbe-4d95-9dc0-4497bff85ec4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 5.5,
+      "offsetY": 3,
+      "trimX": 114,
+      "trimY": 16,
+      "width": 71,
+      "height": 124,
+      "rawWidth": 288,
+      "rawHeight": 162,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

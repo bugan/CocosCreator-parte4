@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Zumbi_ParadoDireitaCima_029",
+    "texture": "9126e72b-870d-46fd-8d69-3819e67ed29c",
+    "atlas": "",
+    "rect": [
+      110,
+      21,
+      64,
+      112
+    ],
+    "offset": [
+      -8,
+      7.5
+    ],
+    "originalSize": [
+      300,
+      169
+    ]
+  }
+}

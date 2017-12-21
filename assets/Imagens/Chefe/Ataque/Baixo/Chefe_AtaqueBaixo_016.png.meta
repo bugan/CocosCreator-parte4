@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "82d55e0d-639e-4aaf-9398-68598daa3fc7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Chefe_AtaqueBaixo_016": {
+      "ver": "1.0.3",
+      "uuid": "6b781d82-5fd1-41af-8b17-a18ef71f09eb",
+      "rawTextureUuid": "82d55e0d-639e-4aaf-9398-68598daa3fc7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 40.5,
+      "offsetY": 4,
+      "trimX": 242,
+      "trimY": 96,
+      "width": 173,
+      "height": 205,
+      "rawWidth": 576,
+      "rawHeight": 405,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Mecanico_Frente",
+    "texture": "fb783121-f47b-4370-a133-e22ea8c428e4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      845,
+      414
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      845,
+      414
+    ]
+  }
+}

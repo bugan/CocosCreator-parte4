@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Chefe_AndarEsquerdaCima_039",
+    "texture": "c58ef085-1fad-46bf-b3fa-4994d5dc5d56",
+    "atlas": "",
+    "rect": [
+      173,
+      28,
+      165,
+      226
+    ],
+    "offset": [
+      -32.5,
+      21
+    ],
+    "originalSize": [
+      576,
+      324
+    ]
+  }
+}

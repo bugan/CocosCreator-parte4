@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b3638f48-7ea8-43d6-9b4c-4262b08ee900",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Dinner_Direita": {
+      "ver": "1.0.3",
+      "uuid": "3d637510-709c-4835-a396-24dbc4bfc72e",
+      "rawTextureUuid": "b3638f48-7ea8-43d6-9b4c-4262b08ee900",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 502,
+      "height": 696,
+      "rawWidth": 502,
+      "rawHeight": 696,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

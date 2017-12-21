@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Chefe_AndarCima_016",
+    "texture": "ca5ac6d9-981c-431f-b493-c1c9efc8d18c",
+    "atlas": "",
+    "rect": [
+      236,
+      21,
+      136,
+      222
+    ],
+    "offset": [
+      16,
+      30
+    ],
+    "originalSize": [
+      576,
+      324
+    ]
+  }
+}

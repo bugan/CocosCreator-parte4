@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6ef48896-235e-42c1-a2c5-5ce3e556e912",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Adereços_PilhaCaixasGrandesFrente": {
+      "ver": "1.0.3",
+      "uuid": "efb5f026-3fc6-40ef-bef2-a70edf4ec683",
+      "rawTextureUuid": "6ef48896-235e-42c1-a2c5-5ce3e556e912",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -36.5,
+      "trimX": 167,
+      "trimY": 275,
+      "width": 418,
+      "height": 273,
+      "rawWidth": 750,
+      "rawHeight": 750,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

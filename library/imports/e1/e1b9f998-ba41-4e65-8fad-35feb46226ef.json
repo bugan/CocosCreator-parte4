@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Adereços_destroçosTras",
+    "texture": "4f724129-56d1-4139-bb9e-9ce66f99024d",
+    "atlas": "",
+    "rect": [
+      90,
+      146,
+      602,
+      388
+    ],
+    "offset": [
+      16,
+      35
+    ],
+    "originalSize": [
+      750,
+      750
+    ]
+  }
+}

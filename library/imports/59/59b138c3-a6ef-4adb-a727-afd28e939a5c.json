@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Chefe_AndarDireitaBaixo_027",
+    "texture": "a1249d41-3cfc-448f-915d-98e107ad0c0c",
+    "atlas": "",
+    "rect": [
+      244,
+      59,
+      166,
+      188
+    ],
+    "offset": [
+      39,
+      9
+    ],
+    "originalSize": [
+      576,
+      324
+    ]
+  }
+}

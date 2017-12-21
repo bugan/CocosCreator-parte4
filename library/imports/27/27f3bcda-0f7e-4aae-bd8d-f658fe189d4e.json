@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Veiculos_CarroCapotado03Direita",
+    "texture": "e89dd58e-845e-4e47-b9af-9c27f07101a5",
+    "atlas": "",
+    "rect": [
+      186,
+      51,
+      305,
+      177
+    ],
+    "offset": [
+      -36.5,
+      71.5
+    ],
+    "originalSize": [
+      750,
+      422
+    ]
+  }
+}

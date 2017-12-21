@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "fad6b518-10b6-4c5a-b238-e985dfa1c516",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Chefe_AtaqueEsquerda_018": {
+      "ver": "1.0.3",
+      "uuid": "a60edfee-c041-4f75-8a87-1027b22a42a1",
+      "rawTextureUuid": "fad6b518-10b6-4c5a-b238-e985dfa1c516",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -54.5,
+      "offsetY": -45.5,
+      "trimX": 126,
+      "trimY": 143,
+      "width": 215,
+      "height": 210,
+      "rawWidth": 576,
+      "rawHeight": 405,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Chefe_Morte_024",
+    "texture": "362ca25f-48e0-41dc-a4c8-4113bde42c9b",
+    "atlas": "",
+    "rect": [
+      245,
+      152,
+      200,
+      155
+    ],
+    "offset": [
+      57,
+      -34.5
+    ],
+    "originalSize": [
+      576,
+      390
+    ]
+  }
+}

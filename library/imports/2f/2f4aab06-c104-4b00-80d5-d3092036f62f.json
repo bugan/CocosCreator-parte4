@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Zumbi_AndarCimaDireita_032",
+    "texture": "e2887c35-5d89-4154-b6d9-b74975310827",
+    "atlas": "",
+    "rect": [
+      121,
+      24,
+      87,
+      109
+    ],
+    "offset": [
+      14.5,
+      6
+    ],
+    "originalSize": [
+      300,
+      169
+    ]
+  }
+}

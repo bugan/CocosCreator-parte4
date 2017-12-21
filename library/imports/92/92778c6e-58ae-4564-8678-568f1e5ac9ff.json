@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Chefe_AndarBaixo_012",
+    "texture": "f8a72570-dc7d-4de7-a5ef-449b92e1be2c",
+    "atlas": "",
+    "rect": [
+      217,
+      64,
+      138,
+      178
+    ],
+    "offset": [
+      -2,
+      9
+    ],
+    "originalSize": [
+      576,
+      324
+    ]
+  }
+}

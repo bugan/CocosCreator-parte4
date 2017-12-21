@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7a3e68c5-0a9b-492d-ba85-61cc7243bdf9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Itens_KitPrimeirosSocorrosCima": {
+      "ver": "1.0.3",
+      "uuid": "66ae4b34-335c-4c8a-94da-1096eb3d7af1",
+      "rawTextureUuid": "7a3e68c5-0a9b-492d-ba85-61cc7243bdf9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": 4.5,
+      "trimX": 115,
+      "trimY": 57,
+      "width": 53,
+      "height": 39,
+      "rawWidth": 288,
+      "rawHeight": 162,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

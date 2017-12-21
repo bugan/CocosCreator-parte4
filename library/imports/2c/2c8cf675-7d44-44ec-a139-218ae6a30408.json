@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Mecanico_Tras",
+    "texture": "8f8c04e0-3e80-4c4b-b153-f1ca21594743",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      846,
+      435
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      846,
+      435
+    ]
+  }
+}

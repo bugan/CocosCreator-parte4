@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c26a56e0-2553-430a-9cd3-e10205368370",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Zumbi_ParadoEsquerdaBaixo_033": {
+      "ver": "1.0.3",
+      "uuid": "69754e5d-57c9-458e-aac8-6ba04ac3e781",
+      "rawTextureUuid": "c26a56e0-2553-430a-9cd3-e10205368370",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 10.5,
+      "offsetY": 1,
+      "trimX": 128,
+      "trimY": 29,
+      "width": 65,
+      "height": 109,
+      "rawWidth": 300,
+      "rawHeight": 169,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Loja_Tras",
+    "texture": "f59d002d-7576-4f2d-9c42-6a7fc4fe8335",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1264,
+      381
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1264,
+      381
+    ]
+  }
+}

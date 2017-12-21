@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Dinner_Direita",
+    "texture": "b3638f48-7ea8-43d6-9b4c-4262b08ee900",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      502,
+      696
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      502,
+      696
+    ]
+  }
+}

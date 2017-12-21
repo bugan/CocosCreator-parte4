@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c699eb7c-cf32-4b23-8b06-513bb5e30f09",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Veiculos_CarroCapotado01Esquerda": {
+      "ver": "1.0.3",
+      "uuid": "5e8e45e4-5148-4380-93a0-db2b862328e4",
+      "rawTextureUuid": "c699eb7c-cf32-4b23-8b06-513bb5e30f09",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -23,
+      "offsetY": -8.5,
+      "trimX": 200,
+      "trimY": 146,
+      "width": 304,
+      "height": 147,
+      "rawWidth": 750,
+      "rawHeight": 422,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

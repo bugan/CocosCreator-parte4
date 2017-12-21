@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6513fea7-da07-4029-8b5f-6deea3a0ec46",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Jogadora_AndarDireita_010": {
+      "ver": "1.0.3",
+      "uuid": "db9fd170-b927-424a-af93-d01fb8b10f81",
+      "rawTextureUuid": "6513fea7-da07-4029-8b5f-6deea3a0ec46",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 10,
+      "offsetY": 2,
+      "trimX": 94,
+      "trimY": 31,
+      "width": 120,
+      "height": 96,
+      "rawWidth": 288,
+      "rawHeight": 162,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Jogadora_AndarEsquerdaCima_000",
+    "texture": "a768ff68-a707-400f-a090-695479caa550",
+    "atlas": "",
+    "rect": [
+      86,
+      23,
+      100,
+      108
+    ],
+    "offset": [
+      -8,
+      4
+    ],
+    "originalSize": [
+      288,
+      162
+    ]
+  }
+}

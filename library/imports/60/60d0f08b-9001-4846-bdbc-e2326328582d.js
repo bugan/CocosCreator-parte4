@@ -37,6 +37,7 @@ cc.Class({
         var posicao = this.node.position.add(alcance);
         return posicao;
     },
+
     possoGerar: function possoGerar() {
         var distanciaAtual = this.node.position.sub(cc.Camera.main.node.position);
         distanciaAtual = distanciaAtual.mag();

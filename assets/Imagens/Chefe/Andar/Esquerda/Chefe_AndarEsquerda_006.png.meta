@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e90277ff-2e72-476b-81d4-88eb6d74417e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Chefe_AndarEsquerda_006": {
+      "ver": "1.0.3",
+      "uuid": "1a26656e-679b-4cba-9856-52b106396fe3",
+      "rawTextureUuid": "e90277ff-2e72-476b-81d4-88eb6d74417e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -77.5,
+      "offsetY": 5.5,
+      "trimX": 135,
+      "trimY": 48,
+      "width": 151,
+      "height": 217,
+      "rawWidth": 576,
+      "rawHeight": 324,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

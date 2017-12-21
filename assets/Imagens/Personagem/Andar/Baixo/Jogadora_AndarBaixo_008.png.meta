@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5357d1c3-309a-4e62-bc94-67911ff29bb5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Jogadora_AndarBaixo_008": {
+      "ver": "1.0.3",
+      "uuid": "9c20c16a-613b-4235-acba-f017ec887fde",
+      "rawTextureUuid": "5357d1c3-309a-4e62-bc94-67911ff29bb5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2,
+      "offsetY": 3.5,
+      "trimX": 112,
+      "trimY": 22,
+      "width": 68,
+      "height": 111,
+      "rawWidth": 288,
+      "rawHeight": 162,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

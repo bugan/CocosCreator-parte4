@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Ambiente_BarreiraCima",
+    "texture": "dd72ff5f-ab85-4728-aca6-9d09a318926f",
+    "atlas": "",
+    "rect": [
+      143,
+      76,
+      40,
+      116
+    ],
+    "offset": [
+      7,
+      22
+    ],
+    "originalSize": [
+      312,
+      312
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Adereços_PilhaCaixasGrandesEsquerda",
+    "texture": "52e1dbcd-c3f1-4edf-80b9-e4db0c57f7b8",
+    "atlas": "",
+    "rect": [
+      272,
+      183,
+      288,
+      347
+    ],
+    "offset": [
+      41,
+      18.5
+    ],
+    "originalSize": [
+      750,
+      750
+    ]
+  }
+}

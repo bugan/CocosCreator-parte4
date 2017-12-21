@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "55f39bd3-7618-465b-95f7-a6ad455dfa44",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Chefe_AtaqueCima_017": {
+      "ver": "1.0.3",
+      "uuid": "ab3dade9-7bdf-46d6-ad1a-ee1008c42692",
+      "rawTextureUuid": "55f39bd3-7618-465b-95f7-a6ad455dfa44",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -29,
+      "offsetY": 30,
+      "trimX": 175,
+      "trimY": 49,
+      "width": 168,
+      "height": 247,
+      "rawWidth": 576,
+      "rawHeight": 405,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

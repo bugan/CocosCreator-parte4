@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MenuBG",
+    "texture": "814a1a17-e222-4766-8e7b-2c0bd41113f9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1352,
+      580
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1352,
+      580
+    ]
+  }
+}

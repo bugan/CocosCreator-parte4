@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Ambiente_RuaCantoDireita",
+    "texture": "4a427592-233d-4666-b0fa-6953f28eea66",
+    "atlas": "",
+    "rect": [
+      36,
+      138,
+      554,
+      392
+    ],
+    "offset": [
+      0.5,
+      -21.5
+    ],
+    "originalSize": [
+      625,
+      625
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Zumbi_ParadoBaixo_001",
+    "texture": "c6ec85f6-818d-44c4-9496-ef98126adea9",
+    "atlas": "",
+    "rect": [
+      111,
+      27,
+      77,
+      99
+    ],
+    "offset": [
+      -0.5,
+      8
+    ],
+    "originalSize": [
+      300,
+      169
+    ]
+  }
+}

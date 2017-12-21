@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Ambiente_RuaRetaCima",
+    "texture": "27fbb2de-6e12-4ac7-851d-8ed0f616dd26",
+    "atlas": "",
+    "rect": [
+      195,
+      114,
+      278,
+      392
+    ],
+    "offset": [
+      21.5,
+      2.5
+    ],
+    "originalSize": [
+      625,
+      625
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4b5a8b61-6ddb-420a-b68a-de23ff8121bb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Chefe_AndarBaixo_008": {
+      "ver": "1.0.3",
+      "uuid": "975b63ea-3053-4d7d-b839-f5bc115e2312",
+      "rawTextureUuid": "4b5a8b61-6ddb-420a-b68a-de23ff8121bb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": 9,
+      "trimX": 217,
+      "trimY": 63,
+      "width": 137,
+      "height": 180,
+      "rawWidth": 576,
+      "rawHeight": 324,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

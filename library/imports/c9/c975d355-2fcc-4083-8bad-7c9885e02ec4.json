@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Zumbi_AndarDireitaBaixo_019",
+    "texture": "7e21d967-20bc-4e9e-aec4-4e812638115e",
+    "atlas": "",
+    "rect": [
+      124,
+      31,
+      91,
+      101
+    ],
+    "offset": [
+      19.5,
+      3
+    ],
+    "originalSize": [
+      300,
+      169
+    ]
+  }
+}

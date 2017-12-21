@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8ba97fa2-4306-4895-a416-2e974d69c7f3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Chefe_AndarCima_035": {
+      "ver": "1.0.3",
+      "uuid": "a72959db-8785-49bc-927b-903b2848c587",
+      "rawTextureUuid": "8ba97fa2-4306-4895-a416-2e974d69c7f3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 17,
+      "offsetY": 29.5,
+      "trimX": 238,
+      "trimY": 24,
+      "width": 134,
+      "height": 217,
+      "rawWidth": 576,
+      "rawHeight": 324,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "50f28a7b-8132-4250-b54c-06fac4bb93ec",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Zumbi_AtaqueCima_015": {
+      "ver": "1.0.3",
+      "uuid": "465a04f5-94b1-4ad7-a02e-737946661c62",
+      "rawTextureUuid": "50f28a7b-8132-4250-b54c-06fac4bb93ec",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -8,
+      "offsetY": 12.5,
+      "trimX": 105,
+      "trimY": 11,
+      "width": 74,
+      "height": 122,
+      "rawWidth": 300,
+      "rawHeight": 169,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

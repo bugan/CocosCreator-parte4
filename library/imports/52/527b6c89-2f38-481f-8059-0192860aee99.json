@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Ambiente_RuaCantoCima",
+    "texture": "9a43442b-f0c9-4f57-9d46-c9646cbc4f2e",
+    "atlas": "",
+    "rect": [
+      37,
+      114,
+      553,
+      392
+    ],
+    "offset": [
+      1,
+      2.5
+    ],
+    "originalSize": [
+      625,
+      625
+    ]
+  }
+}

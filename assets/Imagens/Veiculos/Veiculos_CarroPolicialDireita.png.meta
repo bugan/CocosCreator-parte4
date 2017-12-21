@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "48e4026e-ff7f-438e-ba03-2ba922c65159",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Veiculos_CarroPolicialDireita": {
+      "ver": "1.0.3",
+      "uuid": "758e021a-5b63-4dcc-8b8a-4968a02d8c95",
+      "rawTextureUuid": "48e4026e-ff7f-438e-ba03-2ba922c65159",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 40,
+      "trimX": 206,
+      "trimY": 83,
+      "width": 338,
+      "height": 176,
+      "rawWidth": 750,
+      "rawHeight": 422,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

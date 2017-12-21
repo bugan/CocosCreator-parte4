@@ -14,13 +14,14 @@ cc.Class({
     onLoad: function onLoad() {
         this.barraDeVida = this.getComponent(cc.ProgressBar);
         cc.director.getScene().on("JogadoraPerdeuVida", this.atualizaBarraDeVida, this);
+        this.barraDeVida.progress = 1;
     },
+
 
     atualizaBarraDeVida: function atualizaBarraDeVida(evento) {
         var dados = evento.getUserData();
         this.barraDeVida.progress = dados.vidaAtual / dados.vidaMaxima;
     }
-
 });
 
 cc._RF.pop();

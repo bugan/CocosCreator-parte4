@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8aa676a5-bfcd-4d5e-9308-0378c59b1e71",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Chefe_ParadoBaixo_030": {
+      "ver": "1.0.3",
+      "uuid": "2c5807ec-b298-4f90-aa4a-0fb86890d001",
+      "rawTextureUuid": "8aa676a5-bfcd-4d5e-9308-0378c59b1e71",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 18.5,
+      "trimX": 219,
+      "trimY": 49,
+      "width": 140,
+      "height": 189,
+      "rawWidth": 576,
+      "rawHeight": 324,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

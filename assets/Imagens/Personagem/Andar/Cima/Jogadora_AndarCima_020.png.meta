@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8af67a9d-f933-40f4-87b9-6d2af0266ba8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Jogadora_AndarCima_020": {
+      "ver": "1.0.3",
+      "uuid": "ccc3bf1d-2174-422c-80fa-91d969fe2573",
+      "rawTextureUuid": "8af67a9d-f933-40f4-87b9-6d2af0266ba8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4.5,
+      "offsetY": 1,
+      "trimX": 114,
+      "trimY": 15,
+      "width": 69,
+      "height": 130,
+      "rawWidth": 288,
+      "rawHeight": 162,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

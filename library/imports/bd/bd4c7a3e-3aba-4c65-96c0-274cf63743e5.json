@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Veiculos_TanqueDeGuerraDestruidoDireita",
+    "texture": "76220485-dfa8-42fa-8aea-8bfc32da6678",
+    "atlas": "",
+    "rect": [
+      105,
+      123,
+      497,
+      316
+    ],
+    "offset": [
+      -21.5,
+      19
+    ],
+    "originalSize": [
+      750,
+      600
+    ]
+  }
+}

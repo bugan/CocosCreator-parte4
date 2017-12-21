@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5f58b18f-f121-4964-abde-895710c8ab0f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Zumbi_AtaqueEsquerda_017": {
+      "ver": "1.0.3",
+      "uuid": "8d40ae1e-76aa-4e3f-abb8-d414fb8fe246",
+      "rawTextureUuid": "5f58b18f-f121-4964-abde-895710c8ab0f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -56.5,
+      "offsetY": -8,
+      "trimX": 37,
+      "trimY": 47,
+      "width": 113,
+      "height": 91,
+      "rawWidth": 300,
+      "rawHeight": 169,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LogoAlura",
+    "texture": "624e7943-b5de-47c4-95ae-46d6dedf2121",
+    "atlas": "",
+    "rect": [
+      11,
+      5,
+      579,
+      268
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      600,
+      277
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Zumbi_AndarCima_026",
+    "texture": "d42dbd63-f761-40d2-803f-0d9f12999728",
+    "atlas": "",
+    "rect": [
+      121,
+      17,
+      78,
+      109
+    ],
+    "offset": [
+      10,
+      13
+    ],
+    "originalSize": [
+      300,
+      169
+    ]
+  }
+}

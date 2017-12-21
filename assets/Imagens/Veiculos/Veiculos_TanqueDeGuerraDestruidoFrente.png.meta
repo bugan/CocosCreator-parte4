@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7e2cfba9-f270-427f-8c83-1d3ae2ded486",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Veiculos_TanqueDeGuerraDestruidoFrente": {
+      "ver": "1.0.3",
+      "uuid": "424b6b1d-4d00-4647-a226-6f77e2ce13f6",
+      "rawTextureUuid": "7e2cfba9-f270-427f-8c83-1d3ae2ded486",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -29,
+      "offsetY": 0,
+      "trimX": 237,
+      "trimY": 84,
+      "width": 218,
+      "height": 432,
+      "rawWidth": 750,
+      "rawHeight": 600,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

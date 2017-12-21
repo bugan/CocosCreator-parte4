@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "113ed650-a3dc-48f4-be2c-d45856f2230a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Zumbi_AndarCima_007": {
+      "ver": "1.0.3",
+      "uuid": "cacef816-dbf7-4ecf-af3f-7f3e4b3079d7",
+      "rawTextureUuid": "113ed650-a3dc-48f4-be2c-d45856f2230a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 9.5,
+      "offsetY": 12.5,
+      "trimX": 120,
+      "trimY": 20,
+      "width": 79,
+      "height": 104,
+      "rawWidth": 300,
+      "rawHeight": 169,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

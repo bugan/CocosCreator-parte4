@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Chefe_ParadoBaixo_021",
+    "texture": "7dba1aa2-5fcc-413c-b4d5-4217aedf122c",
+    "atlas": "",
+    "rect": [
+      218,
+      50,
+      141,
+      188
+    ],
+    "offset": [
+      0.5,
+      18
+    ],
+    "originalSize": [
+      576,
+      324
+    ]
+  }
+}

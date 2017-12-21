@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Ambiente_ParedeTijolosEsquerda",
+    "texture": "f85a8c29-b9c0-46d1-855a-4c013d6a4b4d",
+    "atlas": "",
+    "rect": [
+      55,
+      82,
+      199,
+      93
+    ],
+    "offset": [
+      -1.5,
+      27.5
+    ],
+    "originalSize": [
+      312,
+      312
+    ]
+  }
+}

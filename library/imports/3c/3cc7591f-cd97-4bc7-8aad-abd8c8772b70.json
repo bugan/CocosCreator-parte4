@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Zumbi_ParadoCima_002",
+    "texture": "b0f99753-e27e-4693-ac16-0317ab0137b8",
+    "atlas": "",
+    "rect": [
+      116,
+      21,
+      78,
+      103
+    ],
+    "offset": [
+      5,
+      12
+    ],
+    "originalSize": [
+      300,
+      169
+    ]
+  }
+}

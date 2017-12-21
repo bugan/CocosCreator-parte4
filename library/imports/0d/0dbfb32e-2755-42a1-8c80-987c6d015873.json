@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Chefe_AndarDireitaCima_002",
+    "texture": "fb7c45d7-3a7f-4f10-ba8b-4ff661938a43",
+    "atlas": "",
+    "rect": [
+      239,
+      40,
+      164,
+      219
+    ],
+    "offset": [
+      33,
+      12.5
+    ],
+    "originalSize": [
+      576,
+      324
+    ]
+  }
+}

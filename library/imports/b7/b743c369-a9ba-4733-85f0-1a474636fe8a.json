@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Motel_Direita",
+    "texture": "cf478c07-07e8-433b-a50d-a4bb05b6a279",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      532,
+      1068
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      532,
+      1068
+    ]
+  }
+}

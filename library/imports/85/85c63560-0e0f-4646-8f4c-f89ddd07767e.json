@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Jogadora_ParadoCima_034",
+    "texture": "33b8fe9f-468c-4d80-996e-bafe60a81073",
+    "atlas": "",
+    "rect": [
+      114,
+      17,
+      69,
+      123
+    ],
+    "offset": [
+      4.5,
+      2.5
+    ],
+    "originalSize": [
+      288,
+      162
+    ]
+  }
+}

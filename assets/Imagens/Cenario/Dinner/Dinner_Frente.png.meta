@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "aaab4c10-58c2-44ba-9b64-fa0913761c9d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Dinner_Frente": {
+      "ver": "1.0.3",
+      "uuid": "71326502-39c8-4475-9517-537780074270",
+      "rawTextureUuid": "aaab4c10-58c2-44ba-9b64-fa0913761c9d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 916,
+      "height": 427,
+      "rawWidth": 916,
+      "rawHeight": 427,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

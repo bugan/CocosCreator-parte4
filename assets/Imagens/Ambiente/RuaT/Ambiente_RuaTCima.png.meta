@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3775f22d-4cf8-470b-97c7-910e61e18152",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Ambiente_RuaTCima": {
+      "ver": "1.0.3",
+      "uuid": "590ab187-8914-4ea3-8c7f-dce6bf1a1f8b",
+      "rawTextureUuid": "3775f22d-4cf8-470b-97c7-910e61e18152",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5,
+      "offsetY": -28.5,
+      "trimX": 67,
+      "trimY": 258,
+      "width": 1106,
+      "height": 791,
+      "rawWidth": 1250,
+      "rawHeight": 1250,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

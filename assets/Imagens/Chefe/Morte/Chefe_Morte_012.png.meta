@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "229ea241-f9a6-434f-84fb-d344127a84c7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Chefe_Morte_012": {
+      "ver": "1.0.3",
+      "uuid": "8b3cb167-e79e-4878-8c7c-d7130760c232",
+      "rawTextureUuid": "229ea241-f9a6-434f-84fb-d344127a84c7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 13.5,
+      "offsetY": 66,
+      "trimX": 234,
+      "trimY": 46,
+      "width": 135,
+      "height": 166,
+      "rawWidth": 576,
+      "rawHeight": 390,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

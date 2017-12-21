@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Chefe_AtaqueEsquerdaBaixo_005",
+    "texture": "e683315f-f42a-4c18-b451-66b745580b9c",
+    "atlas": "",
+    "rect": [
+      202,
+      65,
+      147,
+      230
+    ],
+    "offset": [
+      -12.5,
+      22.5
+    ],
+    "originalSize": [
+      576,
+      405
+    ]
+  }
+}

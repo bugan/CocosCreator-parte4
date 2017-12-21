@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Veiculos_CarroPolicialTras",
+    "texture": "d19456c0-32a2-4221-b55d-4c90da7241f1",
+    "atlas": "",
+    "rect": [
+      339,
+      22,
+      129,
+      326
+    ],
+    "offset": [
+      28.5,
+      26
+    ],
+    "originalSize": [
+      750,
+      422
+    ]
+  }
+}

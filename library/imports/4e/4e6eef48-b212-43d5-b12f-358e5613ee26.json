@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Zumbi_AtaqueCima_016",
+    "texture": "effcad78-5f50-49b5-84c6-148c758403f3",
+    "atlas": "",
+    "rect": [
+      114,
+      8,
+      66,
+      126
+    ],
+    "offset": [
+      -3,
+      13.5
+    ],
+    "originalSize": [
+      300,
+      169
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Adereços_PosteDeLuzFrente",
+    "texture": "0686605a-b5c9-4edd-805e-f9c01ac52bda",
+    "atlas": "",
+    "rect": [
+      352,
+      177,
+      75,
+      433
+    ],
+    "offset": [
+      14.5,
+      -18.5
+    ],
+    "originalSize": [
+      750,
+      750
+    ]
+  }
+}

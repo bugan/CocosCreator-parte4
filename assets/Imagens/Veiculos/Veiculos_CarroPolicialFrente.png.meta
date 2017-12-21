@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "45c484ed-b475-4fad-a35b-1d7c007195f6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Veiculos_CarroPolicialFrente": {
+      "ver": "1.0.3",
+      "uuid": "9e929b55-2c74-44a5-9fc5-f96c7e4b0bd0",
+      "rawTextureUuid": "45c484ed-b475-4fad-a35b-1d7c007195f6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -28.5,
+      "offsetY": 24,
+      "trimX": 282,
+      "trimY": 24,
+      "width": 129,
+      "height": 326,
+      "rawWidth": 750,
+      "rawHeight": 422,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

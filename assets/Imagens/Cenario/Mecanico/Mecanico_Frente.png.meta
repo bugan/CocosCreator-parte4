@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "fb783121-f47b-4370-a133-e22ea8c428e4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Mecanico_Frente": {
+      "ver": "1.0.3",
+      "uuid": "36ff4461-9bfe-4223-b4e2-8120599e7805",
+      "rawTextureUuid": "fb783121-f47b-4370-a133-e22ea8c428e4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 845,
+      "height": 414,
+      "rawWidth": 845,
+      "rawHeight": 414,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

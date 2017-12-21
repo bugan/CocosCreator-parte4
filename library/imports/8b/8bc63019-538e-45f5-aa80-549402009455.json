@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Zumbi_Morte_020",
+    "texture": "a6245479-3b0a-4c23-8862-f5e554cdebda",
+    "atlas": "",
+    "rect": [
+      126,
+      63,
+      93,
+      63
+    ],
+    "offset": [
+      22.5,
+      -0.5
+    ],
+    "originalSize": [
+      300,
+      188
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Chefe_AtaqueEsquerda_020",
+    "texture": "d7182094-5ed2-4f76-9ffc-d7d870c581b8",
+    "atlas": "",
+    "rect": [
+      148,
+      132,
+      201,
+      201
+    ],
+    "offset": [
+      -39.5,
+      -30
+    ],
+    "originalSize": [
+      576,
+      405
+    ]
+  }
+}

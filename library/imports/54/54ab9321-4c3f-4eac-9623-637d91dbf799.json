@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Ambiente_RuaTEsquerda",
+    "texture": "ce495bb0-d4fc-4192-9f7e-11a68a29aa67",
+    "atlas": "",
+    "rect": [
+      74,
+      250,
+      1106,
+      790
+    ],
+    "offset": [
+      2,
+      -20
+    ],
+    "originalSize": [
+      1250,
+      1250
+    ]
+  }
+}

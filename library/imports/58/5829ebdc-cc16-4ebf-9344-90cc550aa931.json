@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Zumbi_AtaqueBaixo_016",
+    "texture": "e1e5a8ec-df45-4d8f-a3fd-f76f5de2ee1f",
+    "atlas": "",
+    "rect": [
+      122,
+      40,
+      68,
+      108
+    ],
+    "offset": [
+      6,
+      -9.5
+    ],
+    "originalSize": [
+      300,
+      169
+    ]
+  }
+}

@@ -8,32 +8,68 @@ cc.Class({
     extends: cc.Component,
 
     properties: {
-        _animacao: cc.Animation
+        anguloDiagonal: {
+            type: cc.Float,
+            default: 0,
+            slide: true,
+            range: [0, 45]
+        },
+        _animacao: cc.Animation,
+        _senoMinimo: cc.Float,
+        _cossenoMinimo: cc.Float
     },
 
     onLoad: function onLoad() {
         this._animacao = this.getComponent(cc.Animation);
         this._animacao.play("AndarBaixo");
+
+        this._cossenoMinimo = Math.cos(this.grausParaRadianos(90 - this.anguloDiagonal));
+        this._senoMinimo = Math.sin(this.grausParaRadianos(this.anguloDiagonal));
     },
 
     mudaAnimacao: function mudaAnimacao(direcao, estado) {
         var proximaAnimacao = estado;
 
-        if (direcao.x > 0) {
-            proximaAnimacao += "Direita";
-        } else if (direcao.x < 0) {
-            proximaAnimacao += "Esquerda";
+        var angulo = this.calcularAngulo(direcao);
+
+        var cosseno = Math.cos(angulo);
+        cosseno = Math.abs(cosseno);
+
+        var seno = Math.sin(angulo);
+        seno = Math.abs(seno);
+
+        if (cosseno >= this._cossenoMinimo) {
+            proximaAnimacao += this.verificarEixo(direcao.x, "Direita", "Esquerda");
+        }
+        if (seno >= this._senoMinimo) {
+            proximaAnimacao += this.verificarEixo(direcao.y, "Cima", "Baixo");
         }
 
-        if (direcao.y > 0) {
-            proximaAnimacao += "Cima";
-        } else if (direcao.y < 0) {
-            proximaAnimacao += "Baixo";
-        }
-
-        if (!this._animacao.getAnimationState(proximaAnimacao).isPlaying) {
+        if (!this.animacaoEstaTocando(proximaAnimacao)) {
             this._animacao.play(proximaAnimacao);
         }
+    },
+
+    animacaoEstaTocando: function animacaoEstaTocando(animacao) {
+        return this._animacao.getAnimationState(animacao).isPlaying;
+    },
+
+    verificarEixo: function verificarEixo(valorEixo, sentidoPositivo, sentidoNegativo) {
+        if (valorEixo > 0) {
+            return sentidoPositivo;
+        } else if (valorEixo < 0) {
+            return sentidoNegativo;
+        }
+    },
+
+    calcularAngulo: function calcularAngulo(direcao) {
+        var anguloEmRadianos = Math.atan2(direcao.y, direcao.x);
+        return anguloEmRadianos;
+    },
+
+    grausParaRadianos: function grausParaRadianos(anguloEmRadianos) {
+        var anguloEmGraus = anguloEmRadianos * (Math.PI / 180);
+        return anguloEmGraus;
     }
 
 });

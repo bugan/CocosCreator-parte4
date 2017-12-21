@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Ambiente_BarreiraDireita",
+    "texture": "b50381f6-341f-4499-b2dd-69b0a9bbf721",
+    "atlas": "",
+    "rect": [
+      109,
+      130,
+      97,
+      67
+    ],
+    "offset": [
+      1.5,
+      -7.5
+    ],
+    "originalSize": [
+      312,
+      312
+    ]
+  }
+}
