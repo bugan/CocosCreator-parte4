@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Loja-Loja_Esquerda",
+    "texture": "d73db8e1-4488-44f7-972c-712cdedf46a8",
+    "atlas": "310696da-7c27-429c-8262-7b8b387a08d4",
+    "rect": [
+      1,
+      1,
+      471,
+      936
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      471,
+      936
+    ]
+  }
+}

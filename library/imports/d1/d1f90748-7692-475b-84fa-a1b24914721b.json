@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Ambiente_RuaTCima",
+    "texture": "7a7eff8b-d637-44e1-abd5-dd143c9785eb",
+    "atlas": "33a01ab3-364c-4754-8c63-41f1beb94c44",
+    "rect": [
+      1,
+      1200,
+      1108,
+      794
+    ],
+    "offset": [
+      -5,
+      -28
+    ],
+    "originalSize": [
+      1250,
+      1250
+    ]
+  }
+}

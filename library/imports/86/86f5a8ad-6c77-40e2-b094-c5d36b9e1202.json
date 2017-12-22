@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_003",
+    "texture": "0a1e8960-a0c7-4abe-adba-33bac015bc21",
+    "atlas": "19868224-1549-4d26-abe5-f50bb056d694",
+    "rect": [
+      1675,
+      112,
+      124,
+      208
+    ],
+    "offset": [
+      20,
+      2
+    ],
+    "originalSize": [
+      576,
+      324
+    ]
+  }
+}

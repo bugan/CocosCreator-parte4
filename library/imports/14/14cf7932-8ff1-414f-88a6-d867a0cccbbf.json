@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Mecanico-Mecanico_Direita",
+    "texture": "d73db8e1-4488-44f7-972c-712cdedf46a8",
+    "atlas": "310696da-7c27-429c-8262-7b8b387a08d4",
+    "rect": [
+      1267,
+      939,
+      513,
+      662
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      513,
+      662
+    ]
+  }
+}

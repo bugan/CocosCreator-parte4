@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Motel-Motel_Frente",
+    "texture": "51b9ab01-1e3b-44c2-a651-57052c3ba2d0",
+    "atlas": "dc290665-0684-403a-85ee-7282214a9714",
+    "rect": [
+      1,
+      1152,
+      1376,
+      567
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1376,
+      567
+    ]
+  }
+}

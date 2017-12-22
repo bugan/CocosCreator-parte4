@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Ambiente_RuaTDireita",
+    "texture": "280a6713-d59f-4f14-ae9e-41ffc63a8dd7",
+    "atlas": "6703551e-173b-457c-8344-d3d5b060b8d7",
+    "rect": [
+      1,
+      1,
+      1108,
+      794
+    ],
+    "offset": [
+      1,
+      -17
+    ],
+    "originalSize": [
+      1250,
+      1250
+    ]
+  }
+}

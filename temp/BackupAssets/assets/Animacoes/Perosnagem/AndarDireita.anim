@@ -3,7 +3,7 @@
   "_name": "AndarDireita",
   "_objFlags": 0,
   "_rawFiles": null,
-  "_duration": 1.13,
+  "_duration": 1,
   "sample": 24,
   "speed": 1,
   "wrapMode": 2,
@@ -12,147 +12,147 @@
       "cc.Sprite": {
         "spriteFrame": [
           {
+            "frame": 0,
+            "value": {
+              "__uuid__": "aaef5070-14a3-444d-8a5e-e1da6fca9b95"
+            }
+          },
+          {
+            "frame": 0.041666666666666664,
+            "value": {
+              "__uuid__": "70b720f6-fb2f-4acc-8b2c-ff57e71a12c8"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "ff94c827-9419-4e7d-a3e5-00f463116c5a"
+            }
+          },
+          {
             "frame": 0.125,
             "value": {
-              "__uuid__": "10a76e59-6693-4bf1-aacc-65daa3a1d1fc"
+              "__uuid__": "0f4caea1-bcc7-4fb9-b259-37e4708ef74c"
             }
           },
           {
             "frame": 0.16666666666666666,
             "value": {
-              "__uuid__": "ee2bc900-3e11-42d1-a6af-38d4d81c5342"
+              "__uuid__": "1956813e-092a-4ae2-81a0-9f7c8222d45d"
             }
           },
           {
             "frame": 0.20833333333333334,
             "value": {
-              "__uuid__": "f4b3e21f-c83f-42ce-86a9-112f7f2fbe7d"
+              "__uuid__": "ec7e32f0-ebeb-4357-865a-571209fc9c75"
             }
           },
           {
             "frame": 0.25,
             "value": {
-              "__uuid__": "53e00d30-e781-47de-b728-3e0996e770ec"
+              "__uuid__": "65895ddf-2015-4742-be5d-98e82ac98c7f"
             }
           },
           {
             "frame": 0.2916666666666667,
             "value": {
-              "__uuid__": "81873035-4606-4119-96ca-c5cf9b9a19dc"
+              "__uuid__": "371e3c55-3f88-49a7-9ea5-38ce53fb390d"
             }
           },
           {
             "frame": 0.3333333333333333,
             "value": {
-              "__uuid__": "8f9f3eed-f3b4-485f-9e46-f07390caf13f"
+              "__uuid__": "f57dae55-dc54-4da5-9324-b0c97a4726be"
             }
           },
           {
             "frame": 0.375,
             "value": {
-              "__uuid__": "2edb50ef-f498-42b5-9eae-dcae4f2cc3df"
+              "__uuid__": "76dd3101-6688-485a-8b64-f35661d3e008"
             }
           },
           {
             "frame": 0.4166666666666667,
             "value": {
-              "__uuid__": "5d9df7bc-b5b6-447f-90b9-2fdcdbc369d8"
+              "__uuid__": "460128c7-7370-4afa-9936-819e215749b2"
             }
           },
           {
             "frame": 0.4583333333333333,
             "value": {
-              "__uuid__": "28be2d84-456e-4d42-82c2-3eb40a5b873e"
+              "__uuid__": "5cb32587-02bb-4825-bdbe-13d20cb8726b"
             }
           },
           {
             "frame": 0.5,
             "value": {
-              "__uuid__": "4d6c0ae2-b76d-40bd-bdc5-0c9863cef114"
+              "__uuid__": "82ee3677-8669-4288-a237-aa0c18ec7a62"
             }
           },
           {
             "frame": 0.5416666666666666,
             "value": {
-              "__uuid__": "db9fd170-b927-424a-af93-d01fb8b10f81"
+              "__uuid__": "0294506c-9ed5-4655-b8d3-ea9a47602352"
             }
           },
           {
             "frame": 0.5833333333333334,
             "value": {
-              "__uuid__": "993b5555-9d9a-4b21-adcf-c6ead46e3edc"
+              "__uuid__": "5c879d1b-1d73-47d3-8fb8-f4a39b31c3ad"
             }
           },
           {
             "frame": 0.625,
             "value": {
-              "__uuid__": "d8fd8a9a-4022-4955-ace9-de855e4d4669"
+              "__uuid__": "c9d6413a-688b-41e7-8b70-b44a1bfb97c5"
             }
           },
           {
             "frame": 0.6666666666666666,
             "value": {
-              "__uuid__": "d0f41223-cd14-42a2-8fa7-11cb111bedd9"
+              "__uuid__": "79109a82-2ed2-4fea-81b6-486bbaeff602"
             }
           },
           {
             "frame": 0.7083333333333334,
             "value": {
-              "__uuid__": "1bdabbaf-0c43-459c-b887-a872fd7d2091"
+              "__uuid__": "564fe5e6-5629-40f6-aa97-a9c2824ec104"
             }
           },
           {
             "frame": 0.75,
             "value": {
-              "__uuid__": "e299f9f8-f092-452f-b958-94fdc601b993"
+              "__uuid__": "74604e3d-bcad-41c9-a3ef-4d6af5085e66"
             }
           },
           {
             "frame": 0.7916666666666666,
             "value": {
-              "__uuid__": "efb1649f-09b3-4639-9397-9cebccf3a07f"
+              "__uuid__": "2de465b0-6f27-4e6d-9e30-c8c9828fc5dd"
             }
           },
           {
             "frame": 0.8333333333333334,
             "value": {
-              "__uuid__": "b974965f-ddcc-4416-a1d0-d990164ab612"
+              "__uuid__": "28afa2b6-2bbb-454e-aae2-84f2727c518e"
             }
           },
           {
             "frame": 0.875,
             "value": {
-              "__uuid__": "1f729ab0-e3d4-4387-9baf-9db0ef65cd02"
+              "__uuid__": "a891950b-5a8d-4f52-ad2e-79ee14e8e549"
             }
           },
           {
             "frame": 0.9166666666666666,
             "value": {
-              "__uuid__": "16276e7d-b8a5-4688-beac-010490156e69"
+              "__uuid__": "710a1091-9c4f-43b6-bf94-0bff3760f5a5"
             }
           },
           {
             "frame": 0.9583333333333334,
             "value": {
-              "__uuid__": "bc22eb64-387a-4d5c-b535-268733060c6f"
-            }
-          },
-          {
-            "frame": 1,
-            "value": {
-              "__uuid__": "0023a6ba-0618-4815-a826-714509edf857"
-            }
-          },
-          {
-            "frame": 1.0416666666666667,
-            "value": {
-              "__uuid__": "21aa9c27-9582-45c1-9e37-0c241d0e2082"
-            }
-          },
-          {
-            "frame": 1.0833333333333333,
-            "value": {
-              "__uuid__": "77defd66-8078-4582-bb3f-90cf1b0def94"
+              "__uuid__": "b62a4e63-b9dc-4bb8-aed9-32d2ed9059eb"
             }
           }
         ]

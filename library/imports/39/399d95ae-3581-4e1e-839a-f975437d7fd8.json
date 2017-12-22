@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Andar-Esquerda-Chefe_AndarEsquerda_035",
+    "texture": "eb79735f-dfa5-43c9-aeb7-15e1ec3473c9",
+    "atlas": "dfa5ce1a-e170-4f0e-aa8a-ba4051df0aa1",
+    "rect": [
+      469,
+      1362,
+      154,
+      220
+    ],
+    "offset": [
+      -79,
+      6
+    ],
+    "originalSize": [
+      576,
+      324
+    ]
+  }
+}

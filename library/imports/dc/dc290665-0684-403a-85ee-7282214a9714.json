@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "InvasaoZumbi-015.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "Motel-Motel_Direita": {
+      "__uuid__": "1012d959-31bb-4076-8e93-57d501b44553"
+    },
+    "Motel-Motel_Esquerda": {
+      "__uuid__": "05db655a-51f2-4fbd-a3be-2e193bf8a0a2"
+    },
+    "Motel-Motel_Frente": {
+      "__uuid__": "7dc68009-d421-47c0-b1a8-00a3f87fc7c1"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "InvasaoZumbi-00.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "Adereços_BarrilQueimadoFrente": {
+      "__uuid__": "9da23003-6f10-47f5-ae54-59fe84c74d3c"
+    },
+    "Adereços_PilhaCaixasGrandesDireita": {
+      "__uuid__": "92c9cb4e-f5c4-4bc2-bfbe-2976db2d006c"
+    },
+    "Adereços_PilhaCaixasGrandesEsquerda": {
+      "__uuid__": "e69010d0-3c94-4176-9dd4-a2b4e4954319"
+    },
+    "Adereços_PilhaCaixasGrandesFrente": {
+      "__uuid__": "66a47d4d-e6e6-4b88-82f8-18e7203e35ee"
+    },
+    "Adereços_PilhaCaixasGrandesTras": {
+      "__uuid__": "97a95f76-4fc8-4520-a621-3b810f5c1b8d"
+    },
+    "Adereços_PosteDeLuzDireita": {
+      "__uuid__": "7bb22275-2271-4c65-9619-4a0deb169ad2"
+    },
+    "Adereços_PosteDeLuzEsquerda": {
+      "__uuid__": "9cead4db-13f9-4c29-a206-4e0bfb24a911"
+    },
+    "Adereços_PosteDeLuzFrente": {
+      "__uuid__": "e832be68-30e5-491b-9548-f7366dec9e96"
+    },
+    "Adereços_PosteDeLuzTras": {
+      "__uuid__": "fc664ee5-e280-45bb-977e-ca8826d632e0"
+    },
+    "Adereços_destroçosDireita": {
+      "__uuid__": "230acda6-c985-44f9-a503-f50f57156acf"
+    },
+    "Adereços_destroçosEsquerda": {
+      "__uuid__": "c7157742-70ef-4d50-860e-6884ecf74fa7"
+    },
+    "Adereços_destroçosFrente": {
+      "__uuid__": "1247b965-b605-40e7-ab5a-71df293c53df"
+    },
+    "Adereços_destroçosTras": {
+      "__uuid__": "4a449a17-dfae-4786-a51b-d61ddb7ef938"
+    },
+    "Ambiente_BarreiraBaixo": {
+      "__uuid__": "917d8b36-902f-4af6-beb3-3797f578bab1"
+    },
+    "Ambiente_BarreiraCima": {
+      "__uuid__": "17eb4c39-80a3-41b2-9a46-9485a30ee04c"
+    },
+    "Ambiente_BarreiraDireita": {
+      "__uuid__": "615e7565-ee47-436d-bf8c-c3a5415d9268"
+    },
+    "Ambiente_BarreiraEsquerda": {
+      "__uuid__": "1b5b526a-dfb4-4a31-9c79-e8427b966e1b"
+    },
+    "Ambiente_CercaBaixo": {
+      "__uuid__": "70b8cb98-8268-43c3-994b-3515d1a887c3"
+    },
+    "Ambiente_CercaCima": {
+      "__uuid__": "edf04ce7-502d-4299-b80b-457b9e171a80"
+    },
+    "Ambiente_CercaDireita": {
+      "__uuid__": "4564f55f-c983-4b7e-af17-46261c74824c"
+    },
+    "Ambiente_CercaEsquerda": {
+      "__uuid__": "6557ed67-60da-4978-8f76-e8c2f647669d"
+    },
+    "Ambiente_ParedeTijolosBaixo": {
+      "__uuid__": "f318189d-1476-4ce9-b508-b20b2f8d26a1"
+    },
+    "Ambiente_ParedeTijolosCima": {
+      "__uuid__": "d6423ab4-0a1e-4bfa-8527-4810ac1bcb54"
+    },
+    "Ambiente_ParedeTijolosDireita": {
+      "__uuid__": "bc20f509-2446-469f-9733-004cb57ee677"
+    },
+    "Ambiente_ParedeTijolosEsquerda": {
+      "__uuid__": "ecf57990-cccd-421a-bdd3-662cba681924"
+    },
+    "Ambiente_RuaCantoBaixo": {
+      "__uuid__": "52863e78-0d13-4184-9b63-53063cd5d52d"
+    },
+    "Ambiente_RuaCantoCima": {
+      "__uuid__": "ab0f2edd-d6b1-4fa4-8ab3-b4968e509e0e"
+    },
+    "Ambiente_RuaCantoDireita": {
+      "__uuid__": "ac71838f-e53c-498e-8091-aadfcf5e912f"
+    }
+  }
+}

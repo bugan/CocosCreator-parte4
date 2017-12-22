@@ -1,0 +1,116 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "InvasaoZumbi-02.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "Ambiente_RuaTDireita": {
+      "__uuid__": "bb314ea2-0e71-405d-a774-8a275743c69f"
+    },
+    "Ambiente_RuaTEsquerda": {
+      "__uuid__": "dc35d97c-b0f5-43f8-afd7-f82a6394f1b7"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_000": {
+      "__uuid__": "dac6161b-70a7-4f59-9e4d-5e561cb795ff"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_001": {
+      "__uuid__": "c75db293-504d-492a-9cf4-21192c3aa3bd"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_002": {
+      "__uuid__": "da087d40-bf9c-4848-8bfa-1578eeb39e44"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_003": {
+      "__uuid__": "af067918-d3eb-4d67-bd64-4728a4903c70"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_004": {
+      "__uuid__": "c214ca9c-793a-4795-8e3c-38ac1d058385"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_005": {
+      "__uuid__": "d5f40239-6014-42ce-9de7-5b48864d3f95"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_006": {
+      "__uuid__": "12abc58d-3e93-4bb3-b8a1-bda24a01ed28"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_007": {
+      "__uuid__": "fa34df33-1803-4a52-8986-41cccda66710"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_008": {
+      "__uuid__": "493d6dc1-50cc-4adf-a33b-9c5230d302da"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_009": {
+      "__uuid__": "47614351-87b3-4df5-898e-9d1e8f3b2f39"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_010": {
+      "__uuid__": "a7ba1ebd-065d-4620-a46e-8cf88186e12c"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_011": {
+      "__uuid__": "2d5d11cd-d33a-4d0f-9680-f5c256dc0a01"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_012": {
+      "__uuid__": "5b0e7234-a2dc-4638-909a-eededc7801bd"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_013": {
+      "__uuid__": "166cd180-6529-41fb-8db3-54f3267e5c6b"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_014": {
+      "__uuid__": "f02f7b6b-cb30-48b7-a4c8-b6ee9a07e41a"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_015": {
+      "__uuid__": "b05b2bf1-61ae-4a01-b66b-85e017f3bfaa"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_016": {
+      "__uuid__": "67049102-7417-4408-aee6-61f791a44f4c"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_017": {
+      "__uuid__": "5f5d889f-03d9-46a6-b536-c556c58a9235"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_018": {
+      "__uuid__": "92a53843-e33b-4105-a3a6-599e073aa9d6"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_019": {
+      "__uuid__": "71858595-612d-438f-a2c2-39e3d606dbe5"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_020": {
+      "__uuid__": "241e38ee-bf62-4ad5-ae08-0e597c4896a8"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_021": {
+      "__uuid__": "bb511776-1ca3-42b4-833c-ef2af18a1488"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_022": {
+      "__uuid__": "b0ca007b-c270-4f50-b09f-59ac94e19b0c"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_023": {
+      "__uuid__": "e27d3dde-d6e7-430d-b5e2-7ddf3790d690"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_024": {
+      "__uuid__": "c2267655-e675-4bdf-8d3c-305c6a83afa8"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_025": {
+      "__uuid__": "5a1d5b8f-65ac-4d56-95e5-6765a8b14cea"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_026": {
+      "__uuid__": "fa2c590e-fc80-474b-a92d-8bbed5ce41d7"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_027": {
+      "__uuid__": "8d929c57-f7ae-4d98-8912-2bbf5e7d5d3f"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_028": {
+      "__uuid__": "f1af4965-67bf-429b-a782-d74a54fe915a"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_029": {
+      "__uuid__": "f5eea94f-2ae6-434f-b984-0cf7f1cab926"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_030": {
+      "__uuid__": "5d23e422-00af-4e16-aa74-cba41847bf8b"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_031": {
+      "__uuid__": "42b2aee2-8db2-4337-bdfc-4516b584b67d"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_032": {
+      "__uuid__": "e4498e25-212c-4293-b9a7-3d14f3758c3a"
+    },
+    "Andar-Baixo-Chefe_AndarBaixo_033": {
+      "__uuid__": "05d4cfdd-2fdc-4d09-a866-c253767c01f0"
+    }
+  }
+}

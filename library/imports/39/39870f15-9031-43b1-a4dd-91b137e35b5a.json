@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Veiculos_CarroPolicialFrente",
+    "texture": "97ee2429-5088-4be7-8014-a2a2fe6e1462",
+    "atlas": "f684827f-b1bc-4f37-b2b9-08dfa6d8f771",
+    "rect": [
+      1029,
+      418,
+      132,
+      328
+    ],
+    "offset": [
+      -29,
+      24
+    ],
+    "originalSize": [
+      750,
+      422
+    ]
+  }
+}

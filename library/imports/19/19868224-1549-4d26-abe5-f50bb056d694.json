@@ -1,0 +1,719 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "InvasaoZumbi-019.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "Parado-Esquerda-Jogadora_ParadoEsquerda_030": {
+      "__uuid__": "b6d88495-e818-4079-964c-278b35173341"
+    },
+    "Parado-Esquerda-Jogadora_ParadoEsquerda_031": {
+      "__uuid__": "b2c8f157-592a-48ff-b778-3f66adac9b88"
+    },
+    "Parado-Esquerda-Jogadora_ParadoEsquerda_032": {
+      "__uuid__": "38401a65-e395-4af2-8dda-025bc20a99c5"
+    },
+    "Parado-Esquerda-Jogadora_ParadoEsquerda_033": {
+      "__uuid__": "a5ffd3c0-ff09-479c-a112-bc81b0da3333"
+    },
+    "Parado-Esquerda-Jogadora_ParadoEsquerda_034": {
+      "__uuid__": "13cbca78-8ac3-43fb-ab3e-0a3dd4c43921"
+    },
+    "Parado-Esquerda-Jogadora_ParadoEsquerda_035": {
+      "__uuid__": "68ef110d-801a-4aa2-b491-b34f65d7598f"
+    },
+    "Parado-Esquerda-Jogadora_ParadoEsquerda_036": {
+      "__uuid__": "e28bc46f-74a0-454e-b4a9-6271bc1c1c9c"
+    },
+    "Parado-Esquerda-Jogadora_ParadoEsquerda_037": {
+      "__uuid__": "17d58033-21c0-43b1-a8b9-ef76b779935e"
+    },
+    "Parado-Esquerda-Jogadora_ParadoEsquerda_038": {
+      "__uuid__": "731fbf77-d1f8-496c-bb13-317c19b26be0"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_000": {
+      "__uuid__": "6383d20a-d593-43b8-a992-7c80a4553e43"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_001": {
+      "__uuid__": "1fcb7707-fb0c-4d8f-b3be-f837f0088031"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_002": {
+      "__uuid__": "7875eba4-946c-4824-8f7e-9ad5bea8d8b0"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_003": {
+      "__uuid__": "9f5d771d-a7cf-4401-8805-54313298b254"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_004": {
+      "__uuid__": "117dc2b3-c193-4c06-a6d4-d36ff9d9fec8"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_005": {
+      "__uuid__": "b2e61400-c9c9-4519-b0dc-c148216f687a"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_006": {
+      "__uuid__": "061b6ab0-3618-42d7-85be-a288107e94d9"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_007": {
+      "__uuid__": "56f9d816-b25c-4adc-b254-a87801afd735"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_008": {
+      "__uuid__": "08d9f40a-f0d2-4c65-928f-1ea80a186164"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_009": {
+      "__uuid__": "ee9e10e7-bbc3-4f47-8bcf-5a310527c069"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_010": {
+      "__uuid__": "4705ddd6-2c77-44b9-86a8-6d53b8c37e4d"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_011": {
+      "__uuid__": "1eaf1781-b94a-43bf-abd6-31afc6f580aa"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_012": {
+      "__uuid__": "ebeb19af-9d0e-45f1-9d15-a97f0a56dbd8"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_013": {
+      "__uuid__": "781e0b3c-3885-4d0e-ac0e-835d13fda320"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_014": {
+      "__uuid__": "8a034adb-1fba-420d-ad55-53a7e89f5f4d"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_015": {
+      "__uuid__": "da464557-6100-41e3-a7bb-779e73247485"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_016": {
+      "__uuid__": "b0129637-cc3d-4fbb-9e7e-7e5624ca1847"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_017": {
+      "__uuid__": "3ac24a98-ed5d-41a4-8a4c-7e8a5d13fd9e"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_018": {
+      "__uuid__": "2ece0605-7395-48fe-95c0-2c3dfb36a05a"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_019": {
+      "__uuid__": "3e8d543d-c6d0-44c2-b543-d7f8880f0e18"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_020": {
+      "__uuid__": "32d25d7c-0fc1-4b11-8cf6-ab3db445e372"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_021": {
+      "__uuid__": "540780db-b3cc-4663-a40c-8fcb4298cab0"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_022": {
+      "__uuid__": "2e10ded8-86ff-49dc-9c00-d51d29dd5c7c"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_023": {
+      "__uuid__": "50078725-e93d-4b12-86ef-b095e130ba18"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_024": {
+      "__uuid__": "082a08d1-e2e7-435d-86a7-ee5582329745"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_025": {
+      "__uuid__": "cd3da034-b3a1-45be-b446-09517ed8381a"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_026": {
+      "__uuid__": "c7b8ece5-5062-4180-9e48-53948be57bba"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_027": {
+      "__uuid__": "a8a87e63-8491-4134-aa67-4be841c08078"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_028": {
+      "__uuid__": "429ad9b1-735c-4b8f-a1d7-0da67d9ba572"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_029": {
+      "__uuid__": "14ebfb7b-d92f-4783-a8b2-4981333cdac0"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_030": {
+      "__uuid__": "f89bdd8c-d233-4946-8c3a-7129442957e9"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_031": {
+      "__uuid__": "58a80083-83b5-44e3-8a67-b6ad5d31c71e"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_032": {
+      "__uuid__": "b1e30647-a719-4f01-a2f6-abcbc09a42d0"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_033": {
+      "__uuid__": "cab4cdd6-7f59-44f2-a23b-e84c4631eebd"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_034": {
+      "__uuid__": "37060a32-b7e7-4929-bfb3-bb12183e2a2c"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_035": {
+      "__uuid__": "f430e4f9-4e7e-47eb-b24a-94e559f4263f"
+    },
+    "Parado-Esquerda-Zumbi_ParadoEsquerda_036": {
+      "__uuid__": "ea2685be-021a-4010-86c3-eb40d7718204"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_000": {
+      "__uuid__": "f19df56c-687d-4aa8-99b7-eea9ff1cbca5"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_001": {
+      "__uuid__": "63e096a7-28c0-4077-8b1f-6558257b7a74"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_002": {
+      "__uuid__": "c8baa386-c67c-4138-9f59-9c5b2a064173"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_003": {
+      "__uuid__": "86f5a8ad-6c77-40e2-b094-c5d36b9e1202"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_004": {
+      "__uuid__": "22a503c7-e352-492f-b405-638aa4dcf80c"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_005": {
+      "__uuid__": "78a39777-d7b3-4a15-8f54-aef4caac7122"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_006": {
+      "__uuid__": "5d90f1e7-fb78-4637-b177-1d74e258972f"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_007": {
+      "__uuid__": "25ac0eaf-5960-4267-820a-b5137a182c79"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_008": {
+      "__uuid__": "b517443b-9349-4d0c-b795-216448610e7d"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_009": {
+      "__uuid__": "24523f1c-2e7f-4d6a-8248-ee80e639f799"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_010": {
+      "__uuid__": "8c010ef7-8b0a-417e-84c3-9d27f451e471"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_011": {
+      "__uuid__": "73b12747-abb6-479e-a3f4-f7e0a49a075a"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_012": {
+      "__uuid__": "1b61aed0-cd2d-4669-a1d5-e2de05b1e8e6"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_013": {
+      "__uuid__": "bf1ba266-12ec-4e5f-90c2-b4b991452aed"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_014": {
+      "__uuid__": "b69c6521-e2e8-4be9-a609-fdd431cde991"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_015": {
+      "__uuid__": "e2e9bc2b-83d2-45ea-aaca-216203bffa66"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_016": {
+      "__uuid__": "804ab73d-1f70-4226-b509-df12485f9625"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_017": {
+      "__uuid__": "43968fdc-1ddb-459b-9e55-051936560035"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_018": {
+      "__uuid__": "8ddd3096-8b5e-4df7-a112-faae89e69f30"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_019": {
+      "__uuid__": "668c69ad-91d8-4f40-b84d-82448ebed458"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_020": {
+      "__uuid__": "e2ec8a3f-abd3-40bc-a48f-56170fe5b421"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_021": {
+      "__uuid__": "0c00944d-e70a-47d2-96fc-94e6ea43d871"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_022": {
+      "__uuid__": "bf75e6c6-efe0-4e0b-84e2-a321fc796ba7"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_023": {
+      "__uuid__": "328b77f1-520d-439a-b217-e935567c77f0"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_024": {
+      "__uuid__": "7865e938-97df-4a0e-ac55-c4eae9014678"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_025": {
+      "__uuid__": "60a2c16d-2abb-41db-bcf3-12bbd8e6f9dc"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_026": {
+      "__uuid__": "88019973-324e-4689-8cee-9d0953615f96"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_027": {
+      "__uuid__": "a2987520-522d-44fa-88ba-d4d3940ecd4a"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_028": {
+      "__uuid__": "d69fe794-1af4-44f6-95e9-5135c52ad5b6"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_029": {
+      "__uuid__": "f6dc62b6-462e-4a91-adde-d34429c55fed"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_030": {
+      "__uuid__": "0c71151d-86c4-4cdd-a886-18444618749a"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_031": {
+      "__uuid__": "415e3ee8-173f-4575-948d-817e395c1f27"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_032": {
+      "__uuid__": "3c52321e-d6e9-4ded-9b68-3d39de530624"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_033": {
+      "__uuid__": "ff50f9e2-6f6b-407c-82ac-ee26b15e47bc"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_034": {
+      "__uuid__": "49b574e8-cd83-4dda-9d24-45b058bdcf48"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_035": {
+      "__uuid__": "f5f2a6f1-1539-44cb-81b6-cfd8d4b6a476"
+    },
+    "Parado-EsquerdaBaixo-Chefe_ParadoEsquerdaBaixo_036": {
+      "__uuid__": "f7c1f2f9-0a2a-4907-a7d7-ff512f98dac7"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_000": {
+      "__uuid__": "f2b99781-ca28-41d4-ae94-2437179a8da6"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_001": {
+      "__uuid__": "a7f027ee-3428-4837-8ce1-5f8205b1f654"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_002": {
+      "__uuid__": "768b1477-9a23-4aaa-95dd-1182f31849b8"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_003": {
+      "__uuid__": "b5292bb8-6fef-44f1-ba22-d1a45b9a4ff4"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_004": {
+      "__uuid__": "65a364c0-3f73-4dbd-9f04-b4b2a2a215f7"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_005": {
+      "__uuid__": "b61c35cf-7b00-4c3e-91b5-c07e728653c8"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_006": {
+      "__uuid__": "2cfb8a86-5672-4779-8c4f-e2081601e2a4"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_007": {
+      "__uuid__": "8cead1e0-9980-4288-8c2e-a735c39f866b"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_008": {
+      "__uuid__": "cae03070-da1e-4f93-b455-0c945caad821"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_009": {
+      "__uuid__": "46f5774f-8508-4255-9161-1fd5de8a8589"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_010": {
+      "__uuid__": "b8314613-c6ff-4934-8550-808e3a9a3a1e"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_011": {
+      "__uuid__": "2101712f-4986-4605-b368-0f9fa072d55a"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_012": {
+      "__uuid__": "caaec4fd-b719-447d-997a-631ba15251de"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_013": {
+      "__uuid__": "67ed7d2b-3967-495a-80e8-17a11692675d"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_014": {
+      "__uuid__": "b43bcaec-25bd-4172-a4f2-f51e6f33cea9"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_015": {
+      "__uuid__": "05908a22-9610-4502-933b-0f962caffb13"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_016": {
+      "__uuid__": "61e489c8-b137-4557-a86e-5df2de19516b"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_017": {
+      "__uuid__": "726091fd-dea8-47f2-abd5-5182c0837d5c"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_018": {
+      "__uuid__": "0a65cd9b-2801-4d78-a394-962eb7b6352b"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_019": {
+      "__uuid__": "e23e17df-b67e-4739-adc8-54cc010f0c5c"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_020": {
+      "__uuid__": "41efcd3b-06e1-4f00-84e5-4ba40e2a5fa8"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_021": {
+      "__uuid__": "012186a0-0823-4105-95d4-e016d640bc9b"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_022": {
+      "__uuid__": "4419f644-63df-4c75-8137-ff8108ff9c1e"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_023": {
+      "__uuid__": "da818661-7b4b-480c-8cef-a2ca6e62d385"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_024": {
+      "__uuid__": "f51d1d86-9ad8-4ecf-8d7e-7a808376f624"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_025": {
+      "__uuid__": "ad39528e-9c87-4458-b465-a7870bcfbeb5"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_026": {
+      "__uuid__": "7c710b91-fbc3-4804-aeec-da679b5c7ab1"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_027": {
+      "__uuid__": "cbceca9a-b2ec-42fb-8568-232828aebde3"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_028": {
+      "__uuid__": "2d3de16c-8ef9-4393-a5b5-717b289d9b77"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_029": {
+      "__uuid__": "3c0082c4-abe5-4774-921c-3eb20b98233a"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_030": {
+      "__uuid__": "d02afa17-6348-4bc5-bfe5-5623ebc181aa"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_031": {
+      "__uuid__": "85f56283-6fb2-4226-abaa-6e2dc0ab8684"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_032": {
+      "__uuid__": "29b9eda0-c4c5-449f-82b8-d11f03dbdee6"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_033": {
+      "__uuid__": "fb73effd-70ed-421a-a74b-725bfd3044c7"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_034": {
+      "__uuid__": "2f91c680-9501-43b3-ad18-37e1cda669f1"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_035": {
+      "__uuid__": "c96afdb9-420a-449f-bf66-de3706700952"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_036": {
+      "__uuid__": "0e83652e-2ca2-4257-844a-5d77b0a9d282"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_037": {
+      "__uuid__": "04329c4d-9b66-47be-8b8f-3d064a9bc822"
+    },
+    "Parado-EsquerdaBaixo-Jogadora_ParadoEsquerdaBaixo_038": {
+      "__uuid__": "e4e6ede7-bddc-466a-a8fe-823f6ae2b991"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_000": {
+      "__uuid__": "81f7b9b4-944b-4309-abba-1b4d911e2a3c"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_001": {
+      "__uuid__": "0a6cb177-a58b-4f05-9195-578ef0212c20"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_002": {
+      "__uuid__": "d5798018-feaf-475c-9f34-38b530c4ba6a"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_003": {
+      "__uuid__": "47e8e6ab-747e-4277-8b36-5eec853e21b8"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_004": {
+      "__uuid__": "e5682e9b-5ac0-4a58-bb67-411e73fd04bd"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_005": {
+      "__uuid__": "489db616-1e7c-4b4f-9e4b-37a7f467df2e"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_006": {
+      "__uuid__": "c6f009a2-6580-4797-b2ba-f12957c9d739"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_007": {
+      "__uuid__": "d039b0da-a6fb-4903-944f-9bdd46192ab2"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_008": {
+      "__uuid__": "baf54c15-96fc-4830-b5c4-105b2d46d774"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_009": {
+      "__uuid__": "34e1cfa9-72bb-4fcd-a822-83a4d1c59915"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_010": {
+      "__uuid__": "b4869a8d-e2d4-465f-8963-669111767cff"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_011": {
+      "__uuid__": "8571125d-a86e-4667-b527-7249f50e1679"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_012": {
+      "__uuid__": "56ebea0f-9e67-4fca-9026-3dfc627499af"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_013": {
+      "__uuid__": "8b44e093-205f-411c-8a28-3a08df2adcd4"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_014": {
+      "__uuid__": "08698dc5-cd98-49a9-b170-9235e9ebf5ff"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_015": {
+      "__uuid__": "9c820674-e9bb-4734-94c4-e20c8d66d31b"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_016": {
+      "__uuid__": "789fac8f-af82-4485-baf1-fba31c7d7479"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_017": {
+      "__uuid__": "1fe2f99f-b1cc-4a0d-98d4-43cf9914efd9"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_018": {
+      "__uuid__": "2d9edeec-7cbc-4f7f-99a2-fa5b3931f9d8"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_019": {
+      "__uuid__": "e4ed5045-101a-4d2b-ae20-404897922969"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_020": {
+      "__uuid__": "6b25d121-be89-4a18-ae60-0bf0aa8dcb7c"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_021": {
+      "__uuid__": "0ed64264-cca4-4537-afab-4f575cad3385"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_022": {
+      "__uuid__": "195a6f96-104c-4af8-acc5-0032af78c5c5"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_023": {
+      "__uuid__": "9a33e37f-273e-4ea9-b0ea-ab72df4bd8de"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_024": {
+      "__uuid__": "dd887bec-685f-4cab-abdb-2c9cfe51a26d"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_025": {
+      "__uuid__": "55746d00-7b89-450f-97b0-14b023c6b789"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_026": {
+      "__uuid__": "d9f2920b-99d0-411b-b9d0-f46b666653cb"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_027": {
+      "__uuid__": "1a26663a-04d5-4295-a423-c59f3f6c03e4"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_028": {
+      "__uuid__": "d0651a59-7355-4672-9cbd-eae9ac5f130f"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_029": {
+      "__uuid__": "df73dfa3-cc93-432d-a0a3-ec323ce90277"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_030": {
+      "__uuid__": "bb756470-62e3-4ba1-a075-e0caad2c3814"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_031": {
+      "__uuid__": "6d28af51-d588-426a-b65b-5afd6dbc4690"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_032": {
+      "__uuid__": "2490804b-f1e9-4e8d-9b27-86565883b496"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_033": {
+      "__uuid__": "83676122-461b-415b-bd09-4eda097cf3f6"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_034": {
+      "__uuid__": "7bde663d-7bf9-4e0d-971f-9cb084d74caa"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_035": {
+      "__uuid__": "9b88a529-bd29-4a58-b39c-5dbb823e3aec"
+    },
+    "Parado-EsquerdaBaixo-Zumbi_ParadoEsquerdaBaixo_036": {
+      "__uuid__": "ef7002bd-d858-49eb-a331-10439dad0b09"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_000": {
+      "__uuid__": "8a3a863f-fa9d-4f13-8dcb-9048e2451b7c"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_001": {
+      "__uuid__": "6206e950-3133-46c0-8b89-74f46c2c06f0"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_002": {
+      "__uuid__": "e601f517-5ee5-4866-a57f-244f9eae40c6"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_003": {
+      "__uuid__": "b119ddf0-4ecd-4cb6-884b-ea37ea5efb70"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_004": {
+      "__uuid__": "54790a39-42f2-4160-b0d0-de5e365d4f87"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_005": {
+      "__uuid__": "32b40e0f-975c-45c6-988a-c58173244fe2"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_006": {
+      "__uuid__": "88595869-a252-4cbd-bd2c-4f56beea1031"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_007": {
+      "__uuid__": "90d4e301-6643-4977-853d-664ef2c485eb"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_008": {
+      "__uuid__": "5418059d-4dbd-4e8b-bf21-9b3572f2022d"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_009": {
+      "__uuid__": "55323736-c184-4bdd-8283-4619b7f544be"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_010": {
+      "__uuid__": "b67e2d4a-5652-4a53-9e21-07bf7b5fdc55"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_011": {
+      "__uuid__": "c5c23522-0952-442f-9f85-22adc163b643"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_012": {
+      "__uuid__": "add1729e-c49e-44ae-aad6-686baaef95a8"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_013": {
+      "__uuid__": "c0bebd5b-3fbf-45bf-8750-9b4be155adf5"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_014": {
+      "__uuid__": "792d5f14-3e5c-4b7b-9331-b99f949a762d"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_015": {
+      "__uuid__": "48af7676-271f-4e0f-8907-71abeb7475eb"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_016": {
+      "__uuid__": "3734e25d-9352-4daa-8f7d-095030a71976"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_017": {
+      "__uuid__": "ea12c2ff-84c9-4947-8795-3d4fab89e08a"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_018": {
+      "__uuid__": "d14400d3-21c4-4852-a01a-78ffc68a1e1a"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_019": {
+      "__uuid__": "8462a5af-67fa-4566-9ae1-afef1491ebb9"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_020": {
+      "__uuid__": "bf65d279-14a1-47ab-9fac-e3bc59f0aaac"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_021": {
+      "__uuid__": "7a16a815-af0c-46db-bfb4-3070873f4ba1"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_022": {
+      "__uuid__": "7d679a06-3123-4dcb-bcdc-93365096e5aa"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_023": {
+      "__uuid__": "ae4d4ad8-e501-4b6c-92c9-cdcb90540b85"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_024": {
+      "__uuid__": "ffb5b9e8-874e-4dd0-9984-15672635b6b0"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_025": {
+      "__uuid__": "830b9411-ba55-4084-97d9-37f6ea1e29b2"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_026": {
+      "__uuid__": "f1601503-4581-4ee2-9d95-3d89bac032c5"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_027": {
+      "__uuid__": "93610d2b-1e14-481d-9203-90fa98387e7a"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_028": {
+      "__uuid__": "0804d67e-a8c1-44ae-a392-0197363f989c"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_029": {
+      "__uuid__": "a7dd48a2-3710-440e-b941-67e3c93bffdc"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_030": {
+      "__uuid__": "b8a0a0b7-8374-459e-9bc6-c29d7724e12c"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_031": {
+      "__uuid__": "976ca0ec-47c9-400b-b034-0707d159e6da"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_032": {
+      "__uuid__": "e9e1a20c-bd88-495f-aec9-113cd867629d"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_033": {
+      "__uuid__": "24350847-eccf-42bd-84a6-966244f90d4c"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_034": {
+      "__uuid__": "23f3688d-35f8-48fd-80b3-56f12e6f37a9"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_035": {
+      "__uuid__": "b95e598f-372e-4232-b48e-ce98a3f46649"
+    },
+    "Parado-EsquerdaCima-Chefe_ParadoEsquerdaCima_036": {
+      "__uuid__": "8c1c7abd-8b7b-4d82-b702-7f4c38997e55"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_000": {
+      "__uuid__": "e569f2d2-f9f2-443a-956f-faed8b294241"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_001": {
+      "__uuid__": "f3d48dd5-8f0a-4524-a1e9-65a17071e9d9"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_002": {
+      "__uuid__": "9ef5ce9f-1717-40db-b9a4-9243f107e791"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_003": {
+      "__uuid__": "2ca7fdeb-da17-41d2-a54f-42d7df423bec"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_004": {
+      "__uuid__": "94acd406-7861-40ee-bd34-988c672a0eb8"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_005": {
+      "__uuid__": "12f40996-622f-45b6-a66a-a5c3528eb5be"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_006": {
+      "__uuid__": "cfdca37c-c02a-4cae-b9be-7bc6ab605c67"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_007": {
+      "__uuid__": "5a9c6e23-47ea-4331-bdfc-e0a3bd0ebe59"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_008": {
+      "__uuid__": "ae2f33af-15e0-453e-8733-5b38c90cc2a3"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_009": {
+      "__uuid__": "76df8414-2574-41bd-8b6b-f6260b7b0bb7"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_010": {
+      "__uuid__": "97d77a47-920f-4448-b7c5-5fa0e17fe692"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_011": {
+      "__uuid__": "2a1441eb-2483-41fc-ac8b-9f201a43aac5"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_012": {
+      "__uuid__": "3577963a-b302-430f-9bba-74ae92748178"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_013": {
+      "__uuid__": "730cab19-cd7d-450c-b4bd-1b04c83977f5"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_014": {
+      "__uuid__": "41f6255a-21c8-420f-8db0-a587819e964d"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_015": {
+      "__uuid__": "5c06a0be-99e8-400d-b9f7-b1f3ccdc9ce1"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_016": {
+      "__uuid__": "052eea4b-26d4-4938-8967-5e27ca2bc9e0"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_017": {
+      "__uuid__": "0e25b5a3-fb6a-4f55-831b-a0a8472d69b0"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_018": {
+      "__uuid__": "8a6104eb-362a-4e63-ab07-bde953c431e4"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_019": {
+      "__uuid__": "2789da36-932e-4ca8-bbe9-bc118b587cba"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_020": {
+      "__uuid__": "f079977f-e17d-44e3-bebc-c17fe2eea0e5"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_021": {
+      "__uuid__": "fcdf6c00-31ff-4ecb-8d58-bb478bcccecc"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_022": {
+      "__uuid__": "d77c529c-4499-462a-8b18-9f7942a31a18"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_023": {
+      "__uuid__": "e551ee44-2d7d-4211-a323-74196d1cf5fc"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_024": {
+      "__uuid__": "17b46b48-d4a4-4aa4-8696-898c9e7670e2"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_025": {
+      "__uuid__": "8cfcc5f8-c4c6-4176-8c02-9ff2d1e167a6"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_026": {
+      "__uuid__": "6ac139ab-4ba9-443a-baf3-90dc3c6a1bda"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_027": {
+      "__uuid__": "7e73329c-6233-412f-a717-e736af8c14ec"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_028": {
+      "__uuid__": "d65707a6-a22d-49b1-8e95-811e38e262c9"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_029": {
+      "__uuid__": "30b348e4-05ab-42c9-b1d4-ed770506069a"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_030": {
+      "__uuid__": "2321c4a6-a70f-4a3a-9e73-8a9cd2e76a0a"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_031": {
+      "__uuid__": "3e3a61e2-ea16-407e-9408-b9a39c2c3bbf"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_032": {
+      "__uuid__": "15e2913b-25a9-4d80-a06b-fc501886d485"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_033": {
+      "__uuid__": "bfb8ba99-e884-4158-85d6-1507e7243d8c"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_034": {
+      "__uuid__": "a7e4a303-4505-4b24-8e38-0234c860c705"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_035": {
+      "__uuid__": "c902cf91-bd3b-49da-9622-9e7ec3d0c64e"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_036": {
+      "__uuid__": "840e7649-33d6-4932-9dac-a65afab0608d"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_037": {
+      "__uuid__": "31ad7355-fd5f-4e81-ad58-62be5d10938f"
+    },
+    "Parado-EsquerdaCima-Jogadora_ParadoEsquerdaCima_038": {
+      "__uuid__": "35bdcbef-2fca-4bce-8695-5c0dee387e09"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_000": {
+      "__uuid__": "37eb246f-5601-4041-9686-5a4569674dae"
+    },
+    "Parado-EsquerdaCima-Zumbi_ParadoEsquerdaCima_001": {
+      "__uuid__": "f86de64c-3bf7-4b1e-95b4-bd5a02deee53"
+    }
+  }
+}

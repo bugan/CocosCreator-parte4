@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "InvasaoZumbi-01.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "Ambiente_RuaCantoEsquerda": {
+      "__uuid__": "0a5d5d1e-afe9-4acc-9923-f548d86b40e7"
+    },
+    "Ambiente_RuaRetaBaixo": {
+      "__uuid__": "1d7a7e56-c7a0-4c16-b342-556914ade475"
+    },
+    "Ambiente_RuaRetaCima": {
+      "__uuid__": "956790ec-6edf-436e-8b8b-a0d94ab7ddfc"
+    },
+    "Ambiente_RuaRetaDireita": {
+      "__uuid__": "245537b3-a0ca-488c-88cf-38d70f3d36e8"
+    },
+    "Ambiente_RuaRetaEsquerda": {
+      "__uuid__": "04095ebc-fc2c-4496-93db-8dc9d1e6fb4c"
+    },
+    "Ambiente_RuaTBaixo": {
+      "__uuid__": "dbe37229-e87f-4fbd-9b94-dac2c7bb2a32"
+    },
+    "Ambiente_RuaTCima": {
+      "__uuid__": "d1f90748-7692-475b-84fa-a1b24914721b"
+    }
+  }
+}

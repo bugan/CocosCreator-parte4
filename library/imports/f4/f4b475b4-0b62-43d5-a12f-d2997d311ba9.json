@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "InvasaoZumbi-012",
+    "texture": "0f827142-e83d-4b07-8955-8239deb9f0fd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1833,
+      1655
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1833,
+      1655
+    ]
+  }
+}

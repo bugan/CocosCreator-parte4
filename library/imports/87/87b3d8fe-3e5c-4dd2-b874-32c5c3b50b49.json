@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Veiculos_CarroPolicialDireita",
+    "texture": "97ee2429-5088-4be7-8014-a2a2fe6e1462",
+    "atlas": "f684827f-b1bc-4f37-b2b9-08dfa6d8f771",
+    "rect": [
+      345,
+      418,
+      340,
+      178
+    ],
+    "offset": [
+      0,
+      40
+    ],
+    "originalSize": [
+      750,
+      422
+    ]
+  }
+}

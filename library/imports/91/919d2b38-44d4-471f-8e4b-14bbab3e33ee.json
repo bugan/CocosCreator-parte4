@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Dinner-Dinner_Frente",
+    "texture": "0f827142-e83d-4b07-8955-8239deb9f0fd",
+    "atlas": "e514daf5-eb61-4375-b0ff-87ddb497eb8d",
+    "rect": [
+      505,
+      1,
+      916,
+      427
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      916,
+      427
+    ]
+  }
+}

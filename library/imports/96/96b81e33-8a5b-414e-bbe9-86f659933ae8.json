@@ -1,0 +1,371 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "InvasaoZumbi-010.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "Ataque-Esquerda-Chefe_AtaqueEsquerda_017": {
+      "__uuid__": "f1977e2e-c11c-47b5-87d6-13adc003779f"
+    },
+    "Ataque-Esquerda-Chefe_AtaqueEsquerda_018": {
+      "__uuid__": "d0933bdd-50f3-4c9b-92b6-26453c008741"
+    },
+    "Ataque-Esquerda-Chefe_AtaqueEsquerda_019": {
+      "__uuid__": "cf9fa08c-e62d-4f98-8f87-bcc71a6dfe2d"
+    },
+    "Ataque-Esquerda-Chefe_AtaqueEsquerda_020": {
+      "__uuid__": "5ef263be-cade-41e9-8a09-8888f5daf313"
+    },
+    "Ataque-Esquerda-Chefe_AtaqueEsquerda_021": {
+      "__uuid__": "766e68ac-f2d8-46b4-9bc3-b790e53398dc"
+    },
+    "Ataque-Esquerda-Chefe_AtaqueEsquerda_022": {
+      "__uuid__": "a1abad29-cb15-42ad-ae55-17a8308fc606"
+    },
+    "Ataque-Esquerda-Chefe_AtaqueEsquerda_023": {
+      "__uuid__": "c7d36990-0883-4809-bd01-b82c34bfb821"
+    },
+    "Ataque-Esquerda-Chefe_AtaqueEsquerda_024": {
+      "__uuid__": "df577692-bb2a-4e7d-8c7d-abacb1d8fed7"
+    },
+    "Ataque-Esquerda-Chefe_AtaqueEsquerda_025": {
+      "__uuid__": "312d13b9-84cb-4759-9025-04e5e605c42f"
+    },
+    "Ataque-Esquerda-Chefe_AtaqueEsquerda_026": {
+      "__uuid__": "a91f09f6-ec38-4774-b81d-595a7846fd6b"
+    },
+    "Ataque-Esquerda-Chefe_AtaqueEsquerda_027": {
+      "__uuid__": "c00bbc3e-fe3a-412a-bfba-999ac1bb1aaa"
+    },
+    "Ataque-Esquerda-Chefe_AtaqueEsquerda_028": {
+      "__uuid__": "f5ea676c-fe32-471f-9959-1332fc91e73f"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_000": {
+      "__uuid__": "bda4f643-38be-4bdb-b51f-7d0889e3858c"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_001": {
+      "__uuid__": "82e94c4b-45cd-4b30-8e42-65bd1d1f4b21"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_002": {
+      "__uuid__": "a84bc6a9-da53-4290-a216-3705c2edf134"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_003": {
+      "__uuid__": "e6204681-1f53-4c89-8935-fbdb92007ab2"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_004": {
+      "__uuid__": "81c13ac8-1af4-4560-b8a3-e9ab81ae34f5"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_005": {
+      "__uuid__": "a690ee49-9ab4-4fbf-b8fb-68a5b2b14d39"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_006": {
+      "__uuid__": "78796a85-76c1-4dad-a7a1-6511adba8936"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_007": {
+      "__uuid__": "9c00b3c4-49be-47d9-a418-2e9c7e9fbf86"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_008": {
+      "__uuid__": "384ff011-18a6-4c4c-8602-7d8046e5e4ce"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_009": {
+      "__uuid__": "a1c0adde-1361-4911-9961-031438895f38"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_010": {
+      "__uuid__": "ee6b4105-7b24-4840-bfbf-c91c306d94fb"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_011": {
+      "__uuid__": "1d2e7357-5c3e-470e-aa08-b76cdf70c185"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_012": {
+      "__uuid__": "72242d33-a185-44af-9448-66a77359012c"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_013": {
+      "__uuid__": "9a712ca1-7947-4aaa-9045-e12b90bb68ab"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_014": {
+      "__uuid__": "883f2f67-2c5e-45a1-9646-b28a6f70f8fc"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_015": {
+      "__uuid__": "121eeb92-b1b3-45f9-a226-d26e8dbfd284"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_016": {
+      "__uuid__": "a0e0b408-61b5-4fd9-ad75-8d94c50ff847"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_017": {
+      "__uuid__": "6a85972e-dbba-4028-a6e7-69f837ad902d"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_018": {
+      "__uuid__": "e142453f-1ab0-44e0-b369-7339f53ee98d"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_019": {
+      "__uuid__": "3cfcd35d-7722-43cf-b8f9-b45fccb85b88"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_020": {
+      "__uuid__": "8485ed85-a365-44d6-9f89-85fdbc1eec5a"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_021": {
+      "__uuid__": "b66084f5-92ba-4d6c-bcb2-c2e6248e89f0"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_022": {
+      "__uuid__": "6918b4b5-1dcb-4ea9-8f0d-5ecb299d535b"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_023": {
+      "__uuid__": "41a01fbd-4838-4fb8-a920-531f98764f6e"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_024": {
+      "__uuid__": "8836d5b3-ede8-4bfb-8529-349cf0a6055d"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_025": {
+      "__uuid__": "464058c1-7e58-4b6a-90a3-65dda2896e90"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_026": {
+      "__uuid__": "b2e134f3-d66a-4a68-8ff5-63cba2829a25"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_027": {
+      "__uuid__": "529ffff1-d55d-4240-abe5-1c783837c3e0"
+    },
+    "Ataque-Esquerda-Zumbi_AtaqueEsquerda_028": {
+      "__uuid__": "fab04f03-4242-4ea2-b7ca-6c1297ae9e95"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_000": {
+      "__uuid__": "0916f828-1c66-41e7-bc83-75efc29e6d35"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_001": {
+      "__uuid__": "6cbe2566-9897-4537-84df-3ad505f60b68"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_002": {
+      "__uuid__": "83586fb9-ad16-41e4-9e94-5c1259df54d7"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_003": {
+      "__uuid__": "7c24e5e6-e614-46a8-876b-a20d10a60227"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_004": {
+      "__uuid__": "493c8686-a28d-4aa0-9438-514a8dfeb422"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_005": {
+      "__uuid__": "90178087-aa00-4ac4-8a78-58b0af8cea30"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_006": {
+      "__uuid__": "d0d00adc-329a-46a9-93d7-48f7f6d135b3"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_007": {
+      "__uuid__": "1193bf60-feec-410a-a3fd-844dceb0d435"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_008": {
+      "__uuid__": "58947a1e-5669-4cac-b064-bcb3cf272b52"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_009": {
+      "__uuid__": "a8edc4b2-a4a8-4ffd-a785-10907537274f"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_010": {
+      "__uuid__": "29b237eb-d2ed-40ca-818d-b6ed33fdfdc9"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_011": {
+      "__uuid__": "c78e17cf-0bed-4cf1-9c05-979314189491"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_012": {
+      "__uuid__": "76487f88-f543-4599-a8fa-94b798f06f8f"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_013": {
+      "__uuid__": "b6dfabd9-a024-486f-8c6b-049eaf680d33"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_014": {
+      "__uuid__": "61546585-5594-4d9e-ba04-428cd20e6ed7"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_015": {
+      "__uuid__": "a9cae3a2-0dd5-4f02-8641-6168fedbdaa5"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_016": {
+      "__uuid__": "4b7fd9b5-e895-4caa-9d40-adec23555db4"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_017": {
+      "__uuid__": "0cdfd1c4-3494-40cf-bb02-7a3265f6936a"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_018": {
+      "__uuid__": "36aac014-52fe-478e-b441-a5b49b4ba42b"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_019": {
+      "__uuid__": "283b3718-0458-4ad1-885f-08e67a1fdf00"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_020": {
+      "__uuid__": "2fbc0910-f827-49fe-a3ea-35446ade05bc"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_021": {
+      "__uuid__": "c3936754-cb85-4d7f-8fa6-11d23afdc7d1"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_022": {
+      "__uuid__": "c307545c-484a-40f1-b3f9-8d120ad20cdc"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_023": {
+      "__uuid__": "aca39529-6068-4c9c-97ab-83b8dcdaf487"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_024": {
+      "__uuid__": "f6c28a66-4bd0-4e99-ac12-99111da08c2a"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_025": {
+      "__uuid__": "6524fe2a-21b9-4f72-8e17-4b38c511a6e4"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_026": {
+      "__uuid__": "b9d55e83-f241-4beb-a69f-16c5fe6662ec"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_027": {
+      "__uuid__": "4d0182bb-a9d8-4065-ad00-67ceee135a5d"
+    },
+    "Ataque-EsquerdaBaixo-Chefe_AtaqueEsquerdaBaixo_028": {
+      "__uuid__": "c56ff7a0-3f60-4d05-abea-009e6eba3d8d"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_000": {
+      "__uuid__": "cb2e2094-0428-4879-85b8-b00c8f223ecb"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_001": {
+      "__uuid__": "bd901fd4-f7f6-4603-96ef-840c820db48c"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_002": {
+      "__uuid__": "fe7ddc42-a819-4212-ad94-9a54af74a573"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_003": {
+      "__uuid__": "cd4b7db6-c2ca-4cc1-bac3-d9508e9a08c2"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_004": {
+      "__uuid__": "67d675c2-1070-4d9d-9f80-93d07737cbc7"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_005": {
+      "__uuid__": "682faa82-3fc5-4671-8b61-93c3ee9e373c"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_006": {
+      "__uuid__": "2c609a8f-a81c-4ff2-9f38-654c3ca4c7d5"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_007": {
+      "__uuid__": "d2226980-8ba0-4ddd-958c-b5dd09b06d5d"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_008": {
+      "__uuid__": "490a356a-dc58-4d48-94c4-880212e7dae3"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_009": {
+      "__uuid__": "77803008-206b-4913-98f7-77b5223ff44c"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_010": {
+      "__uuid__": "6ed303d7-05eb-432f-9cd9-fb93bf87da40"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_011": {
+      "__uuid__": "d4873003-3c28-47fc-bab3-548fb558b9f4"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_012": {
+      "__uuid__": "38049067-c6e5-4d9d-80cd-d2073922d0b2"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_013": {
+      "__uuid__": "5491865d-2a84-41bf-92e2-8546cd31f886"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_014": {
+      "__uuid__": "683199da-43cb-415e-80d3-c8dc4267e67f"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_015": {
+      "__uuid__": "eae76f48-ccda-401d-8a24-145073c94d56"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_016": {
+      "__uuid__": "362c5067-5aae-4acb-8d10-f22b8dd4a0ee"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_017": {
+      "__uuid__": "9a67dfc1-6dfc-412b-b1fa-75ec314465dd"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_018": {
+      "__uuid__": "c4f2bbd9-80ae-482b-97c7-e54e35653164"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_019": {
+      "__uuid__": "ad9a4b32-22f1-4306-a135-b10a82dde9b5"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_020": {
+      "__uuid__": "1b94b982-0b8e-4021-ae49-6571b7ef7bc3"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_021": {
+      "__uuid__": "c18878f2-899d-4c0b-bdd4-e881b54b3d66"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_022": {
+      "__uuid__": "38cbe41a-772d-4b42-8783-a3fc6e30cfcb"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_023": {
+      "__uuid__": "684ed46c-a823-4a9c-af66-cc795e3b70ef"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_024": {
+      "__uuid__": "cddbbfae-2099-44e3-8bac-3d84aba3dfc9"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_025": {
+      "__uuid__": "7b3a2377-513f-4352-a409-5beb1c80ea8d"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_026": {
+      "__uuid__": "8d99fbd6-80bf-4104-9107-8a7f062e1d5d"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_027": {
+      "__uuid__": "9d1c6ee3-3818-4491-84d9-81f69d33e2bf"
+    },
+    "Ataque-EsquerdaBaixo-Zumbi_AtaqueEsquerdaBaixo_028": {
+      "__uuid__": "81405308-d1de-43fd-8dd6-e29812525c5e"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_000": {
+      "__uuid__": "79d76dbd-17fe-4223-9bfd-e58ad100b2c2"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_001": {
+      "__uuid__": "417e0f37-268b-4240-bd95-1eae0329fce1"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_002": {
+      "__uuid__": "0e0e5633-0f94-40af-999d-7803504f6d73"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_003": {
+      "__uuid__": "557d30b7-9a1e-4f95-8904-1c36babf24ef"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_004": {
+      "__uuid__": "f7af2704-37b8-4f30-99d3-96ebd6c3e161"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_005": {
+      "__uuid__": "352df385-6ab2-43c0-a02a-31d391ce8968"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_006": {
+      "__uuid__": "32c39879-ee8e-47f2-9812-1ad9532a0dd4"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_007": {
+      "__uuid__": "9d95e3cc-89c2-4dfe-a94e-0a31c0d23509"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_008": {
+      "__uuid__": "f3d776c4-3f50-4a86-96f0-0d1707522015"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_009": {
+      "__uuid__": "83e60db2-541d-4538-b37e-22491cc727ce"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_010": {
+      "__uuid__": "560b35f9-3e20-45a9-89ed-01e2a1d0ed6e"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_011": {
+      "__uuid__": "4a7a5ea4-9426-4974-903a-ec4a13ea9758"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_012": {
+      "__uuid__": "8857c268-5ea2-4759-b663-4fa761bcbd71"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_013": {
+      "__uuid__": "38733ec3-49c0-4de7-9745-58810e2ffca9"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_014": {
+      "__uuid__": "bb34e5c7-926b-414b-8384-0efb9b9b00a5"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_015": {
+      "__uuid__": "c3a5aa06-f1d2-4052-9746-59c1a688e790"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_016": {
+      "__uuid__": "1896fba8-5404-4b92-a7ed-59248489eb3e"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_017": {
+      "__uuid__": "465b3f11-93e4-4216-a89b-1b229e6ac2e5"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_018": {
+      "__uuid__": "cecdb452-da85-491e-8451-a121948d3440"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_019": {
+      "__uuid__": "e87969dd-1d14-47aa-ae86-957c21c5226c"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_020": {
+      "__uuid__": "44470248-f9f7-482e-86ed-6c3be09a582f"
+    },
+    "Ataque-EsquerdaCima-Chefe_AtaqueEsquerdaCima_021": {
+      "__uuid__": "1bed56bc-7be9-45c4-86c4-33d5173cc772"
+    }
+  }
+}

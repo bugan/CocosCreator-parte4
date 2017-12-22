@@ -18,23 +18,23 @@
                 "children": [
                   "hierarchy"
                 ],
-                "height": 282,
+                "height": 387,
                 "type": "panel",
-                "width": 204
+                "width": 301
               },
               {
                 "active": 0,
                 "children": [
                   "assets"
                 ],
-                "height": 330.984375,
+                "height": 226,
                 "type": "panel",
-                "width": 204
+                "width": 301
               }
             ],
             "height": 616,
             "type": "dock-v",
-            "width": 204
+            "width": 301
           },
           {
             "active": 0,
@@ -43,7 +43,7 @@
             ],
             "height": 616,
             "type": "panel",
-            "width": 304
+            "width": 339
           },
           {
             "children": [
@@ -54,10 +54,10 @@
                 ],
                 "height": 387,
                 "type": "panel",
-                "width": 845.984375
+                "width": 714
               },
               {
-                "active": 2,
+                "active": 0,
                 "children": [
                   "console",
                   "node-library",
@@ -65,12 +65,12 @@
                 ],
                 "height": 226,
                 "type": "panel",
-                "width": 845.984375
+                "width": 714
               }
             ],
             "height": 616,
             "type": "dock-v",
-            "width": 845.984375
+            "width": 714
           }
         ],
         "type": "dock-h"

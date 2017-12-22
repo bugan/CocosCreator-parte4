@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Parado-DireitaBaixo-Chefe_ParadoDireitaBaixo_012",
+    "texture": "8d4a22fd-85e3-42f5-9393-2b9a67103305",
+    "atlas": "4fc60da5-b8b6-4f93-a13b-89e5f0ed4e67",
+    "rect": [
+      527,
+      1314,
+      130,
+      216
+    ],
+    "offset": [
+      12,
+      28
+    ],
+    "originalSize": [
+      576,
+      324
+    ]
+  }
+}

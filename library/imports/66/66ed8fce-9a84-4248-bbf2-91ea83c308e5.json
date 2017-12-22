@@ -1,0 +1,548 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "InvasaoZumbi-016.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "Motel-Motel_Tras": {
+      "__uuid__": "53936233-1bd9-4c85-a928-5bcdcc61da72"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_000": {
+      "__uuid__": "2f25ba77-2215-4cd5-a08f-d59700d54d0c"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_001": {
+      "__uuid__": "ded9eee6-413b-4d8d-9eef-dc7f526e2992"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_002": {
+      "__uuid__": "47117613-7de5-4e48-9d8c-a76483c57087"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_003": {
+      "__uuid__": "e097e302-b8d9-43c1-9564-33d5fa1a0d0f"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_004": {
+      "__uuid__": "0386b7a2-4605-4309-8eb1-fe65713e1fff"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_005": {
+      "__uuid__": "9698d5fb-0840-499e-a408-b5410b74295f"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_006": {
+      "__uuid__": "80d86915-06d8-478a-8787-00b5f7aec969"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_007": {
+      "__uuid__": "bdf80434-f84b-4a17-9f5e-48b587f62a0d"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_008": {
+      "__uuid__": "ba137edb-e4a5-4187-a04d-9bd020e94c2c"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_009": {
+      "__uuid__": "b8168dd9-8972-460c-b722-985598f2a5c5"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_010": {
+      "__uuid__": "3cb7c550-697f-4752-81e1-46154f9498c5"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_011": {
+      "__uuid__": "1a96d5bf-f7dc-4e84-bae7-15e3f03b5879"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_012": {
+      "__uuid__": "14345785-1e96-427f-87b4-813683a8336f"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_013": {
+      "__uuid__": "6b51a685-f3bb-4974-b698-943a3e8f95b0"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_014": {
+      "__uuid__": "ef134e15-6b4b-44e9-a17a-802d61cbcf65"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_015": {
+      "__uuid__": "9dce3ff7-45c5-443e-8c7f-86a215963461"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_016": {
+      "__uuid__": "9d2780c5-999e-42d9-bb00-aae6978d1b35"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_017": {
+      "__uuid__": "37512aa0-a567-4cd0-956d-07e840cfde56"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_018": {
+      "__uuid__": "27b2ce29-81c3-416d-9bf5-5a203b6001cd"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_019": {
+      "__uuid__": "438e63f1-c3d8-4fdc-967a-a9fb43ba66ff"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_020": {
+      "__uuid__": "83980ca3-afce-437f-829e-b8a276e030b5"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_021": {
+      "__uuid__": "749701dc-af11-4ec4-85b6-69333e8ff463"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_022": {
+      "__uuid__": "73e4bc0c-8d74-49ef-a0a6-834f6b848e7b"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_023": {
+      "__uuid__": "4285741c-71d2-4187-8769-f55dd3996c30"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_024": {
+      "__uuid__": "b62c930c-1649-4770-88ba-2448f7f02b59"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_025": {
+      "__uuid__": "dae4a431-6170-41dc-9ca7-caa54696ae6d"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_026": {
+      "__uuid__": "91abfdd0-4a23-43ed-b70b-6e03c1e2c0b6"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_027": {
+      "__uuid__": "bb9ef7d4-dc81-441f-b17a-3cf2a30d2bca"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_028": {
+      "__uuid__": "4ba62396-f7af-4069-b34e-6497994820b1"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_029": {
+      "__uuid__": "97c7aa63-c605-440c-8df8-5e20915e649d"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_030": {
+      "__uuid__": "9c0c7ff3-eef7-46e8-b339-f71c1497ccb2"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_031": {
+      "__uuid__": "173d4382-c4ec-445d-b484-cf580a354c65"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_032": {
+      "__uuid__": "672feaf4-e943-4599-a08d-23fe0765917a"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_033": {
+      "__uuid__": "12e72cd9-4ce9-45a2-882b-cdbe0206c519"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_034": {
+      "__uuid__": "43bbcfd9-35ba-4c95-8a59-1ad10425e266"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_035": {
+      "__uuid__": "daa84844-c9b2-4b89-bdb0-64b357e1de4d"
+    },
+    "Parado-Baixo-Chefe_ParadoBaixo_036": {
+      "__uuid__": "87f52c9c-54f2-46b2-a755-d3083f399d36"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_000": {
+      "__uuid__": "1cb74ca7-5417-4104-8ef1-fd0f920cb4a5"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_001": {
+      "__uuid__": "6814c400-8d40-440a-a351-158022805ae5"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_002": {
+      "__uuid__": "a34658b9-53f9-4d26-9cab-3994b6f5aa40"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_003": {
+      "__uuid__": "24dbe5dc-2319-4aaa-848d-fba59888a196"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_004": {
+      "__uuid__": "e6691b83-5db1-4df6-b54e-9f0df2149712"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_005": {
+      "__uuid__": "04d85fe7-b343-4089-ae7f-dead3f2e7350"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_006": {
+      "__uuid__": "1182f305-e79c-4395-b467-f4127e80cef9"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_007": {
+      "__uuid__": "b2fdef46-f8a5-44b1-af18-06bdd94c687b"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_008": {
+      "__uuid__": "3fde9baa-8cc6-4315-af77-c6eddcdc1958"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_009": {
+      "__uuid__": "49eaf02d-e90f-42f8-87d9-499428bf3c0c"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_010": {
+      "__uuid__": "5235e9f0-ca74-4c42-abf6-703d9019e51f"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_011": {
+      "__uuid__": "222fba5c-b81d-4729-a572-af8c3fadf5bb"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_012": {
+      "__uuid__": "c6e027be-00b4-41a1-bb96-cffa4c72edfb"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_013": {
+      "__uuid__": "2c7183dc-90bd-4660-8157-67eeeef27c80"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_014": {
+      "__uuid__": "76caec1c-f092-48d7-911d-31eac9e6de3f"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_015": {
+      "__uuid__": "2c1c079a-1a91-44cc-a397-59bb418b9cb8"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_016": {
+      "__uuid__": "72e177e7-68eb-4bfe-a2e5-ec9892312dc4"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_017": {
+      "__uuid__": "1167bb98-d797-4837-9748-ea73220e5119"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_018": {
+      "__uuid__": "e92f6465-27c3-49ce-9bd6-8c335080dedc"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_019": {
+      "__uuid__": "9dca7903-f5d1-4c50-920d-5fc9adc8b4cb"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_020": {
+      "__uuid__": "2a464720-8d41-48b8-b696-49594582d954"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_021": {
+      "__uuid__": "62bdc791-152d-427f-a556-4e863cc08400"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_022": {
+      "__uuid__": "9c462ee7-ebb6-4668-baa7-f40006343e8b"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_023": {
+      "__uuid__": "90615a19-d02a-4637-a2f1-b2db9f685843"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_024": {
+      "__uuid__": "44b6abc1-55b0-415a-a621-57e344e6f4ea"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_025": {
+      "__uuid__": "6b7fbdba-9cda-456b-b5e2-b258c36b5d99"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_026": {
+      "__uuid__": "ad2bb11a-2ae2-4feb-a81a-01420d30cf1f"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_027": {
+      "__uuid__": "8e2c2461-2da1-47fc-beef-a0f3e2b9bed7"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_028": {
+      "__uuid__": "0c23cc14-1528-4a9f-8c68-60cf325755d1"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_029": {
+      "__uuid__": "707c2069-fd7c-4479-a0d1-df4a22a95918"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_030": {
+      "__uuid__": "9836963b-0c93-4d2a-93ef-85691520fb4c"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_031": {
+      "__uuid__": "8ec43803-c926-4746-8cdd-07e64e392699"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_032": {
+      "__uuid__": "41909c10-6d5b-47de-bbce-29420f5e27fe"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_033": {
+      "__uuid__": "b82728e1-31df-4ddc-9a02-200527b2aeb6"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_034": {
+      "__uuid__": "74b0e05e-8d03-44f7-a9d6-223016aff0e1"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_035": {
+      "__uuid__": "df64f56a-7682-49f4-85fb-6b3b8dd08526"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_036": {
+      "__uuid__": "6ed77530-56f6-49ca-a6fe-7cf52c2c3487"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_037": {
+      "__uuid__": "8ebe552f-6ee5-4fc5-8745-6456eb7d2c47"
+    },
+    "Parado-Baixo-Jogadora_ParadoBaixo_038": {
+      "__uuid__": "663e502d-df6d-4dcb-ab7a-15033eabaf21"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_000": {
+      "__uuid__": "2fa9d568-7d80-4916-8ce3-0917ef7d9be7"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_001": {
+      "__uuid__": "db3078ea-a318-4c22-be99-e612d84fe36d"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_002": {
+      "__uuid__": "4433d5c2-099c-4293-8184-8ae05ded0d2c"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_003": {
+      "__uuid__": "5159cad7-c8b8-4e0f-9727-9f8db321153a"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_004": {
+      "__uuid__": "af25af78-62ed-4733-8a94-d9ac22f05184"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_005": {
+      "__uuid__": "7cb52dcd-b180-40ee-8553-eb840638ea60"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_006": {
+      "__uuid__": "c920fe5c-c063-4e16-8329-b9e9d19b3ed2"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_007": {
+      "__uuid__": "9d7eedd4-0817-45b7-90da-a32fcbe926f7"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_008": {
+      "__uuid__": "c47e7a63-9052-4edf-bf7e-134b0da543eb"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_009": {
+      "__uuid__": "7bb3d2e0-4546-45ef-857a-f8adf5e06978"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_010": {
+      "__uuid__": "2126f378-108f-47ad-974d-478ec196dce9"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_011": {
+      "__uuid__": "25eb0711-83bb-41df-96c2-8cc9f1cb3e09"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_012": {
+      "__uuid__": "ae8b8eef-713b-4601-bbbe-611fbb1166a9"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_013": {
+      "__uuid__": "4ae180a5-0f24-477b-b5f7-1e319ad0d1d1"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_014": {
+      "__uuid__": "15b5e413-078f-4592-9019-6cb2204b044d"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_015": {
+      "__uuid__": "4ab9ead5-b8b3-48b0-94c6-8482c1d39e56"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_016": {
+      "__uuid__": "deb0926c-813f-4636-bf95-4a218a97cf0f"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_017": {
+      "__uuid__": "dd3a48bc-5c50-4abb-8d78-2049571935c6"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_018": {
+      "__uuid__": "93d3a436-6067-4e09-9eb9-9203b44a13c2"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_019": {
+      "__uuid__": "e98b3f34-826d-4a1d-be83-d582b44742fb"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_020": {
+      "__uuid__": "73c941cd-8dc6-4a13-83f0-9c6a13412f49"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_021": {
+      "__uuid__": "3608f0f3-7859-4634-afc1-3252de208e54"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_022": {
+      "__uuid__": "a7543fe2-4a0f-4eca-92e3-ea14bc5fc54e"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_023": {
+      "__uuid__": "d25f7fad-0f65-4f95-b88d-424f3f2a92a3"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_024": {
+      "__uuid__": "e1f1e613-7d55-4c04-a4cc-c799eecf411d"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_025": {
+      "__uuid__": "e16e23fe-7c69-45f3-af9b-b816123d5415"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_026": {
+      "__uuid__": "f2701709-6d72-4b66-a2a5-adcf7fbdb18d"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_027": {
+      "__uuid__": "00f2e24e-d082-407a-8956-c5b56e0f093a"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_028": {
+      "__uuid__": "aaf97d29-d822-4935-b94b-77aa1a9dbcf9"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_029": {
+      "__uuid__": "8191c952-b5c1-40ab-a241-105654da063d"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_030": {
+      "__uuid__": "1cbc06e5-e21b-4654-870a-15e5925e7d82"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_031": {
+      "__uuid__": "07cc82ee-0e05-4fef-b3e5-fa4b4316b311"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_032": {
+      "__uuid__": "ab5d48eb-2d77-48a4-bf74-8b587caae2d6"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_033": {
+      "__uuid__": "15f7bd3f-f1e0-4e20-b77a-78c1b1325224"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_034": {
+      "__uuid__": "5c45f91f-8949-4d1a-b344-9e48e410cbc7"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_035": {
+      "__uuid__": "d5c0aee6-c5ff-46c0-90e1-913377c56931"
+    },
+    "Parado-Baixo-Zumbi_ParadoBaixo_036": {
+      "__uuid__": "f33a9458-55f0-4414-b0be-cbb4a8511546"
+    },
+    "Parado-Cima-Chefe_ParadoCima_000": {
+      "__uuid__": "f00afe0d-4508-4efc-8562-b7e7e88b32ce"
+    },
+    "Parado-Cima-Chefe_ParadoCima_001": {
+      "__uuid__": "f9d136a4-3576-4da9-82d4-929c464c9ad4"
+    },
+    "Parado-Cima-Chefe_ParadoCima_002": {
+      "__uuid__": "dffb4817-46a5-471d-828a-390d3ce13eaa"
+    },
+    "Parado-Cima-Chefe_ParadoCima_003": {
+      "__uuid__": "2179ea6d-db8c-4dca-8a07-f0fbd89b7c86"
+    },
+    "Parado-Cima-Chefe_ParadoCima_004": {
+      "__uuid__": "12278cf8-e24b-42be-b529-0e65da5e9174"
+    },
+    "Parado-Cima-Chefe_ParadoCima_005": {
+      "__uuid__": "598f85f6-4d17-4ec2-8c56-086b75332e55"
+    },
+    "Parado-Cima-Chefe_ParadoCima_006": {
+      "__uuid__": "353da902-60db-4fc9-8a36-0680de88d03e"
+    },
+    "Parado-Cima-Chefe_ParadoCima_007": {
+      "__uuid__": "f9576d81-cc09-4cec-b8b5-ec5f0f004688"
+    },
+    "Parado-Cima-Chefe_ParadoCima_008": {
+      "__uuid__": "ea1ca489-e98e-4cc1-989d-c2fe4e8d48c2"
+    },
+    "Parado-Cima-Chefe_ParadoCima_009": {
+      "__uuid__": "3a1933bf-a727-4a45-a420-2492e4a46c57"
+    },
+    "Parado-Cima-Chefe_ParadoCima_010": {
+      "__uuid__": "d5b087aa-c2f6-4602-b5f3-d48e96967170"
+    },
+    "Parado-Cima-Chefe_ParadoCima_011": {
+      "__uuid__": "47184e49-1820-43b2-81d3-05a320db8b13"
+    },
+    "Parado-Cima-Chefe_ParadoCima_012": {
+      "__uuid__": "c9e11e62-9f1e-4dc4-9eeb-6108fa0346ce"
+    },
+    "Parado-Cima-Chefe_ParadoCima_013": {
+      "__uuid__": "1b036b12-a83e-44cd-bc13-630a3fa0c35f"
+    },
+    "Parado-Cima-Chefe_ParadoCima_014": {
+      "__uuid__": "76583aeb-1596-4c09-b2e1-748ef16a1a42"
+    },
+    "Parado-Cima-Chefe_ParadoCima_015": {
+      "__uuid__": "4fa584f2-34da-4152-a3d0-e3bf2fbccf9f"
+    },
+    "Parado-Cima-Chefe_ParadoCima_016": {
+      "__uuid__": "2b63c1b2-7fb1-4b0c-802e-a72dd1e2044b"
+    },
+    "Parado-Cima-Chefe_ParadoCima_017": {
+      "__uuid__": "5fa5660f-58c8-47f0-89f0-97618c4c0157"
+    },
+    "Parado-Cima-Chefe_ParadoCima_018": {
+      "__uuid__": "c195556d-314e-4c84-be96-701395e854ee"
+    },
+    "Parado-Cima-Chefe_ParadoCima_019": {
+      "__uuid__": "902c9850-8334-4555-b36c-daccd7bc890d"
+    },
+    "Parado-Cima-Chefe_ParadoCima_020": {
+      "__uuid__": "81edb73c-562d-4657-a653-671e1f7cddde"
+    },
+    "Parado-Cima-Chefe_ParadoCima_021": {
+      "__uuid__": "e2f69f44-b85f-4b28-ad52-b25bd40388bf"
+    },
+    "Parado-Cima-Chefe_ParadoCima_022": {
+      "__uuid__": "9db0eb6e-2f31-48b5-aa80-5f76aea75927"
+    },
+    "Parado-Cima-Chefe_ParadoCima_023": {
+      "__uuid__": "a937a04b-6a8e-40ff-bb73-d3f04d75776d"
+    },
+    "Parado-Cima-Chefe_ParadoCima_024": {
+      "__uuid__": "015254d8-79c0-43b0-8834-f1105578d287"
+    },
+    "Parado-Cima-Chefe_ParadoCima_025": {
+      "__uuid__": "ef321f66-aec1-4ed2-8968-c07f05a52845"
+    },
+    "Parado-Cima-Chefe_ParadoCima_026": {
+      "__uuid__": "94847ade-b197-4805-9b4d-0eab22baa70e"
+    },
+    "Parado-Cima-Chefe_ParadoCima_027": {
+      "__uuid__": "0ab58a9c-6643-45dc-b331-1f85e4414a72"
+    },
+    "Parado-Cima-Chefe_ParadoCima_028": {
+      "__uuid__": "27bf6a24-8102-45ab-93fa-e9bd85e32d52"
+    },
+    "Parado-Cima-Chefe_ParadoCima_029": {
+      "__uuid__": "94eaa4b7-b6bc-4529-887b-c87cae06a3a8"
+    },
+    "Parado-Cima-Chefe_ParadoCima_030": {
+      "__uuid__": "c7828467-2e34-4284-97ac-0163296b37d8"
+    },
+    "Parado-Cima-Chefe_ParadoCima_031": {
+      "__uuid__": "df9ab4b4-bd3f-4ab3-9d79-a97f65796bd9"
+    },
+    "Parado-Cima-Chefe_ParadoCima_032": {
+      "__uuid__": "93b75142-a7d8-438a-ae99-004904aa36f3"
+    },
+    "Parado-Cima-Chefe_ParadoCima_033": {
+      "__uuid__": "0ccc3a2d-c99e-4ba7-8825-13acc71d1aa8"
+    },
+    "Parado-Cima-Chefe_ParadoCima_034": {
+      "__uuid__": "b2990b92-75fc-4cfa-bfbe-28adbf296403"
+    },
+    "Parado-Cima-Chefe_ParadoCima_035": {
+      "__uuid__": "24ce39b1-88e8-4ae7-a0e8-720b5cb2261a"
+    },
+    "Parado-Cima-Chefe_ParadoCima_036": {
+      "__uuid__": "d2286790-ba58-4945-8e6a-840f5ebec2bc"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_000": {
+      "__uuid__": "8520f066-9c5f-463e-bb95-89aa345d21f7"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_001": {
+      "__uuid__": "83c6b9e0-6649-47f9-8790-433f001d075b"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_002": {
+      "__uuid__": "7a8f473b-82e0-4423-a3db-98a882cb6ee2"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_003": {
+      "__uuid__": "cbc923e7-e15a-4b2c-a1c8-57b7a6f99149"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_004": {
+      "__uuid__": "6d59c4ee-5532-4aae-8e46-78937fe13e06"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_005": {
+      "__uuid__": "ec206e16-7edf-4cac-a88a-73bcef0d81d6"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_006": {
+      "__uuid__": "d9baddce-3f2c-4560-bd1b-539f3a292ec4"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_007": {
+      "__uuid__": "b0f0204e-24ab-4b4a-a922-6f28f7aea0f8"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_008": {
+      "__uuid__": "dbc926b6-63ad-42a3-a476-29179f60bd91"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_009": {
+      "__uuid__": "a2f17107-693e-4326-a6e1-aa6a742cce1e"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_010": {
+      "__uuid__": "ef304b43-c276-4bc8-b1b6-ac2a3d54a4dd"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_011": {
+      "__uuid__": "07886a71-0cd7-4463-8865-82f15d020e9e"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_012": {
+      "__uuid__": "702bed7b-1b42-46de-a602-62772879b285"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_013": {
+      "__uuid__": "1a20fab9-4f85-442b-bd81-180f0fb61920"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_014": {
+      "__uuid__": "846d8961-ab02-4c3c-a421-8a39ae289417"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_015": {
+      "__uuid__": "106bb9a9-71f5-473f-a7a5-735403859032"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_016": {
+      "__uuid__": "fb2619ec-d8dd-46dc-b6d7-ecd0bf850de8"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_017": {
+      "__uuid__": "1d966940-7b80-4af6-ae30-cd6058bbe14c"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_018": {
+      "__uuid__": "add303dd-3855-4e60-b30b-ff19943d1ab4"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_019": {
+      "__uuid__": "3dc03bf0-bb9f-4c5c-a914-4eadd8577870"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_020": {
+      "__uuid__": "b036012a-5557-4fbd-a481-4b897ade88e9"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_021": {
+      "__uuid__": "ca77c8a3-038d-47eb-8972-7b71824d34ea"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_022": {
+      "__uuid__": "c60bc601-e080-4e54-80dc-8fe3cb1bc3c0"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_023": {
+      "__uuid__": "ae790bd3-3d82-44cc-9ba1-4328dcf97389"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_024": {
+      "__uuid__": "9fc915b7-729d-407e-b593-4ab8f3387bcd"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_025": {
+      "__uuid__": "1eccb249-54a2-429f-afd1-72ebc7eb9f35"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_026": {
+      "__uuid__": "8e3be153-89b5-458c-aa50-df13db214265"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_027": {
+      "__uuid__": "23a89cd2-7a7a-4a40-8996-9c01fb1457ea"
+    },
+    "Parado-Cima-Jogadora_ParadoCima_028": {
+      "__uuid__": "2a5d3361-6e6f-41c0-9d74-46e43655a41b"
+    }
+  }
+}
