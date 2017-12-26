@@ -19,14 +19,14 @@ cc.Class({
     },
 
     soltarItem: function () {
-        if(this.podeSoltar()){
+        if(this.deveSoltar()){
             let item = this.sorteiaItem();
             item.parent = this.node.parent;
             item.position = this.node.position;
         }
     },
 
-    podeSoltar: function(){
+    deveSoltar: function(){
         return Math.random() < this.chanceDeSoltar;
     },
 

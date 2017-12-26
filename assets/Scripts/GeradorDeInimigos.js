@@ -3,9 +3,9 @@ cc.Class({
 
     properties: {
         tempoParaGerar: cc.Float,
-        inimigoPrefab : cc.Prefab,
         raio : cc.Float,
         _distanciaMinima : cc.Float,
+        _pool: cc.Component,
     },
 
     onLoad: function () {
@@ -14,12 +14,26 @@ cc.Class({
         let metadeDaLargura = resolucao.width /2;
         this._distanciaMinima = metadeDaLargura;
     },
+
+    start: function(){
+        this.node.on("receberInstanciaPool", this.receberInstancia, this);
+        let buscarPool = new cc.Event.EventCustom("BuscarInstanciaPoolZumbis", true);
+        buscarPool.setUserData({node: this.node});
+        this.node.dispatchEvent(buscarPool);
+    },
+
+    receberInstancia: function(evento){
+        this._pool = evento.detail.instancia;
+    },
+
     gerar : function(){
         if(this.possoGerar()){
             let posicao = this.calcularPosicao();
-            let zumbi = cc.instantiate(this.inimigoPrefab);
-            zumbi.parent = this.node.parent;
-            zumbi.position = posicao;
+            let zumbi = this._pool.novoZumbi();
+            if(zumbi != null){
+                zumbi.parent = this.node.parent;
+                zumbi.position = posicao;
+            }
         }
     },
 

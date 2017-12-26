@@ -70,7 +70,7 @@ cc.Class({
     },
 
     recuperarVida : function(evento){
-        this._vidaAtual += evento.detail.cura;
+        this._vidaAtual += parseFloat(evento.detail.cura);
         this._vidaAtual = Math.min(this._vidaAtual, this.vidaMaxima);
         this.dispararEventos(this._eventoAlteraVida, { vidaAtual: this._vidaAtual, vidaMaxima: this.vidaMaxima });
     },
