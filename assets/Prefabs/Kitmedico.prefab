@@ -63,8 +63,8 @@
     "_scaleY": 1,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": 232,
-      "y": 373
+      "x": 94,
+      "y": 262
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -353,10 +353,10 @@
       "__id__": 1
     },
     "_enabled": true,
-    "recuperar": "20"
+    "recuperar": "15"
   },
   {
-    "__type__": "d2e93yzUtJPOqBZO14v2obj",
+    "__type__": "b1aa9t2DJJPw7ZSctESoBun",
     "_name": "",
     "_objFlags": 0,
     "node": {

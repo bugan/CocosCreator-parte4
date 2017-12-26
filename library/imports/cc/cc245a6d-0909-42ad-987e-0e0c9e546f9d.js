@@ -24,14 +24,14 @@ cc.Class({
     },
 
     soltarItem: function soltarItem() {
-        if (this.podeSoltar()) {
+        if (this.deveSoltar()) {
             var item = this.sorteiaItem();
             item.parent = this.node.parent;
             item.position = this.node.position;
         }
     },
 
-    podeSoltar: function podeSoltar() {
+    deveSoltar: function deveSoltar() {
         return Math.random() < this.chanceDeSoltar;
     },
 

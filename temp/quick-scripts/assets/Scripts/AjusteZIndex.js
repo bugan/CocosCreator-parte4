@@ -1,5 +1,5 @@
 (function() {"use strict";var __module = CC_EDITOR ? module : {exports:{}};var __filename = 'preview-scripts/assets/Scripts/AjusteZIndex.js';var __require = CC_EDITOR ? function (request) {return cc.require(request, require);} : function (request) {return cc.require(request, __filename);};function __define (exports, require, module) {"use strict";
-cc._RF.push(module, 'd2e93yzUtJPOqBZO14v2obj', 'AjusteZIndex', __filename);
+cc._RF.push(module, 'b1aa9t2DJJPw7ZSctESoBun', 'AjusteZIndex', __filename);
 // Scripts/AjusteZIndex.js
 
 "use strict";

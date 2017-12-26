@@ -1,5 +1,5 @@
 "use strict";
-cc._RF.push(module, 'd2e93yzUtJPOqBZO14v2obj', 'AjusteZIndex');
+cc._RF.push(module, 'b1aa9t2DJJPw7ZSctESoBun', 'AjusteZIndex');
 // Scripts/AjusteZIndex.js
 
 "use strict";

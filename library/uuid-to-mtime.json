@@ -280,88 +280,88 @@
     "relativePath": "Animacoes\\Inimigo\\Parado\\Parado.anim"
   },
   "efda277c-4151-4dcb-9d06-283bae295e71": {
-    "asset": 1513951445592,
-    "meta": 1513951445629,
+    "asset": 1513969052175,
+    "meta": 1513969052244,
     "relativePath": "Animacoes\\Perosnagem\\AndarBaixo.anim"
   },
   "ada6e8a6-797d-4e89-a4d8-b9a3e83bf0c1": {
-    "asset": 1513951471780,
-    "meta": 1513951471809,
+    "asset": 1513969058196,
+    "meta": 1513969058242,
     "relativePath": "Animacoes\\Perosnagem\\AndarCima.anim"
   },
   "f1dce304-c852-40a5-9548-9648572f11f9": {
-    "asset": 1513951609959,
-    "meta": 1513951609987,
+    "asset": 1513969092351,
+    "meta": 1513969092471,
     "relativePath": "Animacoes\\Perosnagem\\AndarDireita.anim"
   },
   "360eb438-7a5a-4212-a4ec-f9a29b2e895f": {
-    "asset": 1513951507187,
-    "meta": 1513951507304,
+    "asset": 1513969072187,
+    "meta": 1513969072204,
     "relativePath": "Animacoes\\Perosnagem\\AndarDireitaBaixo.anim"
   },
   "e009cca8-cd5e-43ed-a05d-3b43d9739fcc": {
-    "asset": 1513951532094,
-    "meta": 1513951532117,
+    "asset": 1513969079618,
+    "meta": 1513969079634,
     "relativePath": "Animacoes\\Perosnagem\\AndarDireitaCima.anim"
   },
   "7814c87f-da82-4fd1-ac3c-fb03a2051be5": {
-    "asset": 1513951682958,
-    "meta": 1513951682977,
+    "asset": 1513969110749,
+    "meta": 1513969110783,
     "relativePath": "Animacoes\\Perosnagem\\AndarEsquerda.anim"
   },
   "25134635-5600-4996-b9e2-49bcd3e861f4": {
-    "asset": 1513951640541,
-    "meta": 1513951640573,
+    "asset": 1513969098550,
+    "meta": 1513969098565,
     "relativePath": "Animacoes\\Perosnagem\\AndarEsquerdaBaixo.anim"
   },
   "00b96040-f7c1-499f-9690-e85fb2d15ee4": {
-    "asset": 1513951662988,
-    "meta": 1513951663006,
+    "asset": 1513969104092,
+    "meta": 1513969104146,
     "relativePath": "Animacoes\\Perosnagem\\AndarEsquerdaCima.anim"
   },
   "c50753af-e6e9-4f29-954e-44fd19c42025": {
-    "asset": 1513951710762,
-    "meta": 1513951710785,
+    "asset": 1513969119225,
+    "meta": 1513969119282,
     "relativePath": "Animacoes\\Perosnagem\\ParadoBaixo.anim"
   },
   "40cd45e3-fce8-4926-9829-4118ef67082a": {
-    "asset": 1513951726811,
-    "meta": 1513951726833,
+    "asset": 1513969128436,
+    "meta": 1513969128479,
     "relativePath": "Animacoes\\Perosnagem\\ParadoCima.anim"
   },
   "b09eb6c3-b871-4b3c-b256-cd9e776cde28": {
-    "asset": 1513951788199,
-    "meta": 1513951788221,
+    "asset": 1513969149966,
+    "meta": 1513969149988,
     "relativePath": "Animacoes\\Perosnagem\\ParadoDireita.anim"
   },
   "efed7630-93d5-4249-93b2-07acd711596e": {
-    "asset": 1513951745531,
-    "meta": 1513951745563,
+    "asset": 1513969135912,
+    "meta": 1513969135931,
     "relativePath": "Animacoes\\Perosnagem\\ParadoDireitaBaixo.anim"
   },
   "40824653-66aa-4efd-8aa2-2d2832120862": {
-    "asset": 1513951765280,
-    "meta": 1513951765299,
+    "asset": 1513969143155,
+    "meta": 1513969143172,
     "relativePath": "Animacoes\\Perosnagem\\ParadoDireitaCima.anim"
   },
   "072c3898-cde4-4817-8122-b18604ee1abf": {
-    "asset": 1513951859737,
-    "meta": 1513951859756,
+    "asset": 1513969174505,
+    "meta": 1513969174523,
     "relativePath": "Animacoes\\Perosnagem\\ParadoEsquerda.anim"
   },
   "c5027403-2002-4da6-8919-6f795e3825ed": {
-    "asset": 1513951812414,
-    "meta": 1513951812434,
+    "asset": 1513969160598,
+    "meta": 1513969160626,
     "relativePath": "Animacoes\\Perosnagem\\ParadoEsquerdaBaixo.anim"
   },
   "139bb71b-a772-4f24-b06c-1a85bad78e13": {
-    "asset": 1513886989035,
+    "asset": 1513951224934,
     "meta": 1512991334000,
     "relativePath": "Imagens"
   },
   "a7a1e2f9-f80c-4915-8b57-d14f677cf758": {
-    "asset": 1513951836340,
-    "meta": 1513951836359,
+    "asset": 1513969169127,
+    "meta": 1513969169144,
     "relativePath": "Animacoes\\Perosnagem\\ParadoEsquerdaCima.anim"
   },
   "adaf59b9-5c96-4550-afa2-83cb5caecff1": {
@@ -370,12 +370,12 @@
     "relativePath": "Imagens\\Tiro.png"
   },
   "b1b819d6-754e-4a9b-a9d2-8a24bff4c720": {
-    "asset": 1513954614793,
-    "meta": 1513954614836,
+    "asset": 1514291375050,
+    "meta": 1514291375079,
     "relativePath": "Cenas\\Jogo.fire"
   },
   "609766a9-58bf-481f-a4df-d35a0f6eb813": {
-    "asset": 1513886994455,
+    "asset": 1513964311887,
     "meta": 1512991334000,
     "relativePath": "Prefabs"
   },
@@ -385,13 +385,13 @@
     "relativePath": "Prefabs\\Tiro.prefab"
   },
   "66dfbd53-7703-4d8d-995e-f4137a9a904e": {
-    "asset": 1513887428177,
+    "asset": 1513969733686,
     "meta": 1512991334000,
     "relativePath": "Scripts"
   },
   "65bf74ea-f0ad-46af-84a6-e29f55a14ec1": {
-    "asset": 1513952451878,
-    "meta": 1513952451904,
+    "asset": 1513970076421,
+    "meta": 1513970076442,
     "relativePath": "Prefabs\\Zumbi.prefab"
   },
   "7fefff2d-b400-4ab6-bced-09c9b8bd7d30": {
@@ -493,11 +493,6 @@
     "asset": 1513612041519,
     "meta": 1513612146650,
     "relativePath": "Imagens\\Interface\\MenuBG.png"
-  },
-  "d2e93cb3-52d2-4f3a-a059-3b5e2fda86e3": {
-    "asset": 1510231802158,
-    "meta": 1513615966692,
-    "relativePath": "Scripts\\AjusteZIndex.js"
   },
   "b160b16d-0425-4d7a-af55-9f8982d9c4b3": {
     "asset": 1513952245937,
@@ -690,8 +685,8 @@
     "relativePath": "Animacoes\\Chefe\\MorteBaixo.anim"
   },
   "ea9658c7-42c9-46f0-84b1-d2208ef965ae": {
-    "asset": 1513954575881,
-    "meta": 1513954575903,
+    "asset": 1514290394290,
+    "meta": 1514290394348,
     "relativePath": "Prefabs\\Chefe.prefab"
   },
   "f7514faf-02e1-439c-9667-1f4db6ffa64b": {
@@ -699,19 +694,14 @@
     "meta": 1513865959336,
     "relativePath": "particulaVida.plist"
   },
-  "60d0f08b-9001-4846-bdbc-e2326328582d": {
-    "asset": 1513874110921,
-    "meta": 1513874114025,
-    "relativePath": "Scripts\\GeradorDeInimigos.js"
-  },
   "2b6dd8a8-1534-48ab-883f-c965bab7355e": {
-    "asset": 1513953237202,
-    "meta": 1513953237216,
+    "asset": 1514290416142,
+    "meta": 1514290416165,
     "relativePath": "Prefabs\\Kitmedico.prefab"
   },
   "54558e1b-3067-4f13-858e-20076e9825c3": {
-    "asset": 1513953905885,
-    "meta": 1513953905907,
+    "asset": 1513968780547,
+    "meta": 1513968780594,
     "relativePath": "Prefabs\\Personagem.prefab"
   },
   "b53906aa-a933-46f0-b69c-a48411e90158": {
@@ -729,16 +719,6 @@
     "meta": 1513886044445,
     "relativePath": "Scripts\\ControleDeAnimacao.js"
   },
-  "db00ef83-28a7-4f8e-9ee9-6a20ef1db437": {
-    "asset": 1513885691723,
-    "meta": 1513886044489,
-    "relativePath": "Scripts\\Inimigo.js"
-  },
-  "d3299227-3ff8-40a0-a464-eadc34169210": {
-    "asset": 1513885697313,
-    "meta": 1513886044542,
-    "relativePath": "Scripts\\Jogador.js"
-  },
   "9a15eb46-2749-4bf8-b00d-df69a12238d9": {
     "asset": 1513885700741,
     "meta": 1513886044553,
@@ -748,11 +728,6 @@
     "asset": 1513885714669,
     "meta": 1513886044608,
     "relativePath": "Scripts\\PreloadCena.js"
-  },
-  "cc245a6d-0909-42ad-987e-0e0c9e546f9d": {
-    "asset": 1513885718431,
-    "meta": 1513886044616,
-    "relativePath": "Scripts\\SoltarItens.js"
   },
   "17343a86-aac1-4e9e-9e0a-9ec746408449": {
     "asset": 1513951141233,
@@ -965,17 +940,17 @@
     "relativePath": "Imagens\\InvasaoZumbi-03.png"
   },
   "43db398f-9bbd-4f54-bc0e-87485ea6df45": {
-    "asset": 1513951179641,
+    "asset": 1513951185208,
     "meta": 1513951179650,
     "relativePath": "Cenas"
   },
   "7b88d679-be51-469f-8569-f38e3e6cba44": {
-    "asset": 1513951188293,
+    "asset": 1513951224934,
     "meta": 1513951188299,
     "relativePath": "Atlas"
   },
   "b61301f3-280e-440c-8f0d-81d65f7a24b1": {
-    "asset": 1513953440030,
+    "asset": 1513954141689,
     "meta": 1513953440057,
     "relativePath": "Prefabs\\Aderecos"
   },
@@ -985,7 +960,7 @@
     "relativePath": "Prefabs\\Aderecos\\caixas\\PilhaCaixasGrandes_Direita.prefab"
   },
   "413602f4-8cbc-4a35-9c6e-da7d830693b2": {
-    "asset": 1513953456221,
+    "asset": 1513953473022,
     "meta": 1513953456228,
     "relativePath": "Prefabs\\Aderecos\\caixas"
   },
@@ -1005,8 +980,8 @@
     "relativePath": "Prefabs\\Aderecos\\caixas\\PilhaCaixasGrandes_Tras.prefab"
   },
   "d1cc760c-8de4-48fb-a870-6b659c95ba51": {
-    "asset": 1513954497278,
-    "meta": 1513954497324,
+    "asset": 1513969781659,
+    "meta": 1513969781689,
     "relativePath": "Prefabs\\Aderecos\\Barril.prefab"
   },
   "cea5e751-e5a5-4db4-92a5-0d7d3ad8396b": {
@@ -1023,5 +998,50 @@
     "asset": 1513954138563,
     "meta": 1513954138583,
     "relativePath": "Prefabs\\Aderecos\\TanqueDestruido_Esquerda.prefab"
+  },
+  "e861d5f0-d771-4d81-9904-366a2369fa38": {
+    "asset": 1513964311878,
+    "meta": 1513964311892,
+    "relativePath": "Prefabs\\PontoNascimentoChefe.prefab"
+  },
+  "90a57ef8-84bd-4339-b40b-7393b274c930": {
+    "asset": 1513965190162,
+    "meta": 1513965193151,
+    "relativePath": "Scripts\\GeradorDeChefes.js"
+  },
+  "05bfb91c-e511-43d3-8b0f-a523d1578f80": {
+    "asset": 1513965545242,
+    "meta": 1513965702197,
+    "relativePath": "Scripts\\PontoGeracaoChefe.js"
+  },
+  "f34ac60f-3c48-4a76-b60f-48d31aad8f27": {
+    "asset": 1513967559648,
+    "meta": 1514290297444,
+    "relativePath": "Scripts\\LimitadorDeZumbis.js"
+  },
+  "60d0f08b-9001-4846-bdbc-e2326328582d": {
+    "asset": 1513967961346,
+    "meta": 1513968011140,
+    "relativePath": "Scripts\\GeradorDeInimigos.js"
+  },
+  "b1aa9b76-0c92-4fc3-b652-72d112a01ba7": {
+    "asset": 1513969733680,
+    "meta": 1513969733759,
+    "relativePath": "Scripts\\AjusteZIndex.js"
+  },
+  "db00ef83-28a7-4f8e-9ee9-6a20ef1db437": {
+    "asset": 1514290785887,
+    "meta": 1514290796470,
+    "relativePath": "Scripts\\Inimigo.js"
+  },
+  "cc245a6d-0909-42ad-987e-0e0c9e546f9d": {
+    "asset": 1514290760249,
+    "meta": 1514290796473,
+    "relativePath": "Scripts\\SoltarItens.js"
+  },
+  "d3299227-3ff8-40a0-a464-eadc34169210": {
+    "asset": 1514291356182,
+    "meta": 1514291360074,
+    "relativePath": "Scripts\\Jogador.js"
   }
 }
