@@ -16,24 +16,20 @@ cc.Class({
     },
 
     start: function(){
-        this.node.on("receberInstanciaPool", this.receberInstancia, this);
+        this.node.on("receberInstanciaPool", this.receberInstanciaPool, this);
         let buscarPool = new cc.Event.EventCustom("BuscarInstanciaPoolZumbis", true);
         buscarPool.setUserData({node: this.node});
         this.node.dispatchEvent(buscarPool);
     },
 
-    receberInstancia: function(evento){
+    receberInstanciaPool: function(evento){
         this._pool = evento.detail.instancia;
     },
 
     gerar : function(){
         if(this.possoGerar()){
             let posicao = this.calcularPosicao();
-            let zumbi = this._pool.novoZumbi();
-            if(zumbi != null){
-                zumbi.parent = this.node.parent;
-                zumbi.position = posicao;
-            }
+            this._pool.novoZumbi( this.node.parent, posicao );
         }
     },
 

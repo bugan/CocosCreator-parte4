@@ -385,7 +385,7 @@
     "relativePath": "Prefabs\\Tiro.prefab"
   },
   "66dfbd53-7703-4d8d-995e-f4137a9a904e": {
-    "asset": 1513969733686,
+    "asset": 1514290297185,
     "meta": 1512991334000,
     "relativePath": "Scripts"
   },
@@ -714,11 +714,6 @@
     "meta": 1513886044229,
     "relativePath": "Scripts\\CarregarCena.js"
   },
-  "b89be33c-b32e-4302-8bce-25db9aed4b16": {
-    "asset": 1513885678528,
-    "meta": 1513886044445,
-    "relativePath": "Scripts\\ControleDeAnimacao.js"
-  },
   "9a15eb46-2749-4bf8-b00d-df69a12238d9": {
     "asset": 1513885700741,
     "meta": 1513886044553,
@@ -1004,11 +999,6 @@
     "meta": 1513964311892,
     "relativePath": "Prefabs\\PontoNascimentoChefe.prefab"
   },
-  "90a57ef8-84bd-4339-b40b-7393b274c930": {
-    "asset": 1513965190162,
-    "meta": 1513965193151,
-    "relativePath": "Scripts\\GeradorDeChefes.js"
-  },
   "05bfb91c-e511-43d3-8b0f-a523d1578f80": {
     "asset": 1513965545242,
     "meta": 1513965702197,
@@ -1019,20 +1009,10 @@
     "meta": 1514290297444,
     "relativePath": "Scripts\\LimitadorDeZumbis.js"
   },
-  "60d0f08b-9001-4846-bdbc-e2326328582d": {
-    "asset": 1513967961346,
-    "meta": 1513968011140,
-    "relativePath": "Scripts\\GeradorDeInimigos.js"
-  },
   "b1aa9b76-0c92-4fc3-b652-72d112a01ba7": {
     "asset": 1513969733680,
     "meta": 1513969733759,
     "relativePath": "Scripts\\AjusteZIndex.js"
-  },
-  "db00ef83-28a7-4f8e-9ee9-6a20ef1db437": {
-    "asset": 1514290785887,
-    "meta": 1514290796470,
-    "relativePath": "Scripts\\Inimigo.js"
   },
   "cc245a6d-0909-42ad-987e-0e0c9e546f9d": {
     "asset": 1514290760249,
@@ -1043,5 +1023,25 @@
     "asset": 1514291356182,
     "meta": 1514291360074,
     "relativePath": "Scripts\\Jogador.js"
+  },
+  "b89be33c-b32e-4302-8bce-25db9aed4b16": {
+    "asset": 1514292215909,
+    "meta": 1514292406519,
+    "relativePath": "Scripts\\ControleDeAnimacao.js"
+  },
+  "db00ef83-28a7-4f8e-9ee9-6a20ef1db437": {
+    "asset": 1514379720682,
+    "meta": 1514379825477,
+    "relativePath": "Scripts\\Inimigo.js"
+  },
+  "90a57ef8-84bd-4339-b40b-7393b274c930": {
+    "asset": 1514379867328,
+    "meta": 1514380083233,
+    "relativePath": "Scripts\\GeradorDeChefes.js"
+  },
+  "60d0f08b-9001-4846-bdbc-e2326328582d": {
+    "asset": 1514379991938,
+    "meta": 1514380083236,
+    "relativePath": "Scripts\\GeradorDeInimigos.js"
   }
 }

@@ -13,7 +13,7 @@ cc.Class({
         _direcaoVagar: cc.Vec2,
         _movimentacao: cc.Component,
         _controleAnimacao: cc.Component,
-        _cronometroVagar: cc.Float,
+        _tempoRestanteParaVagar: cc.Float,
         _morto: false,
         _vidaAtual: false,
         _eventoMorte: cc.Event.EventCustom,
@@ -31,27 +31,24 @@ cc.Class({
         this.node.on("SofrerDano", this.sofrerDano, this);
 
         this._direcaoVagar = cc.Vec2.UP;
-        this._cronometroVagar = this.tempoVagar;
+        this._tempoRestanteParaVagar = this.tempoVagar;
 
-        this._vidaAtual = this.vida;
+        this.inicializa();
     },
-    
+
     reuse: function () {
-        this._morto = false;
-        this._atacando = false;
-        this._vidaAtual = this.vida;
-        this.node.emit("atualizarVida", { vidaAtual: this._vidaAtual, vidaMaxima: this.vida });
+        this.inicializa();
     },
 
     update: function (deltaTime) {
-        
+
         if (!this._morto && !this._atacando) {
             let direcaoAlvo = this.alvo.position.sub(this.node.position);
 
             let distancia = direcaoAlvo.mag();
 
             if (distancia < this.distanciaAtaque) {
-                this.iniciarAtaque(direcaoAlvo);            
+                this.iniciarAtaque(direcaoAlvo);
             } else if (distancia < this.distanciaPerseguir) {
                 this.andar(direcaoAlvo);
             } else {
@@ -60,7 +57,14 @@ cc.Class({
         }
     },
 
-    iniciarAtaque: function(direcaoAlvo){
+    inicializa: function () {
+        this._morto = false;
+        this._atacando = false;
+        this._vidaAtual = this.vida;
+        this.node.emit("atualizarVida", { vidaAtual: this._vidaAtual, vidaMaxima: this.vida });
+    },
+
+    iniciarAtaque: function (direcaoAlvo) {
         this._controleAnimacao.mudaAnimacao(direcaoAlvo, "Ataque");
         this._atacando = true;
     },
@@ -77,11 +81,11 @@ cc.Class({
     },
 
     vagar: function (deltaTime) {
-        this._cronometroVagar -= deltaTime;
+        this._tempoRestanteParaVagar -= deltaTime;
 
-        if (this._cronometroVagar < 0) {
+        if (this._tempoRestanteParaVagar < 0) {
             this._direcaoVagar = new cc.Vec2(Math.random() - .5, Math.random() - .5);
-            this._cronometroVagar = this.tempoVagar;
+            this._tempoRestanteParaVagar = this.tempoVagar;
         }
 
         this.andar(this._direcaoVagar);
@@ -106,5 +110,5 @@ cc.Class({
         this.node.emit("SoltarItem");
         this.node.dispatchEvent(this._eventoMorte);
     }
-    
+
 });

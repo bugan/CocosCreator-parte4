@@ -12,11 +12,11 @@ cc.Class({
     },
 
     onLoad() {
-        cc.director.getScene().on("adicionarAoGeradorDoChefe", this.adicionarPonto, this);
+        cc.director.getScene().on("adicionarAoGeradorDoChefe", this.adicionarAoGeradorDoChefe, this);
         this.schedule(this.gerar, this.tempoParaGerar);
     },
 
-    adicionarPonto: function(evento){
+    adicionarAoGeradorDoChefe: function(evento){
         let ponto = evento.getUserData().node;
         this._pontosParaGerar.push(ponto);
     },
@@ -32,15 +32,11 @@ cc.Class({
       
         let maiorDistancia = 0;
         let selecionado = 0;
-        let pontoAtual;
-        let vetorDistancia;
-        let distancia;
+        
         for (let i = 0; i < this._pontosParaGerar.length; i++) {
-            
-            pontoAtual = this._pontosParaGerar[i];
-            
-            vetorDistancia = pontoAtual.position.sub(this.alvo.position);
-            distancia = vetorDistancia.magSqr();
+            let pontoAtual = this._pontosParaGerar[i];
+            let vetorDistancia = pontoAtual.position.sub(this.alvo.position);
+            let distancia = vetorDistancia.magSqr();
             if (distancia > maiorDistancia) {
                 selecionado = i;
                 maiorDistancia = distancia;

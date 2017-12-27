@@ -17,8 +17,8 @@ cc.Class({
         this._animacao = this.getComponent(cc.Animation);
         this._animacao.play("AndarBaixo");
 
-        this._cossenoMinimo = Math.cos( this.grausParaRadianos(90 - this.anguloDiagonal) );
-        this._senoMinimo = Math.sin( this.grausParaRadianos(this.anguloDiagonal) );
+        this._cossenoMinimo = Math.cos( cc.degreesToRadians(90 - this.anguloDiagonal) );
+        this._senoMinimo = Math.sin( cc.degreesToRadians(this.anguloDiagonal) );
 
     },
 
@@ -62,10 +62,5 @@ cc.Class({
         let anguloEmRadianos = Math.atan2(direcao.y, direcao.x);
         return anguloEmRadianos;
     },
-
-    grausParaRadianos : function(anguloEmRadianos){
-        let anguloEmGraus = anguloEmRadianos * (Math.PI / 180);
-        return anguloEmGraus;
-    }
 
 });

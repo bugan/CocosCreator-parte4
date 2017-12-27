@@ -18,12 +18,12 @@ cc.Class({
     },
 
     onLoad: function onLoad() {
-        cc.director.getScene().on("adicionarAoGeradorDoChefe", this.adicionarPonto, this);
+        cc.director.getScene().on("adicionarAoGeradorDoChefe", this.adicionarAoGeradorDoChefe, this);
         this.schedule(this.gerar, this.tempoParaGerar);
     },
 
 
-    adicionarPonto: function adicionarPonto(evento) {
+    adicionarAoGeradorDoChefe: function adicionarAoGeradorDoChefe(evento) {
         var ponto = evento.getUserData().node;
         this._pontosParaGerar.push(ponto);
     },

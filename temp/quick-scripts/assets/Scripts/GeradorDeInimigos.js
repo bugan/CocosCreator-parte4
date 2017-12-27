@@ -22,13 +22,13 @@ cc.Class({
     },
 
     start: function start() {
-        this.node.on("receberInstanciaPool", this.receberInstancia, this);
+        this.node.on("receberInstanciaPool", this.receberInstanciaPool, this);
         var buscarPool = new cc.Event.EventCustom("BuscarInstanciaPoolZumbis", true);
         buscarPool.setUserData({ node: this.node });
         this.node.dispatchEvent(buscarPool);
     },
 
-    receberInstancia: function receberInstancia(evento) {
+    receberInstanciaPool: function receberInstanciaPool(evento) {
         this._pool = evento.detail.instancia;
     },
 
