@@ -35,11 +35,7 @@ cc.Class({
     gerar: function gerar() {
         if (this.possoGerar()) {
             var posicao = this.calcularPosicao();
-            var zumbi = this._pool.novoZumbi();
-            if (zumbi != null) {
-                zumbi.parent = this.node.parent;
-                zumbi.position = posicao;
-            }
+            this._pool.novoZumbi(this.node.parent, posicao);
         }
     },
 

@@ -39,15 +39,11 @@ cc.Class({
 
         var maiorDistancia = 0;
         var selecionado = 0;
-        var pontoAtual = void 0;
-        var vetorDistancia = void 0;
-        var distancia = void 0;
+
         for (var i = 0; i < this._pontosParaGerar.length; i++) {
-
-            pontoAtual = this._pontosParaGerar[i];
-
-            vetorDistancia = pontoAtual.position.sub(this.alvo.position);
-            distancia = vetorDistancia.magSqr();
+            var pontoAtual = this._pontosParaGerar[i];
+            var vetorDistancia = pontoAtual.position.sub(this.alvo.position);
+            var distancia = vetorDistancia.magSqr();
             if (distancia > maiorDistancia) {
                 selecionado = i;
                 maiorDistancia = distancia;

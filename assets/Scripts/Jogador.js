@@ -14,6 +14,7 @@ cc.Class({
         _audioTiro: cc.AudioSource,
         _eventoAlteraVida: cc.Event.EventCustom,
         _eventoMorreu: cc.Event.EventCustom,
+        _direcaoMouse: cc.Vec2,
     },
 
     onLoad: function () {
@@ -22,27 +23,35 @@ cc.Class({
         this._audioTiro = this.getComponent(cc.AudioSource);
         this._canvas = cc.find("Canvas");
         this._canvas.on("mousedown", this.atirar, this);
-        this._canvas.on("mousemove", this.mudarDirecaoDaAnimacao, this);
+        this._canvas.on("mousemove", this.calcularDirecaoMouse, this);
         this.node.on("SofreDano", this.sofrerDano, this);
         this.node.on("RecuperarVida", this.recuperarVida, this);
         this._vidaAtual = this.vidaMaxima;
         this._eventoAlteraVida = new cc.Event.EventCustom("JogadoraPerdeuVida", true);
         this._eventoMorreu = new cc.Event.EventCustom("JogoAcabou", true);
         this._posicaoTiro = this.node.children[0];
+        this._direcaoMouse = cc.Vec2.UP.mul(-1);
     },
 
     update: function (deltaTime) {
         this.verificarTeclado();
         this.andar();
-       
+        this.atualizarAnimacao();
+
     },
 
-    andar : function(){
-        this._movimentacao.setDirecao(this._direcao);
-        this._movimentacao.andarPraFrente();
+    andar: function () {
+        if (this._direcao.mag() != 0) {
+            this._movimentacao.setDirecao(this._direcao);
+            this._movimentacao.andarPraFrente();  
+        }
+    },
+
+    atualizarAnimacao: function(){
+        this._controleAnimacao.mudaAnimacao(this._direcaoMouse, this.estadoAtual());
     },
     
-    verificarTeclado : function(){
+    verificarTeclado: function () {
         this._direcao = cc.Vec2.ZERO;
 
         if (Teclado.estaPressionada(cc.KEY.a)) {
@@ -69,7 +78,7 @@ cc.Class({
         }
     },
 
-    recuperarVida : function(evento){
+    recuperarVida: function (evento) {
         this._vidaAtual += parseFloat(evento.detail.cura);
         this._vidaAtual = Math.min(this._vidaAtual, this.vidaMaxima);
         this.dispararEventos(this._eventoAlteraVida, { vidaAtual: this._vidaAtual, vidaMaxima: this.vidaMaxima });
@@ -80,15 +89,14 @@ cc.Class({
         this.node.dispatchEvent(evento);
     },
 
-    mudarDirecaoDaAnimacao: function (event) {
-        let direcao = this.calcularDirecaoMouse(event);
+    estadoAtual: function(){
         let estado;
         if (this._direcao.mag() == 0) {
             estado = "Parado";
         } else {
             estado = "Andar";
         }
-        this._controleAnimacao.mudaAnimacao(direcao, estado);
+        return estado;
     },
 
     calcularDirecaoMouse: function (event) {
@@ -97,16 +105,13 @@ cc.Class({
         posicaoMouse = this._canvas.convertToNodeSpaceAR(posicaoMouse);
         let posicaoJogadora = cc.Camera.main.node.convertToNodeSpaceAR(this.node.position);
 
-        let direcao = posicaoMouse.sub(posicaoJogadora);
-        return direcao;
+        this._direcaoMouse = posicaoMouse.sub(posicaoJogadora);
     },
 
     atirar: function (event) {
         let disparo = cc.instantiate(this.tiro);
-        let direcao = this.calcularDirecaoMouse(event);
-        disparo.getComponent("Tiro").iniciliza(this.node.parent, this.node.position.add(this._posicaoTiro.position), direcao);
-
+        disparo.getComponent("Tiro").iniciliza(this.node.parent, this.node.position.add(this._posicaoTiro.position), this._direcaoMouse);
         this._audioTiro.play();
     },
-    
+
 });

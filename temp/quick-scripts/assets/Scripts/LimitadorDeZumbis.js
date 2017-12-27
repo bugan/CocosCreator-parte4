@@ -30,8 +30,12 @@ cc.Class({
         outroNode.emit("receberInstanciaPool", { instancia: this });
     },
 
-    novoZumbi: function novoZumbi() {
-        return this._pool.get();
+    novoZumbi: function novoZumbi(pai, posicao) {
+        var zumbi = this._pool.get();
+        if (zumbi != null) {
+            zumbi.parent = pai;
+            zumbi.position = posicao;
+        }
     },
 
     devolverZumbi: function devolverZumbi(evento) {
